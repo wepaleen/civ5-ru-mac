@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM">
+      <Text>Террасное поле</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

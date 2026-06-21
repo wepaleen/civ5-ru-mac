@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_ADJECTIVE">
+			<Text>Бельгийский</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_DESC">
+			<Text>Бельгия</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_SHORT_DESC">
+			<Text>Бельгия</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ROME_ADJECTIVE">
+			<Text>Итальянский</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ROME_DESC">
+			<Text>Италия</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ROME_SHORT_DESC">
+			<Text>Италия</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_ADJECTIVE">
+			<Text>Бурский</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_DESC">
+			<Text>Буры</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_SHORT_DESC">
+			<Text>Буры</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

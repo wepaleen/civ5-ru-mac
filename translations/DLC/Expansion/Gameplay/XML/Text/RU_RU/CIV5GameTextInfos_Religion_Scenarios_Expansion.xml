@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY">
+			<Text>Римский католицизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
+			<Text>Восточное православие</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
+			<Text>Протестантизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHURCH_PROPERTY_SHORT">
+			<Text>Патриархаты</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_ITINERANT_PREACHERS_SHORT">
+			<Text>Апостолы славян</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_TITHE_SHORT">
+			<Text>Закят</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MISSIONARY_ZEAL_SHORT">
+			<Text>Даава</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MESSIAH_SHORT">
+			<Text>Реформаторы</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_RELIGIOUS_TEXTS_SHORT">
+			<Text>Переводы Библии</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_INDULGENCES_SHORT">
+			<Text>Индульгенции</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_THIRD_ROME_SHORT">
+			<Text>Третий Рим</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY_SHORT">
+			<Text>Иконография</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HAJJ_SHORT">
+			<Text>Хадж</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SALAT_SHORT">
+			<Text>Салят</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC_SHORT">
+			<Text>Трудовая этика</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE_SHORT">
+			<Text>Брак духовенства</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_TITLE">
+			<Text>Аналоговые вычисления</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_TITLE">
+			<Text>Аналитическая машина</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_TITLE">
+			<Text>Экономический империализм</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_TITLE">
+			<Text>Движение</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_TITLE">
+			<Text>Взрывчатые вещества</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_TITLE">
+			<Text>Экспедиция</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_TITLE">
+			<Text>Вертикальная интеграция</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_TITLE">
+			<Text>Сухопутные корабли</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_TITLE">
+			<Text>Noblesse Oblige</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_TITLE">
+			<Text>Дирижабли</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_TITLE">
+			<Text>Адское горение</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_TITLE">
+			<Text>Евангелие богатства</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_TITLE">
+			<Text>Автоматоны</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_TITLE">
+			<Text>Уранография</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_TITLE">
+			<Text>Гальваномагнетизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_TITLE">
+			<Text>Гражданская оборона</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_TITLE">
+			<Text>Сухопутный левиафан</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_TITLE">
+			<Text>Небесная крепость</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_TITLE">
+			<Text>Вечное движение</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_TITLE">
+			<Text>Подземная разведка</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_TITLE">
+			<Text>Технократия</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_TITLE">
+			<Text>Великая идея</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

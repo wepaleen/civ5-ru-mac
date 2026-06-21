@@ -1,0 +1,6 @@
+.DS_Store
+.serena/
+*.dmg
+*.fpk
+out/
+in/

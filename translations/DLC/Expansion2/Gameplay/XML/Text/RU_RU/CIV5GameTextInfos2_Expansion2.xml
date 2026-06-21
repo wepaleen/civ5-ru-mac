@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+			<Text>Этот юнит и все остальные на соседних клетках [COLOR_POSITIVE_TEXT]восстанавливают на 15 HP больше[ENDCOLOR] за ход.</Text>
+		</Row>
+<Row Tag="TXT_KEY_ACTION_AUTOMATE_TRADE">
+			<Text>Торговля (автоматически)</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL">
+			<Text>Вы вернули свою [ICON_CAPITAL] столицу!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_ADD_REFORMATION_BELIEF">
+			<Text>Вы приняли общественный институт Реформации и теперь можете добавить верование к своей религии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ADD_REFORMATION_BELIEF">
+			<Text>ДОБАВИТЬ ВЕРОВАНИЕ РЕФОРМАЦИИ</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_SUMMARY">
+			<Text>Торговый путь разграблен</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_KNOWN">
+			<Text>{1_PlayerName} разграбил торговый путь, который вы установили между {2_CityName} и {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_UNKNOWN">
+			<Text>Неизвестный игрок разграбил торговый путь, который вы установили между {1_CityName} и {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_BARBARIAN">
+			<Text>Грязные варвары разграбили торговый путь, который вы установили между {1_CityName} и {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_SUMMARY">
+			<Text>Дружественный торговый путь разграблен</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_KNOWN">
+			<Text>{1_PlayerName} разграбил торговый путь, который {2_PlayerName} установил между {3_CityName} и {4_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_UNKNOWN">
+			<Text>Неизвестный игрок разграбил торговый путь, который {1_PlayerName} установил между {2_CityName} и {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_BARBARIANS">
+			<Text>Варвары разграбили торговый путь, который {1_PlayerName} установил между {2_CityName} и {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL">
+			<Text>Первая влиятельная культура</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_TT">
+			<Text>{1_CivName} {1_CivName: plural 1?является; other?являются;} первой цивилизацией, достигшей культуры, оказывающей Влияние на другого игрока.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_UNMET_INFLUENTIAL_TT">
+			<Text>Неизвестная цивилизация является первой, достигшей культуры, оказывающей Влияние на другого игрока.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL">
+			<Text>Влияние утрачено</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL_TT">
+			<Text>Ваша культура больше не оказывает Влияния на одну или несколько цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_ACTIVE_PLAYER_TT">
+			<Text>Вы - первая цивилизация, достигшая культуры, оказывающей Влияние на другого игрока.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER">
+			<Text>Культурная победа близка</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER_TT">
+			<Text>Вашей культуре нужно стать Влиятельной лишь для еще 1 цивилизации, чтобы одержать Культурную победу!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE">
+			<Text>Угроза культурной победы</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_TT">
+			<Text>{1_CivName} нужно, чтобы их культура стала Влиятельной лишь для еще 1 цивилизации, чтобы одержать Культурную победу!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_UNMET_TT">
+      <Text>Неизвестной цивилизации нужно, чтобы их культура стала Влиятельной лишь для еще 1 цивилизации, чтобы одержать Культурную победу!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER">
+			<Text>Культурная победа достижима</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER_TT">
+			<Text>Вашей культуре нужно стать Влиятельной лишь для еще 2 цивилизаций, чтобы одержать Культурную победу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO">
+			<Text>Претендент на культурную победу</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_TT">
+			<Text>{1_CivName} нужно, чтобы их культура стала Влиятельной лишь для еще 2 цивилизаций, чтобы одержать Культурную победу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_UNMET_TT">
+      <Text>Неизвестной цивилизации нужно, чтобы их культура стала Влиятельной лишь для еще 2 цивилизаций, чтобы одержать Культурную победу.</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_GALLEASS">
+			<Text>Чрезвычайно мощный морской юнит Средневековой эпохи, созданный для завоевания господства на море благодаря дальнобойной атаке. Превосходит обычную Галеасс, которую заменяет, в атаке и защите, но стоит дороже. Может быть построен только Венецией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_PATHFINDER">
+			<Text>Отличный разведчик и грозный боец - уникальный юнит шошонов, заменяющий Разведчика. Обладает повышением, позволяющим самостоятельно выбирать награду при обнаружении древних руин.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_COMANCHE_RIDERS">
+			<Text>Конный юнит, специализирующийся на стремительных атаках. Может быть построен только шошонами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_INDONESIAN_KRIS_SWORDSMAN">
+			<Text>Пехотный юнит Классической эпохи с мистическим оружием, чьи способности раскрываются в первом бою. Может быть построен только Индонезией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_BAZOOKA">
+			<Text>Дальнобойный юнит Атомной эпохи, который должен находиться вплотную к врагу для нанесения удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_AXMAN">
+			<Text>Замена варварам для Колесничного лучника.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
+			<Text>Археологи - особый подвид Рабочего, предназначенный для раскопок Мест древности с целью создания улучшений Достопримечательность или извлечения Артефактов для заполнения слотов Великих произведений искусства в Музеях, Дворцах, Эрмитажах и отдельных Чудесах света. Археологи могут работать на территории любого игрока. После завершения Археологических раскопок на Месте древности они расходуются. Археологов нельзя приобрести за [ICON_GOLD] Золото - их можно построить только в городе с Университетом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
+			<Text>Специализируется на уничтожении Рыцарей и других конных юнитов. Может быть построен только зулусами. Также выполняет дальнобойную атаку первого удара перед вступлением в бой.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
+			<Text>Мощный осадный юнит ближнего боя, дающий находящимся рядом юнитам бонус к атаке города, когда стоит вплотную к вражескому городу. Может быть построен только ассирийцами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
+			<Text>Пехотный юнит Современной эпохи, получающий очки [ICON_GOLDEN_AGE] Золотого века при уничтожении врагов. Может быть построен только Бразилией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
+			<Text>Этот юнит значительно дешевле Пикинера и может грабить без затрат очков передвижения. Похищает золото при атаке города. Открывается через общественный институт "Наемная армия" - эти юниты нельзя строить; их нужно покупать за золото. Может двигаться сразу после покупки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
+			<Text>Тяжелый конный юнит, специализирующийся на уничтожении вражеских конных юнитов. Быстрее и мощнее Улана, которого заменяет. Вынуждает защитника отступить, если наносит больше урона, чем получает. Может быть построен только поляками.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
+			<Text>Морской юнит ближнего боя, превосходящий в исследовании морей. Имеет больше [ICON_MOVES] Передвижения, чем Каравелла, которую заменяет, и может однократно использовать способность рядом с чужими землями для получения [ICON_GOLD] Золота и опыта. Может быть построен только португальцами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
+			<Text>Сильный пехотный юнит, способный десантироваться на расстояние до 9 клеток от дружественной территории. Десантник также может двигаться и грабить после приземления, но не может вступать в бой до следующего хода.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_SAMURAI">
+			<Text>Мощный пехотный юнит Средневековой эпохи. Может быть построен только японцами. Сражается эффективнее и способствует более быстрому появлению Великих полководцев, чем Длинный мечник, которого заменяет. Самураи на судне могут строить Рыбачьи лодки за один ход, не расходуясь (что делает их полезными даже в мирное время).</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_PARATROOPER_STRATEGY">
+			<Text>Десантник - пехотинец поздней игры. Он несколько слабее механизированной пехоты, однако может десантироваться на расстояние до 9 клеток (стартуя с дружественной территории). Это позволяет ему буквально перепрыгивать через вражеские позиции и уничтожать дорожные сети, грабить жизненно важные ресурсы и т.д., сея хаос в тылу противника. На подобных заданиях Десантник крайне уязвим - убедитесь, что цель того стоит!</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_BERBER_CAVALRY">
+			<Text>Конный юнит, специализирующийся на войне в пустыне и защите марокканских земель. Получает боевые бонусы как при бое на клетках Пустыни, так и на марокканской территории. Может быть построен только Марокко.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
+			<Text>Устанавливает морские Торговые пути между двумя цивилизациями, приносящие [ICON_GOLD] Золото. Также может использоваться для доставки [ICON_FOOD] Пищи или [ICON_PRODUCTION] Производства в пределах ваших границ после постройки Амбара или Мастерской.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_CARAVAN">
+			<Text>Устанавливает сухопутные Торговые пути между двумя цивилизациями, приносящие [ICON_GOLD] Золото. Также может использоваться для доставки [ICON_FOOD] Пищи или [ICON_PRODUCTION] Производства в пределах ваших границ после постройки Амбара или Мастерской.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_XCOM_SQUAD">
+			<Text>Футуристический пехотный юнит, умело десантирующийся в горячие точки из любой точки мира. Отряд может двигаться и грабить после высадки, но не может вступать в бой до следующего хода.[NEWLINE][NEWLINE][COLOR_CYAN]Удачи, командир![ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
+			<Text>Особый пехотный юнит Современной эпохи. Может быть получен только при принятии принципа "Армия добровольцев" Идеологии Свободы. Этот юнит имеет боевой бонус за пределами дружественной территории, в остальном очень похож на Пехоту Великой войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_ZERO">
+			<Text>Воздушный юнит, созданный для завоевания господства в небе и перехвата вражеских самолетов. Может быть построен только японцами. Этот юнит имеет бонус против других Истребителей и не требует Нефти.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_MERCHANT">
+			<Text>Этот уникальный Великий человек Венеции заменяет Великого торговца. Помимо возможности проведения Торговой миссии, Купец Венеции может полностью выкупить Город-государство, поставив его под контроль Венеции в качестве марионетки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GP_MUSICIAN_DETAILS">
+			<Text>[ICON_PLUS] Великие музыканты</Text>
+		</Row>
+<Row Tag="TXT_KEY_GP_MUSICIAN_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] Великие музыканты</Text>
+		</Row>
+<Row Tag="TXT_KEY_GP_WRITER_DETAILS">
+			<Text>[ICON_PLUS] Великие писатели</Text>
+		</Row>
+<Row Tag="TXT_KEY_GP_WRITER_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] Великие писатели</Text>
+		</Row>
+<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PLUS_PILLAGE_UPSET">
+			<Text>Это означает ВОЙНУ?!? (против {1_Team})[NEWLINE]Это также разозлит {2_Team}, потому что вы грабите торговый путь, связанный с ними.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POPUP_PLUNDER_WARNING">
+			<Text>Разграбление этого торгового пути разозлит {1_Team}, так как он соединен с их городом. Вы действительно хотите разграбить торговый путь и вызвать их недовольство?</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE">
+			<Text>Разграбить торговый путь</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK">
+			<Text>Создать великое произведение</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS">
+			<Text>Продать экзотические товары</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_GIVE_POLICIES">
+			<Text>Написать политический трактат</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM">
+			<Text>Провести концертный тур</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_BUY_CITY_STATE">
+			<Text>Купить город-государство</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_BUY_CITY_STATE_HELP">
+			<Text>Купец Венеции использует свое огромное состояние, чтобы выкупить город-государство и поставить его под контроль Венеции в качестве марионеточного города. Вы получаете контроль над всеми существующими юнитами малой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_BUY_CITY_STATE_DISABLED_HELP">
+			<Text>Юнит должен находиться на территории города-государства, с которым вы не находитесь в состоянии войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
+			<Text>Используйте [ICON_PEACE] Веру для покупки Соборов (+1 [ICON_PEACE] Вера, +1 [ICON_CULTURE] Культура, +1 [ICON_HAPPINESS_1] Довольство, 1 слот Великого произведения искусства)</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
+			<Text>Религия распространяется на 25% быстрее (на 50% при наличии Печатного станка)</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE_WITH_TRADE">
+			<Text>{1_ReligionIcon} {2_NumFollowers} последователей {3_PressureString} ({4_Num} торговых пути)</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_WARRIOR">
+			<Text>Завербовать Воина из затерянного племени.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_POPULATION">
+			<Text>Убедить оставшееся население присоединиться к одному из ваших городов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_CULTURE">
+			<Text>Использовать контакт с затерянным племенем для развития вашей [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_REVEAL_NEARBY_BARBS">
+			<Text>Использовать сведения от племени для поиска ближайших варварских лагерей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_GOLD">
+			<Text>Поторговать с затерянным племенем за [ICON_GOLD] Золото.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_MAP">
+			<Text>Взглянуть на их карты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_TECH">
+			<Text>Изучить их инструменты и открыть новую технологию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_REVEAL_RESOURCE">
+			<Text>Попросить указать путь к ближайшему ресурсу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_UPGRADE_UNIT">
+			<Text>Использовать снаряжение племени для улучшения вашего юнита.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_BARBARIANS">
+			<Text>Объяснить этим людям, что они варвары. Многократно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_SETTLER">
+			<Text>Убедить затерянное племя стать Поселенцем для вашей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_SCOUT">
+			<Text>Убедить затерянное племя стать Разведчиком для вашей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_WORKER">
+			<Text>Убедить затерянное племя стать Рабочим для вашей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_EXPERIENCE">
+			<Text>Пройти обучение у затерянного племени, чтобы ваш юнит получил опыт.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_HEALING">
+			<Text>Выпить туземные снадобья для восстановления вашего юнита.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_FAITH">
+			<Text>Изучить религию затерянного племени.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOODY_CHOOSE_PROPHET_FAITH">
+			<Text>Обнаружить Великого пророка!</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_ESTABLISH_TRADE_ROUTE">
+			<Text>Установить торговый путь</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_ESTABLISH_TRADE_ROUTE_HELP">
+			<Text>Установить торговый путь с помощью этого юнита из данного города в другой город.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CHANGE_TRADE_UNIT_HOME_CITY">
+			<Text>Сменить родной город</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CHANGE_TRADE_UNIT_HOME_CITY_HELP">
+			<Text>Изменить родной город данного торгового юнита. Он прибудет в другой город на следующем ходу. Это позволяет ему прокладывать торговые пути из нового родного города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CHANGE_ADMIRAL_PORT">
+      <Text>Перебраться в новый порт</Text>
+    </Row>
+<Row Tag="TXT_KEY_MISSION_CHANGE_ADMIRAL_PORT_HELP">
+      <Text>Переместить этого Адмирала в другой портовый город под вашим контролем. Он сможет покинуть новый порт на следующем ходу.</Text>
+    </Row>
+<Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_IMPROVEMENT_REBUILD_WARN_TRADE_ROUTE">
+			<Text>Вы уверены, что хотите {@1_ActionName}?[NEWLINE]Текущее улучшение клетки будет заменено, и связь с городом может быть разорвана.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
+			<Text>+2 [ICON_RESEARCH] Науки в городах с [ICON_CONNECTED] Городской связью</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
+			<Text>Исследование</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SAPPER">
+			<Text>Сапер</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SAPPER_HELP">
+			<Text>Рядом с вражеским городом другие юниты в радиусе 2 клеток получают бонус 50% при атаке города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II">
+			<Text>Бонус против городов (250)</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II_HELP">
+			<Text>+250% бонус против городов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS">
+			<Text>Золотой век за победы</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS_HELP">
+			<Text>Получайте очки Золотого века за каждого уничтоженного врага.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL_HELP">
+			<Text>+3 [ICON_MOVES] Передвижения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_NATIONALISM">
+			<Text>Отечественная война</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_BUFFALO_HORNS_HELP">
+			<Text>+1 Передвижение. Бонус фланговой атаки увеличен на 25%. +10% [COLOR_POSITIVE_TEXT]Защита[ENDCOLOR] от всех [COLOR_POSITIVE_TEXT]Дальнобойных атак[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST_HELP">
+			<Text>+10% [ICON_STRENGTH] Боевой мощи при бое на [COLOR_POSITIVE_TEXT]ОТКРЫТОЙ[ENDCOLOR] местности (без Холмов, Лесов и Джунглей). Бонус фланговой атаки увеличен на 25%. +10% [COLOR_POSITIVE_TEXT]Защита[ENDCOLOR] от всех [COLOR_POSITIVE_TEXT]Дальнобойных атак[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_BUFFALO_LOINS_HELP">
+			<Text>+10% [ICON_STRENGTH] Боевой мощи. Бонус фланговой атаки увеличен на 25%. +10% [COLOR_POSITIVE_TEXT]Защита[ENDCOLOR] от всех [COLOR_POSITIVE_TEXT]Дальнобойных атак[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS_HELP">
+			<Text>+100% [ICON_GOLD] Золота и +100% влияния на город-государство по сравнению с обычной Торговой миссией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HEAVY_CHARGE_HELP">
+			<Text>Вынуждает защитника отступить, если наносит ему больше урона, чем получает сам. Защитник, которому некуда отступить, получает дополнительный урон.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ANTI_GUNPOWDER_HELP">
+			<Text>Перед вступлением в ближний бой этот юнит совершает дополнительную атаку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST">
+			<Text>Грудь бизона</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_BUFFALO_HORNS">
+			<Text>Рога бизона</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_BUFFALO_LOINS">
+			<Text>Мощь бизона</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS">
+			<Text>Бонус торговой миссии</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HEAVY_CHARGE">
+			<Text>Тяжелый натиск</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ANTI_GUNPOWDER">
+			<Text>Бросок копья</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN">
+			<Text>Страж отечества</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_HELP">
+			<Text>+25% бонус в бою на своей территории</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_BOOGALOO">
+			<Text>Гордость предков</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_BOOGALOO_HELP">
+			<Text>+15% бонус в бою на своей территории</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR">
+			<Text>Воин пустыни</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR_HELP">
+			<Text>+50% [ICON_STRENGTH] Боевой мощи при бое в [COLOR_POSITIVE_TEXT]Пустыне[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER">
+			<Text>Удар полной луны</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER_HELP">
+			<Text>+1 Передвижение</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER">
+			<Text>Родной язык</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER_HELP">
+			<Text>Может выбирать награду при обнаружении Древних руин.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING">
+			<Text>Высокогорная подготовка</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING_HELP">
+			<Text>Удвоенное передвижение по холмам. +10% [ICON_STRENGTH] Боевой мощи при бое на [COLOR_POSITIVE_TEXT]Холмах[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE">
+			<Text>Мистический клинок</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE_HELP">
+			<Text>После первого боя повышение заменяется случайно выбранным новым повышением</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_INVULNERABIILITY">
+			<Text>Неуязвимость</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_INVULNERABIILITY_HELP">
+			<Text>+30% боевой бонус при защите. +20 HP при восстановлении</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SNEAK_ATTACK">
+			<Text>Внезапная атака</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SNEAK_ATTACK_HELP">
+			<Text>Бонус фланговой атаки увеличен на 50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HEROISM">
+			<Text>Героизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_HEROISM_HELP">
+			<Text>Юнит дает соседним юнитам боевой бонус, как если бы он был Великим полководцем</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_AMBITION">
+			<Text>Честолюбие</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_AMBITION_HELP">
+			<Text>+50% боевой бонус при атаке. -20% штраф при защите</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_RESTLESSNESS">
+			<Text>Беспокойство</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_RESTLESSNESS_HELP">
+			<Text>Может атаковать дважды. +1 [ICON_MOVES] Передвижение</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT">
+			<Text>Вербовка</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_HELP">
+			<Text>Полностью восстанавливает здоровье при уничтожении небарбарского юнита</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE">
+			<Text>Вражеский клинок</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE_HELP">
+			<Text>Получает 20 урона, если заканчивает ход на вражеской территории</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_EVIL_SPIRITS">
+			<Text>Злые духи</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_EVIL_SPIRITS_HELP">
+			<Text>-10% штраф при атаке. -30% штраф при защите</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_EXTENDED_PARADROP">
+			<Text>Небесный рейнджер</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_EXTENDED_PARADROP_HELP">
+			<Text>Может десантироваться с парашютом на увеличенную дальность (40 клеток)</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE">
+			<Text>Молниеносная война</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_HELP">
+			<Text>+15% бонус к Боевой мощи при атаке. +1 [ICON_MOVES] Передвижение. Игнорирует зоны контроля противника.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1">
+			<Text>Волчья стая I</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1_HELP">
+			<Text>+25% бонус к Боевой мощи при атаке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_2">
+			<Text>Волчья стая II</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_2_HELP">
+			<Text>+25% бонус к Боевой мощи при атаке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_3">
+			<Text>Волчья стая III</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_3_HELP">
+			<Text>+25% бонус к Боевой мощи при атаке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_1">
+			<Text>Полетная палуба I</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_1_HELP">
+			<Text>Может перевозить на 1 дополнительный авиационный юнит.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_2">
+			<Text>Полетная палуба II</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_2_HELP">
+			<Text>Может перевозить на 1 дополнительный авиационный юнит.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_3">
+			<Text>Полетная палуба III</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_3_HELP">
+			<Text>Может перевозить на 1 дополнительный авиационный юнит.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_1">
+			<Text>Бронирование I</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_1_HELP">
+			<Text>+25% бонус к Боевой мощи при защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_2">
+			<Text>Бронирование II</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_2_HELP">
+			<Text>+25% бонус к Боевой мощи при защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_3">
+			<Text>Бронирование III</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_3_HELP">
+			<Text>+25% бонус к Боевой мощи при защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS">
+			<Text>Экзотический груз</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS_HELP">
+			<Text>Может продавать экзотические товары, находясь рядом с иностранной клеткой, получая [ICON_GOLD] Золото и опыт в зависимости от расстояния до столицы, но только один раз.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER">
+			<Text>Разграбление города</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER_HELP">
+			<Text>Похищает [ICON_GOLD] Золото в размере 100% от нанесенного городу урона.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
+			<Text>Позволяет осуществлять переброску воздухом в этот город или из него. [COLOR_POSITIVE_TEXT]Увеличивает вместимость авиационных юнитов в городе с 6 до 10.[ENDCOLOR] 50% [ICON_CULTURE] Культуры от Чудес света, природных чудес и Улучшений (Достопримечательностей, Моаи, Шато) добавляется к выработке [ICON_TOURISM] Туризма города. Выработка [ICON_TOURISM] Туризма от Великих произведений +50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
+			<Text>Дает 2 [ICON_GREAT_PEOPLE] Очка великого человека (ОВЧ) к Великому художнику. Добавьте до двух специалистов в это здание, чтобы получать [ICON_CULTURE] Культуру и ускорить появление Великого художника (3 [ICON_CULTURE] Культуры и 3 [ICON_GREAT_PEOPLE] ОВЧ за специалиста).</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
+			<Text>Предоставляет 1 дополнительную копию каждого улучшенного ресурса роскоши вблизи этого Города. Каждый источник [ICON_RES_OIL] Нефти и каждый Оазис дают +2 [ICON_GOLD] Золота. Торговые пути, которые другие игроки прокладывают в город с Базаром, приносят дополнительно 1 [ICON_GOLD] Золота владельцу города, а владелец торгового пути получает дополнительно 1 [ICON_GOLD] Золота за торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
+			<Text>Уникальная индонезийская замена Сада. +25% к производству [ICON_GREAT_PEOPLE] Великих людей в этом Городе и +2 [ICON_PEACE] Веры за каждую мировую Религию, имеющую хотя бы 1 последователя в городе.[NEWLINE][NEWLINE]В отличие от Сада, Канди не обязательно строить рядом с рекой или озером.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CARAVANSARY_HELP">
+			<Text>Наземные торговые пути, исходящие из этого города, имеют дальность на 50% больше и приносят дополнительно 2 [ICON_GOLD] Золота при соединении с другой цивилизацией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
+			<Text>Уникальная польская замена Конюшни. +15% [ICON_PRODUCTION] Производства и +15 XP для конных юнитов.[NEWLINE][NEWLINE]Каждое Пастбище, обрабатываемое этим Городом, дает +1 [ICON_PRODUCTION] Производства и +1 [ICON_GOLD] Золота.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
+			<Text>Каждый источник [ICON_RES_WHEAT] Пшеницы, [ICON_RES_BANANA] Бананов и [ICON_RES_DEER] Оленей, обрабатываемый этим Городом, дает +1 [ICON_FOOD] Пищи.[NEWLINE][NEWLINE]Позволяет перемещать [ICON_FOOD] Пищу из этого города по торговым путям внутри вашей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HANSE_HELP">
+			<Text>Уникальная немецкая замена Банка. +5% [ICON_PRODUCTION] Производства за каждый Торговый путь вашей цивилизации с Городом-государством. Торговые пути, которые другие игроки прокладывают в город с Гансой, приносят дополнительно 1 [ICON_GOLD] Золота владельцу города, а владелец торгового пути получает дополнительно 1 [ICON_GOLD] Золота за торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PRODMOD_YIELD_HANSE">
+			<Text>[NEWLINE][ICON_BULLET]Модификатор для Гансы: {1_Num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HARBOR_HELP">
+			<Text>Создает [ICON_CONNECTED] Городское соединение со [ICON_CAPITAL] Столицей по воде (если они еще не [ICON_CONNECTED] соединены по суше). Морские торговые пути, исходящие из этого города, имеют дальность на 50% больше и приносят дополнительно 1 [ICON_GOLD] Золота при соединении с другой цивилизацией.[NEWLINE][NEWLINE]Город должен быть построен на побережье.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HOTEL_HELP">
+			<Text>50% [ICON_CULTURE] Культуры от Чудес света, природных чудес и Улучшений (Достопримечательностей, Моаи, Шато) добавляется к выработке [ICON_TOURISM] Туризма города. Выработка [ICON_TOURISM] Туризма от Великих произведений +50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
+			<Text>Уникальная зулусская замена Казарм. Предоставляет уникальные повышения дострелковым рукопашным юнитам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
+			<Text>+1 [ICON_FOOD] Пищи с клеток Побережья и Океана. +1 [ICON_PRODUCTION] Производства с морских ресурсов, обрабатываемых этим Городом.[NEWLINE][NEWLINE]Каждый источник [ICON_RES_FISH] Рыбы, обрабатываемый этим Городом, дает +1 [ICON_FOOD] Пищи.[NEWLINE][NEWLINE]Город должен быть построен на побережье.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD_HELP">
+			<Text>Дает 3 [ICON_GREAT_PEOPLE] Очка великого человека (ОВЧ) к Великому музыканту. Добавьте до двух специалистов в это здание, чтобы получать [ICON_CULTURE] Культуру и ускорить появление Великого музыканта (3 [ICON_CULTURE] Культуры и 3 [ICON_GREAT_PEOPLE] ОВЧ за специалиста).</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
+			<Text>Необходимо построить Рынок во всех Городах. Стоимость растет с увеличением числа городов в Империи. Торговые пути, которые другие игроки прокладывают в город с Ост-Индской компанией, приносят дополнительно 4 [ICON_GOLD] Золота владельцу города, а владелец торгового пути получает дополнительно 2 [ICON_GOLD] Золота за торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
+			<Text>Уникальная ассирийская замена Библиотеки. +1 [ICON_RESEARCH] Науки за каждые 2 [ICON_CITIZEN] Жителя в этом Городе. Также имеет слот для Великого произведения письменности, который при заполнении дает дополнительный опыт обученным юнитам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_HELP">
+			<Text>Город должен иметь Рынок. Торговые пути, которые другие игроки прокладывают в город с Двором сатрапа, приносят дополнительно 1 [ICON_GOLD] Золота владельцу города, а владелец торгового пути получает дополнительно 1 [ICON_GOLD] Золота за торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
+			<Text>Необходимо построить Отель во всех Городах. Стоимость растет с увеличением числа городов в Империи. 100% [ICON_CULTURE] Культуры от Чудес света, природных чудес и Улучшений (Достопримечательностей, Моаи, Шато) добавляется к выработке [ICON_TOURISM] Туризма города. Выработка [ICON_TOURISM] Туризма от Великих произведений +100%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
+			<Text>+2 [ICON_RESEARCH] Науки с клеток Джунглей, обрабатываемых этим Городом. Позволяет строить Археологов в этом городе.[NEWLINE][NEWLINE]Город должен иметь Библиотеку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_WORKSHOP_HELP">
+			<Text>Позволяет перемещать [ICON_PRODUCTION] Производство из этого города по торговым путям внутри вашей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD_HELP">
+			<Text>Дает 1 [ICON_GREAT_PEOPLE] Очко великого человека (ОВЧ) к Великому писателю. Добавьте до двух специалистов в это здание, чтобы получать [ICON_CULTURE] Культуру и ускорить появление Великого писателя (3 [ICON_CULTURE] Культуры и 3 [ICON_GREAT_PEOPLE] ОВЧ за специалиста).</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_STADIUM_HELP">
+			<Text> Не может давать больше [ICON_HAPPINESS_1] Довольства, чем [ICON_CITIZEN] Жителей в городе. Город должен иметь Зоопарк.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">
+			<Text>Лагерь бразильского дерева можно строить только на клетке Джунглей. Он дает дополнительное [ICON_GOLD] Золото. После исследования технологии Акустика также дает дополнительную [ICON_CULTURE] Культуру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_HELP">
+			<Text>Фейтория может быть построена только на территории Города-государства, на прибрежной клетке без ресурса. Она предоставляет вам по одной копии каждого типа Ресурса роскоши, подключенного этим Городом-государством, вне зависимости от ваших отношений с ним, однако эту копию нельзя торговать. Также дает тот же бонус +50% к защите, что и Форт. Может строиться только португальцами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KASBAH_HELP">
+			<Text>Касба может быть построена только на клетке Пустыни. Она дает +1 [ICON_FOOD] Пищи, +1 [ICON_PRODUCTION] Производства и +1 [ICON_GOLD] Золота. Также дает тот же бонус +50% к защите, что и Форт. Должна быть построена на марокканской территории.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
+			<Text>Шато должно быть построено рядом с Ресурсом роскоши. Оно не может быть соседним с другим Шато. Дает тот же бонус +50% к защите, что и Форт. Должно быть построено на французской территории. После исследования Авиации выработка [ICON_CULTURE] Культуры увеличивается на 1, а производство [ICON_GOLD] Золота - на 2.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_BOROBUDUR_HELP">
+			<Text>Должно быть построено в Священном городе. Появляются 3 бесплатных Миссионера.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
+			<Text>Получает дополнительный слот торгового пути, а в городе появляется Грузовой корабль. Торговые пути, которые другие игроки прокладывают в город с Колоссом, приносят дополнительно 2 [ICON_GOLD] Золота владельцу города, а владелец торгового пути получает дополнительно 1 [ICON_GOLD] Золота за торговый путь. Город должен быть построен на побережье.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_RED_FORT_HELP">
+			<Text>Оборонительные здания во всех Городах эффективнее на 25%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
+			<Text>Требует Порядок. +50% [ICON_PRODUCTION] Производства при строительстве бронетехники. 1 бесплатный Общественный институт.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_PARTHENON_HELP">
+			<Text>Содержит готовое Великое произведение искусства в слоте для Великого произведения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
+			<Text>+1 [ICON_FOOD] Пищи, +1 [ICON_PRODUCTION] Производства для всех клеток Пустыни, обрабатываемых этим городом (кроме Пойм). Получает дополнительный слот торгового пути, а в городе появляется Торговый обоз. +6 [ICON_CULTURE] Культуры после открытия Археологии. Город должен быть построен на клетке Пустыни или рядом с ней. </Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_PRORA_RESORT_HELP">
+			<Text>Требует Автократию. В дополнение к +2 [ICON_HAPPINESS_1] Довольства, курорт Прора также дает +1 [ICON_HAPPINESS_1] Довольства за каждые 2 принятых Института. 1 бесплатный Общественный институт. Должен быть построен в прибрежном городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP">
+			<Text>Требует Свободу. +1 [ICON_PRODUCTION] Производства от Специалистов в каждом городе. 1 бесплатный Общественный институт.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_TERRA_COTTA_ARMY_HELP">
+			<Text>Создает копию каждого типа военного наземного юнита под вашим командованием и размещает этот юнит рядом с городом, где была построена Терракотовая армия.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_FEATURES_KILIMANJARO_HELP">
+			<Text>Все юниты рядом с ней передвигаются по Холмам с двойной скоростью и получают боевой бонус на Холмах на весь остаток игры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Галеас[ENDCOLOR] - первый дальнобойный военно-морской юнит. Также позволяет строить [COLOR_POSITIVE_TEXT]Гавань[ENDCOLOR], которая создает городские соединения от городов до столицы по воде, производя [ICON_GOLD] Золото. Кроме того, увеличивается выработка [ICON_GOLD] Золота от Рыбацких лодок.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Базуку[ENDCOLOR] - самый мощный дальнобойный юнит, и [COLOR_POSITIVE_TEXT]Атомные бомбы[ENDCOLOR] - первое ядерное оружие в игре (примечание: сначала необходимо завершить Манхэттенский проект и иметь доступ к [ICON_RES_URANIUM] Урану). Также позволяет строить [COLOR_POSITIVE_TEXT]Атомную электростанцию[ENDCOLOR] - здание, которое требует [ICON_RES_URANIUM] Уран и увеличивает [ICON_PRODUCTION] Производство Города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_INTERNET_HELP">
+			<Text>Интернет автоматически удваивает выработку [ICON_TOURISM] Туризма во всех ваших городах, помогая вам продвинуться к [COLOR_POSITIVE_TEXT]Культурной победе[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_PRINTING_PRESS_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Зоопарк[ENDCOLOR] - здание, которое увеличивает [ICON_HAPPINESS_1] Довольство в Империи и делает [ICON_GOLDEN_AGE] Золотые века более вероятными. Также открывает возможность основать Всемирный конгресс.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SISTINE_CHAPEL_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены произведениями искусства одной Эпохи и одной Цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_LOUVRE_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что слоты для Великих произведений заполнены 2 Великими произведениями искусства и 2 Артефактами, причем все 4 должны быть из разных Эпох и разных Цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UFFIZI_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены произведениями искусства одной Эпохи и одной Цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены произведениями искусства из разных Эпох и разных Цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены Письменными произведениями из разных Эпох и из Цивилизаций, отличных от владельца города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MUSEUM_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что оба Великих произведения относятся к одному типу (оба - Искусство или оба - Артефакт), оба из одной Эпохи и либо оба из цивилизации города, либо оба из цивилизаций, отличных от владельца города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GLOBE_THEATER_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены Письменными произведениями одной Эпохи и одной Цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BROADWAY_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены Музыкальными произведениями одной Эпохи и одной Цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены Письменными произведениями из разных Эпох и разных Цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE_THEMING_BONUS_HELP">
+			<Text>Чтобы получить максимальный бонус, убедитесь, что все слоты для Великих произведений заполнены Музыкальными произведениями из разных Эпох, но одной Цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_1">
+			<Text>Музей {1_EraAdjective} {2_CivAdjective} искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_2">
+			<Text>Музей {1_EraAdjective} {2_CivAdjective} военного дела</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_3">
+			<Text>Музей {1_EraAdjective} искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_4">
+			<Text>Музей {1_EraAdjective} военного дела</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_5">
+			<Text>{1_CivAdjective} музей эпохи {2_EraAdjective}</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_6">
+			<Text>Всемирный музей эпохи {1_EraAdjective}</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_7">
+			<Text>Музей {1_CivAdjective} искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_8">
+			<Text>Музей {1_CivAdjective} военного дела</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_HERMITAGE">
+			<Text>Музей мирового искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_SISTINE_CHAPEL">
+			<Text>Капелла {1_Era} {2_CivAdjective} искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_OXFORD_UNIVERSITY">
+			<Text>Библиотека мировой литературы</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_LOUVRE">
+			<Text>Самый посещаемый музей мира</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_UFFIZI">
+			<Text>Музей {1_Era} {2_CivAdjective} искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_GLOBE_THEATER">
+			<Text>Театр {1_Era} {2_CivAdjective} литературы</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_BROADWAY">
+			<Text>Витрина {1_Era} {2_CivAdjective} музыки</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_GREAT_LIBRARY">
+			<Text>Библиотека древних знаний</Text>
+		</Row>
+<Row Tag="TXT_KEY_THEMING_BONUS_SYDNEY_OPERA_HOUSE">
+			<Text>Центр {2_CivAdjective} музыкального искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEGAL_BODY">
+			<Text>(c) 1991-2013 Take-Two Interactive Software и ее дочерние компании. Разработано Firaxis Games. Sid Meier's Civilization V, Civ, Civilization, 2K Games, Firaxis Games, Take-Two Interactive Software и их соответствующие логотипы являются торговыми марками Take-Two Interactive Software, Inc. Fork Copyright (c) 2010 Fork Particle, Inc. Rapid XML Copyright (c) 2006-2010 Marcin Kalicinski. Lua Copyright (c) 1994-2010 Lua.org, PUC-Rio. Uses Granny Animation. Copyright (c) 1999-2010 by RAD Game Tools, Inc. Uses Miles Sound System. Copyright (c) 1991-2010 by RAD Game Tools, Inc. Значок рейтинга является торговой маркой Entertainment Software Association. Все прочие знаки и торговые марки являются собственностью их соответствующих владельцев. Все права защищены. Содержимое данной видеоигры является вымышленным и не предназначено для воспроизведения или отображения реальных событий, лиц или организаций, упоминаемых в историческом контексте игры.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

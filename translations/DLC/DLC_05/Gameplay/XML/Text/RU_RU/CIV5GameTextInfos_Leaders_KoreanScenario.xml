@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_KHAN">
+			<Text>Нурхаци</Text>
+		</Row>
+<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_SHORT_DESC">
+			<Text>Маньчжурия</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

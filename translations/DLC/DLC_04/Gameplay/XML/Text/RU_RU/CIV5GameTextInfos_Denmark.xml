@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TRAIT_VIKING_FURY_SHORT">
+			<Text>Ярость викингов</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_VIKING_FURY">
+			<Text>На судне юниты получают +1 к Передвижению [ICON_MOVES] и тратят всего 1 очко движения при перемещении с моря на сушу. Юниты ближнего боя не тратят очков движения на мародерство.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

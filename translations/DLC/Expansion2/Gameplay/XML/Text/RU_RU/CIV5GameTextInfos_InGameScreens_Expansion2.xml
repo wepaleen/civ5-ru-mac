@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_VP_DIPLO_SOMEONE_WON">
+			<Text>{1_CivName} избран Мировым лидером.</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_NEW_CAPITALS_REMAINING">
+			<Text>
+        Все игроки по-прежнему контролируют свои изначальные [ICON_CAPITAL] Столицы.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_TEAM_LEADING">
+			<Text>
+        Команда {1_Team} контролирует {2_num} изначальных [ICON_CAPITAL] Столиц.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_ACTIVE_PLAYER_LEADING">
+			<Text>
+        Вы лидируете, контролируя {1_num} изначальных [ICON_CAPITAL] Столиц.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_PLAYER_LEADING">
+			<Text>
+        {1_player} контролирует {2_num} изначальных [ICON_CAPITAL] Столиц.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_UNMET_PLAYER_LEADING">
+			<Text>
+        Неизвестный игрок контролирует {1_num} изначальных [ICON_CAPITAL] Столиц.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_YOU_CONTROL_YOUR_CAPITAL">
+			<Text>
+        Вы контролируете {1_CityName}, вашу изначальную [ICON_CAPITAL] Столицу.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_SOMEONE_CONTROLS_THEIR_CAPITAL">
+			<Text>
+        {1_PlayerName} контролирует {2_CityName}, свою изначальную [ICON_CAPITAL] Столицу.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_UNMET_CONTROLS_THEIR_CAPITAL">
+			<Text>
+        Неизвестная цивилизация контролирует свою изначальную [ICON_CAPITAL] Столицу.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_OTHER_PLAYER_CONTROLS_YOUR_CAPITAL">
+			<Text>
+        {1_PlayerName} контролирует {2_CityName}, вашу изначальную [ICON_CAPITAL] Столицу.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_YOU_CONTROL_OTHER_PLAYER_CAPITAL">
+			<Text>
+        Вы контролируете {1_CityName}, изначальную [ICON_CAPITAL] Столицу {2_CivName}.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_OTHER_PLAYER_CONTROLS_OTHER_PLAYER_CAPITAL">
+			<Text>
+        {1_PlayerName} контролирует {2_CityName}, изначальную [ICON_CAPITAL] Столицу {3_CivName}.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_UNMET_PLAYER_CONTROLS_OTHER_PLAYER_CAPITAL">
+			<Text>
+        Неизвестный игрок контролирует {1_CityName}, изначальную [ICON_CAPITAL] Столицу {2_CivName}.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_OTHER_PLAYER_CONTROLS_UNMET_PLAYER_CAPITAL">
+			<Text>
+        {1_PlayerName} контролирует изначальную [ICON_CAPITAL] Столицу неизвестной цивилизации.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_UNMET_PLAYER_CONTROLS_UNMET_PLAYER_CAPITAL">
+			<Text>
+        Неизвестный игрок контролирует изначальную [ICON_CAPITAL] Столицу другой неизвестной цивилизации.
+      </Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_YOU_NO_CAPITAL">
+			<Text>Вы не построили город-Столицу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_KNOWN_NO_CAPITAL">
+			<Text>{1_PlayerName} не построил город-Столицу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TT_UNKNOWN_NO_CAPITAL">
+			<Text>Неизвестный игрок не построил город-Столицу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_RO_BELIEF_TYPE_REFORMATION">
+			<Text>Реформация</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_REFORMATION_BELIEF_TITLE">
+			<Text>Добавить верование Реформации</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MAJOR">
+			<Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} ({4_CivName})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MINOR">
+			<Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} (Город-государство)</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_HEADING">
+			<Text>Торговые пути:[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_CARAVAN">
+			<Text>Торговый караван {1_CivAdj}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_CARGO_SHIP">
+			<Text>Торговое судно {1_CivAdj}</Text>
+		</Row>
+<Row Tag="TXT_KEY_HAPPINESS_FROM_LEAGUES">
+			<Text>Всемирный конгресс</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES">
+			<Text>[ICON_TURNS_REMAINING] {1_TradeRoutesUsedNum} / {2_TradeRoutesAvailable}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT_UNASSIGNED">
+			<Text>У вас есть {1_Num} неназначенных юнитов {2_UnitName}.[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT">
+			<Text>У вас {1_TradeRoutesUsedNum} торговых юнитов.[NEWLINE]Доступно торговых путей: {2_TradeRoutesAvailableNum}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_YOUR_ROUTE_BOTH_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] ({3_CivName}) {4_CityName} ({5_ResourcesStr})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_YOUR_ROUTE_ONLY_DEST_TT">
+			<Text>{1_CityName} [ICON_TURNS_REMAINING] ({2_CivName}) {3_CityName} ({4_ResourcesStr})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_YOUR_ROUTE_ONLY_ORIGIN_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] ({3_CivName}) {4_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_INTERNAL_YOUR_ROUTE_BOTH_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] {3_CityName} ({4_ResourcesStr})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_INTERNAL_YOUR_ROUTE_ONLY_DEST_TT">
+			<Text>{1_CityName} [ICON_TURNS_REMAINING] {2_CityName} ({3_ResourcesStr})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_INTERNAL_YOUR_ROUTE_ONLY_ORIGIN_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] {3_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_TO_YOU_ROUTE_BOTH_TT">
+			<Text>({1_CivName}) {2_CityName} ({3_ResourcesStr}) [ICON_TURNS_REMAINING] {4_CityName} ({5_ResourcesStr})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_TO_YOU_ROUTE_ONLY_DEST_TT">
+			<Text>({1_CivName}) {2_CityName} [ICON_TURNS_REMAINING] {3_CityName} ({4_ResourcesStr})</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_TO_YOU_ROUTE_ONLY_ORIGIN_TT">
+			<Text>({1_CivName}) {2_CityName} ({3_ResourcesStr}) [ICON_TURNS_REMAINING] {4_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_FOOD_YIELD_TT">
+			<Text>{1_Num} [ICON_FOOD] Пища</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_PRODUCTION_YIELD_TT">
+			<Text>{1_Num} [ICON_PRODUCTION] Производство</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_GOLD_YIELD_TT">
+			<Text>{1_Num} [ICON_GOLD] Золото</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_SCIENCE_YIELD_TT">
+			<Text>{1_Num} [ICON_RESEARCH] Наука</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_CULTURE_YIELD_TT">
+			<Text>{1_Num} [ICON_CULTURE] Культура</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_FAITH_YIELD_TT">
+			<Text>{1_Num} [ICON_FAITH] Вера</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_CITY_STATE_TT">
+			<Text>Город-государство</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_ESTABLISHED_BY_PLAYER_TT">
+			<Text>Торговые пути, установленные вами</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_ITR_ESTABLISHED_BY_OTHER_TT">
+			<Text>Торговые пути, установленные другими с вашей цивилизацией</Text>
+		</Row>
+<Row Tag="TXT_KEY_ADDITIONAL_INTERNATIONAL_TRADE_ROUTE">
+			<Text>Позволяет открыть дополнительный торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EXTENDS_SEA_TRADE_ROUTE_RANGE">
+			<Text>Увеличивает дальность морских торговых путей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EXTENDS_LAND_TRADE_ROUTE_RANGE">
+			<Text>Увеличивает дальность сухопутных торговых путей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_TITLE">
+			<Text>Установить торговый путь</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_STARTING_CITY">
+			<Text>Начальный город: {1_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_TRADE_UNIT">
+			<Text>Торговый юнит: {1_UnitName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_RANGE">
+			<Text>Дальность: {1_Num} клеток</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GPT_YOU">
+			<Text>Вы: +{1_Num: number #} [ICON_GOLD] Золото в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GPT_THEM">
+			<Text>Они: +{1_Num: number #} [ICON_GOLD] Золото в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_BASE">
+			<Text>Базовое золото: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_BUILDING">
+			<Text>Бонус золота от зданий в {1_CityName}: {2_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_POLICIES">
+			<Text>Бонус от Общественных институтов: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_GPT_YOURS">
+			<Text>{1_CityName} - золото в ход: {2_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_GPT_THEIRS">
+			<Text>{1_CityName} - золото в ход: {2_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_EXCLUSIVE_CONNECTION">
+			<Text>Бонус эксклюзивного соединения: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_OTHER_TRAIT">
+			<Text>От особенности {1_CivAdj}: {2_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RESOURCE_HEADER">
+			<Text>Различные ресурсы</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RESOURCE_DIFFERENT">
+			<Text>{1_ResourceIcon} {2_ResourceName:textkey}: {3_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RIVER_MODIFIER">
+			<Text>Рядом с рекой: +{1_Num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_DOMAIN_SEA_MODIFIER">
+			<Text>Морской маршрут: {1_Num}x</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_TOTAL">
+			<Text>Итого: {1_Num} [ICON_GOLD] Золото</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_TRADEE_TOTAL">
+			<Text>Итого {1_CivName}: {2_Num} [ICON_GOLD] Золото</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_REVENUE">
+			<Text>ВАШ ДОХОД</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_REVENUE">
+			<Text>ИХ ДОХОД</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_GAIN">
+			<Text>ВАШ ПРИРОСТ НАУКИ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_GAIN">
+			<Text>ИХ ПРИРОСТ НАУКИ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_EXPLAINED">
+			<Text>{1_CivName} открыла {2_Num} технологий, которых вы не знаете. Вы получаете {3_Num} [ICON_RESEARCH] Науки по этому маршруту благодаря вашему Культурному влиянию на них.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_EXPLAINED">
+			<Text>Вы открыли {1_Num} технологий, которых {2_CivName} не знает. Они получают {3_Num} [ICON_RESEARCH] Науки по этому маршруту благодаря их Культурному влиянию на вас.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_TOTAL">
+			<Text>Итого: {1_Num} [ICON_RESEARCH] Наука</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_TOTAL">
+			<Text>Итого {1_CivName}: {2_Num} [ICON_RESEARCH] Наука</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_FOOD">
+			<Text>{1_Num: number "'+'##;'[COLOR_RED]-'##"} [ICON_FOOD] Пища в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_PRODUCTION">
+			<Text>{1_Num: number "'+'##;'[COLOR_RED]-'##"} [ICON_PRODUCTION] Производство в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GOLD">
+			<Text>{1_Num: number "'+'##;'[COLOR_RED]-'##"} [ICON_GOLD] Золото в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_SCIENCE">
+			<Text>{1_Num: number "'+'##;'[COLOR_RED]-'##"} [ICON_RESEARCH] Наука в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_CULTURE">
+			<Text>{1_Num: number "'+'##;'[COLOR_RED]-'##"} [ICON_CULTURE] Культура в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_FAITH">
+			<Text>{1_Num: number "'+'##;'[COLOR_RED]-'##"} [ICON_FAITH] Вера в ход</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_RELIGIOUS_PRESSURE">
+			<Text>+{1_ReligionIcon} {2_Num} давление</Text>
+		</Row>
+<Row Tag="TXT_KEY_CONFIRM_CHOOSE_TRADE_ROUTE">
+			<Text>Вы уверены?</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_CITYNAME">
+			<Text>Название города</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_CIVNAME">
+			<Text>Название цивилизации</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_GOLD">
+			<Text>Наибольшее золото</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_GOLD_DELTA">
+			<Text>Наибольший прирост золота</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_SCIENCE">
+			<Text>Наибольшая наука</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_SCIENCE_DELTA">
+			<Text>Наибольший прирост науки</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_PREV_ROUTE">
+			<Text>Предыдущий маршрут</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_TITLE">
+			<Text>Изменить базовый город торгового юнита</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_STARTING_CITY">
+			<Text>Начальный город: {1_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_TRADE_UNIT">
+			<Text>Торговый юнит: {1_UnitName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_ITEM_CITY">
+			<Text>{1_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_TITLE">
+      <Text>Изменить порт адмирала</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_STARTING_CITY">
+      <Text>Начальный порт: {1_CityName}</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_ADMIRAL">
+      <Text>Адмирал: {1_UnitName}</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_ITEM_CITY">
+      <Text>{1_CityName}</Text>
+    </Row>
+<Row Tag="TXT_KEY_TRADE_ROUTE_OVERVIEW">
+			<Text>Обзор торговых путей</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_TAB_EXISTING_TR">
+			<Text>Ваши торговые пути</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_TAB_AVAILABLE_TR">
+			<Text>Доступные торговые пути</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_TAB_TR_WITH_YOU">
+			<Text>Торговые пути с вами</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_DOMAIN">
+			<Text>[ICON_INTERNATIONAL_TRADE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_CITY">
+			<Text>[ICON_ARROW_LEFT]Город</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_CITY">
+			<Text>[ICON_ARROW_RIGHT]Город</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_GPT">
+			<Text>[ICON_ARROW_LEFT][ICON_GOLD]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_GPT">
+			<Text>[ICON_ARROW_RIGHT][ICON_GOLD]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_FOOD">
+			<Text>[ICON_ARROW_RIGHT][ICON_FOOD]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_PRODUCTION">
+			<Text>[ICON_ARROW_RIGHT][ICON_PRODUCTION]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_RELIGION">
+			<Text>[ICON_ARROW_LEFT][ICON_RELIGION]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_RELIGION">
+			<Text>[ICON_ARROW_RIGHT][ICON_RELIGION]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_TOURISM">
+			<Text>[ICON_ARROW_LEFT][ICON_TOURISM]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_TOURISM">
+			<Text>[ICON_ARROW_RIGHT][ICON_TOURISM]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_SCIENCE">
+			<Text>[ICON_ARROW_LEFT][ICON_RESEARCH]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_SCIENCE">
+			<Text>[ICON_ARROW_RIGHT][ICON_RESEARCH]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TURNS_REMAINING">
+			<Text>[ICON_TURNS_REMAINING]</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_GPT_ENTRY">
+			<Text>{1_Num: number #.#}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_RELIGIOUS_PRESSURE_ENTRY">
+			<Text>{1_ReligionIcon} +{2_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TO_EXISTING_TR_TT">
+			<Text>Список торговых путей, установленных вами с другими городами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TO_AVAILABLE_TR_TT">
+			<Text>Список всех торговых путей, которые можно установить, включая уже установленные.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TO_OTHERS_TR_TT">
+			<Text>Список всех торговых путей, установленных другими с вашими городами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_DOMAIN_TT">
+			<Text>Торговые юниты могут перемещаться по суше (с караваном) или по воде (на торговом судне).[NEWLINE][NEWLINE]Нажмите, чтобы отсортировать по типу торговых путей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_CIV_TT">
+			<Text>Нажмите, чтобы отсортировать по цивилизации, откуда исходит торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_CITY_TT">
+			<Text>Нажмите, чтобы отсортировать по городу, откуда исходит торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_CIV_TT">
+			<Text>Нажмите, чтобы отсортировать по цивилизации, куда направлен торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_CITY_TT">
+			<Text>Нажмите, чтобы отсортировать по городу, куда направлен торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_GPT_TT">
+			<Text>Нажмите, чтобы отсортировать по количеству [ICON_GOLD] Золота, которое получает цивилизация, установившая торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_GPT_TT">
+			<Text>Нажмите, чтобы отсортировать по количеству [ICON_GOLD] Золота, которое получит цивилизация-получатель от этого торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_FOOD_TT">
+			<Text>Нажмите, чтобы отсортировать по количеству [ICON_FOOD] Пищи, которую получит город-получатель от этого торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_PRODUCTION_TT">
+			<Text>Нажмите, чтобы отсортировать по количеству [ICON_PRODUCTION] Производства, которое получит город-получатель от этого торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_RELIGION_TT">
+			<Text>Нажмите, чтобы отсортировать по религиозному давлению, которое получит город-отправитель от города-получателя торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_RELIGION_TT">
+			<Text>Нажмите, чтобы отсортировать по религиозному давлению, которое получит город-получатель от города-отправителя торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TURNS_REMAINING_TT">
+			<Text>Нажмите, чтобы отсортировать по оставшимся ходам торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_LAND_DOMAIN_TT">
+			<Text>Торговый караван</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_SEA_DOMAIN_TT">
+			<Text>Торговое судно</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_FROM_SCIENCE_TT">
+			<Text>Нажмите, чтобы отсортировать по количеству [ICON_RESEARCH] Науки, которую получает цивилизация, установившая торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRO_COL_TO_SCIENCE_TT">
+			<Text>Нажмите, чтобы отсортировать по количеству [ICON_RESEARCH] Науки, которую получит цивилизация-получатель от этого торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_TRADE_OVERVIEW">
+			<Text>Обзор торговли</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_YOUR_CITIES">
+			<Text>[ICON_MINUS] Ваши города</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_YOUR_CITIES_COLLAPSED">
+			<Text>[ICON_PLUS] Ваши города</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_MAJOR_CIVS">
+			<Text>[ICON_MINUS] Великие цивилизации</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_MAJOR_CIVS_COLLAPSED">
+			<Text>[ICON_PLUS] Великие цивилизации</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_CITY_STATES">
+			<Text>[ICON_MINUS] Города-государства</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_CITY_STATES_COLLAPSED">
+			<Text>[ICON_PLUS] Города-государства</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NONE_OF_TYPE_LAND">
+			<Text>[NEWLINE][NEWLINE]Вы не можете построить этот торговый юнит, так как нет доступных сухопутных торговых путей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NONE_OF_TYPE_SEA">
+			<Text>[NEWLINE][NEWLINE]Вы не можете построить этот торговый юнит, так как нет доступных морских торговых путей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NO_EXTRA_SLOTS">
+			<Text>[NEWLINE][NEWLINE]Вы не можете построить торговый юнит, так как достигнут лимит торговых юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCHAEOLOGY_TITLE">
+			<Text>Находка археолога</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_LEAD_IN">
+			<Text>Ваш археолог обнаружил...</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE1">
+			<Text>РЕЛИКВИИ ДАЛЬНЕГО БОЯ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE2">
+			<Text>РЕЛИКВИИ БЛИЖНЕГО БОЯ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE3">
+			<Text>ОСТАНКИ ЛАГЕРЯ ВАРВАРОВ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE4">
+			<Text>РАЗГРАБЛЕННЫЕ ДРЕВНИЕ РУИНЫ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE5">
+			<Text>СОЖЖЕННЫЙ ГОРОД</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE6">
+      <Text>ДРЕВНЯЯ ПИСЬМЕННОСТЬ</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ATTACKER">
+			<Text>Атакующий:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_DEFENDER">
+			<Text>Защитник:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_PLUNDERER">
+			<Text>Разграблено:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_CONQUEROR">
+			<Text>Завоеватель:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_AUTHOR">
+      <Text>Автор:</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_FOUNDER">
+			<Text>Основан:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_NO_SLOTS">
+			<Text>[COLOR_RED]Нет свободных слотов для Великих произведений искусства![ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_OPTIONS">
+			<Text>Выберите один из вариантов ниже:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_HEADER">
+			<Text>Создать артефакт {1_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITING_HEADER">
+      <Text>Создать письменность {1_String}</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
+			<Text>Артефакт будет помещен в ближайший слот Великого произведения искусства. Артефакт дает +2 [ICON_CULTURE] Культуры и +2 [ICON_TOURISM] Туризма. Археолог будет израсходован.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
+      <Text>Древняя письменность будет помещена в ближайший слот Великого произведения литературы. Письменность дает +2 [ICON_CULTURE] Культуры и +2 [ICON_TOURISM] Туризма. Археолог будет израсходован.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
+			<Text>Создать улучшение-достопримечательность</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
+			<Text>При использовании Достопримечательность приносит [ICON_CULTURE] Культуру в зависимости от своего возраста. +1 [ICON_CULTURE] Культура за каждую Эпоху, предшествующую текущей Эпохе цивилизации. Археолог будет израсходован.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
+      <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Создание Достопримечательности на территории другой цивилизации даст вам постоянный дипломатический бонус с этой державой.[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MINOR_CIV">
+      <Text>[NEWLINE][COLOR_POSITIVE_TEXT]Создание Достопримечательности на территории города-государства даст вам значительный единовременный бонус влияния с этим городом-государством.[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_HEADER">
+      <Text>Начать Культурное возрождение</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_RESULT">
+      <Text>Письменный артефакт будет израсходован, чтобы дать цивилизации значительный единовременный прирост [ICON_CULTURE] Культуры.</Text>
+    </Row>
+<Row Tag="TXT_KEY_GREAT_WORK_POPUP_WRITTEN_ARTIFACT">
+      <Text>Письменный артефакт</Text>
+    </Row>
+<Row Tag="TXT_KEY_CULTURE_OVERVIEW">
+			<Text>Обзор Культуры</Text>
+		</Row>
+<Row Tag="TXT_KEY_CULTURE_OVERVIEW_TT">
+			<Text>Обзор Культуры</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TAB_YOUR_CULTURE">
+			<Text>Ваша Культура</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TAB_CULTURE_VICTORY">
+			<Text>Культурная победа</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TAB_PLAYER_INFLUENCE">
+			<Text>Влияние по игрокам</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TAB_SWAP_GREAT_WORKS">
+			<Text>Обмен Великими произведениями</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_PULLDOWN">
+			<Text>Выбрать игрока</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_UNKNOWN">
+			<Text>[COLOR_GREY]Неизвестно[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_EXOTIC">
+			<Text>[COLOR_WHITE]Экзотическое[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_FAMILIAR">
+			<Text>[COLOR_WHITE]Знакомое[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_POPULAR">
+			<Text>[COLOR_WHITE]Популярное[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENTIAL">
+			<Text>[COLOR_MAGENTA]Влиятельное[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_DOMINANT">
+			<Text>[COLOR_MAGENTA]Доминирующее[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_FALLING">
+			<Text>[COLOR_RED]Падает[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_STATIC">
+			<Text>[COLOR_WHITE]Без изменений[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_RISING_SLOWLY">
+			<Text>[COLOR_PLAYER_LIGHT_GREEN_TEXT]Медленно растет[COLOR_PLAYER_LIGHT_GREEN_TEXT]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_RISING">
+			<Text>[COLOR_GREEN]Растет[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CULTURE_HEADER_TT">
+			<Text>[ICON_CULTURE] Культура, производимая этим Городом</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TOURISM_HEADER_TT">
+			<Text>[ICON_TOURISM] Туризм, производимый этим Городом</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER">
+			<Text>[ICON_GREAT_WORK]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER_TT">
+			<Text>[ICON_GREAT_WORK] Великие произведения в Городе</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_GREAT_WORK_TT">
+			<Text>Письмо: {1_String}[NEWLINE]Искусство: {2_String}[NEWLINE]Музыка: {3_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT_ENTRY">
+			<Text>{1_Num}/{2_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT">
+			<Text>Письмо: {1_String}[NEWLINE]Искусство: {2_String}[NEWLINE]Музыка: {3_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENTIAL_HEADER_TT">
+			<Text>Число цивилизаций, над которыми достигнуто влиятельное культурное превосходство, из общего числа, необходимого для Культурной победы</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_LEVEL_HEADER_TT">
+			<Text>Возможные значения:[NEWLINE]- Неизвестно[NEWLINE]- Экзотическое[NEWLINE]- Знакомое[NEWLINE]- Популярное[NEWLINE]- Влиятельное[NEWLINE]- Доминирующее[NEWLINE][NEWLINE]Получайте бонусы против подверженной влиянию цивилизации начиная с уровня Знакомого влияния:[NEWLINE] 1. Бонусная [ICON_RESEARCH] Наука от Торговых путей[NEWLINE] 2. [ICON_SPY] Шпионы более эффективны[NEWLINE] 3. Легче контролировать захваченные Города</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_FAMILIAR">
+      <Text>[NEWLINE][NEWLINE]Полученные бонусы:[NEWLINE]- Каждый Торговый путь к подверженной влиянию цивилизации:[NEWLINE]+1 [ICON_RESEARCH] Наука[NEWLINE]- [ICON_SPY] Шпионы устанавливают наблюдение за 1 ход[NEWLINE]- При захвате города подверженной влиянию цивилизации:[NEWLINE]снижение времени волнений/потери населения на 25%</Text>
+    </Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_POPULAR">
+      <Text>[NEWLINE][NEWLINE]Полученные бонусы:[NEWLINE]- Каждый Торговый путь к подверженной влиянию цивилизации:[NEWLINE]+2 [ICON_RESEARCH] Наука[NEWLINE]- [ICON_SPY] Шпионы устанавливают наблюдение за 1 ход и действуют на 1 Ранг выше в городах-государствах-союзниках подверженной влиянию цивилизации[NEWLINE]- При захвате города подверженной влиянию цивилизации:[NEWLINE]снижение времени волнений/потери населения на 50%</Text>
+    </Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_INFLUENTIAL">
+      <Text>[NEWLINE][NEWLINE]Полученные бонусы:[NEWLINE]- Каждый Торговый путь к подверженной влиянию цивилизации:[NEWLINE]+3 [ICON_RESEARCH] Наука[NEWLINE]- [ICON_SPY] Шпионы устанавливают наблюдение за 1 ход и действуют на 1 Ранг выше в городах и городах-государствах-союзниках подверженной влиянию цивилизации[NEWLINE]- При захвате города подверженной влиянию цивилизации:[NEWLINE]снижение времени волнений/потери населения на 75%</Text>
+    </Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_DOMINANT">
+      <Text>Полученные бонусы:[NEWLINE]- Каждый Торговый путь к подверженной влиянию цивилизации:[NEWLINE]+4 [ICON_RESEARCH] Наука[NEWLINE]- [ICON_SPY] Шпионы устанавливают наблюдение за 1 ход и действуют на 2 Ранга выше в городах и городах-государствах-союзниках подверженной влиянию цивилизации[NEWLINE]- При захвате города подверженной влиянию цивилизации:[NEWLINE]без времени волнений и без потери населения</Text>
+    </Row>
+<Row Tag="TXT_KEY_SPY_BONUS_CITY_STATE">
+      <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Шпион действует на {1_SpyBonus} {1_SpyBonus: plural 1?Ранг; other?Ранга;} выше обычного, поскольку этот город-государство является союзником цивилизации, над которой у вас сильное культурное влияние.[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_SPY_BONUS_MAJOR_CIV">
+      <Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Шпион действует на {1_SpyBonus} {1_SpyBonus: plural 1?Ранг; other?Ранга;} выше обычного, поскольку у вас сильное культурное влияние над этой цивилизацией.[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_PERCENT_HEADER_TT">
+			<Text>Суммарный [ICON_TOURISM] Туризм за все время игры как процент от суммарной [ICON_CULTURE] Культуры целевой цивилизации за все время игры</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_MODIFIERS_HEADER_TT">
+			<Text>Модификаторы к [ICON_TOURISM] Туризму в отношении целевой цивилизации</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_TOURISM_HEADER_TT">
+			<Text>Скорректированный [ICON_TOURISM] Туризм</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENCE_TREND_HEADER_TT">
+			<Text>Индикатор роста или падения[NEWLINE](и если растет - подсказка показывает число ходов до достижения Влиятельного уровня)</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENTIAL_TURNS_TT">
+			<Text>Влиятельное через {1_Num} ходов (при условии неизменного Туризма)</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TOURISM_PERCENT_TT">
+			<Text>{1_String}[NEWLINE]{2_String} достигается при {3_Num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CIVILIZATION_HEADER">
+			<Text>ЦИВИЛИЗАЦИЯ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_INFLUENTIAL_HEADER">
+			<Text>ВЛИЯТЕЛЬНОЕ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_LEVEL_HEADER">
+			<Text>УРОВЕНЬ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PERCENT_HEADER">
+			<Text>[ICON_TOURISM] против [ICON_CULTURE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_MODIFIERS_HEADER">
+			<Text>+/- %</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TOURISM_HEADER">
+			<Text>[ICON_TOURISM]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TREND_HEADER">
+			<Text>ТРЕНД</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_GREAT_WORKS">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от {2_Num} [ICON_GREAT_WORK] Великих произведений </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_THEMING_BONUSES">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от тематических бонусов Музеев и Чудес света</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_TILES">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от {2_Num}% [ICON_CULTURE] Культуры от Чудес света, Природных чудес и Улучшений</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_FAITH_BUILDINGS">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от зданий, построенных за [ICON_PEACE] Веру</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_RELIGIOUS_ART">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от верования "Религиозное искусство"</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_TECH_ENHANCED">
+			<Text>{1_Num} [ICON_TOURISM] Туризма от Зданий</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_RELIGION_BONUS">
+			<Text>+{1_Num}% Бонус за Общую Религию с:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_OPEN_BORDERS_BONUS">
+			<Text>+{1_Num}% Бонус за Открытые границы с:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_TRADE_ROUTE_BONUS">
+			<Text>+{1_Num}% Бонус за Торговый путь с:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_LEAGUES_BONUS">
+			<Text>+{1_Num}% Бонус за то, что город является Священным городом Мировой религии</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_TECH_BONUS">
+			<Text>+{1_Num}% Бонус от Технологий</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_CARNIVAL_BONUS">
+			<Text>+{1_Num}% Бонус, пока проходит Карнавал</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_LESS_HAPPY_BONUS">
+			<Text>+{1_Num}% Бонус за меньшее [ICON_HAPPINESS_1] Довольство:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_COMMON_FOE_BONUS">
+			<Text>+{1_Num}% Бонус за войну с общим врагом:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_SHARED_IDEOLOGY_BONUS">
+			<Text>+{1_Num}% Бонус за общую Идеологию:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_DIFFERENT_IDEOLOGY_PENALTY">
+			<Text>{1_Num}% Штраф за различие Идеологий:[NEWLINE]   </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CITY_TOURISM_BUILDING_BONUS">
+			<Text>+{1_Num}% Бонус за наличие {2_BuildingName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_OPEN_BORDERS">
+			<Text>+{1_Num}% Бонус за Открытые границы[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_TRADE_ROUTE">
+			<Text>+{1_Num}% Бонус за Торговый путь между цивилизациями[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_CARNIVAL">
+			<Text>+{1_Num}% Бонус, пока проходит Карнавал[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_LESS_HAPPY">
+			<Text>+{1_Num}% Бонус за меньшее [ICON_HAPPINESS_1] Довольство[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_COMMON_FOE">
+			<Text>+{1_Num}% Бонус за войну с общим врагом[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_SHARED_IDEOLOGY">
+			<Text>+{1_Num}% Бонус за общую Идеологию[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_DIFFERENT_IDEOLOGIES">
+			<Text>{1_Num}% Штраф за различие Идеологий[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_PROPAGANDA">
+			<Text>+{1_Num}% Бонус от пропаганды Дипломата[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_RELIGION_NOTE">
+			<Text>+{1_Num}% Бонус за Общую Религию[NEWLINE]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_NO_THEME">
+			<Text>Нет тематического бонуса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_WORLD_MUSEUM">
+			<Text>Мировой</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_TOURISM_HEADER_TT">
+			<Text>[ICON_TOURISM] Туризм, производимый этой Цивилизацией</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_TOURISM_OUTPUT">
+			<Text>Текущий [ICON_TOURISM] Туризм: </Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_INFLUENTIAL_OF">
+			<Text>{1_NumInfluentialCivs} из {2_TotalCivs}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_IDEOLOGY_HEADER">
+			<Text>ИДЕОЛОГИЯ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_IDEOLOGY_HEADER_TT">
+			<Text>Идеология, выбранная этой Цивилизацией</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_HEADER">
+			<Text>ОБЩЕСТВЕННОЕ МНЕНИЕ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_HEADER_TT">
+			<Text>Удовлетворенность цивилизации текущим выбором Идеологии.[NEWLINE][NEWLINE]Возможные значения:[NEWLINE][COLOR_POSITIVE_TEXT]- Довольны[ENDCOLOR][NEWLINE]- Диссиденты[NEWLINE][COLOR_YELLOW]- Гражданское сопротивление[ENDCOLOR][NEWLINE][COLOR_NEGATIVE_TEXT]- Революционная волна[ENDCOLOR][NEWLINE][NEWLINE]При любом значении, отличном от [COLOR_POSITIVE_TEXT]Довольны[ENDCOLOR], будет генерироваться некоторый уровень [ICON_HAPPINESS_4] Недовольства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_CONTENT">
+			<Text>[COLOR_POSITIVE_TEXT]Довольны[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_DISSIDENTS">
+			<Text>Диссиденты</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_CIVIL_RESISTANCE">
+			<Text>[COLOR_YELLOW]Гражданское сопротивление[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_REVOLUTIONARY_WAVE">
+			<Text>[COLOR_NEGATIVE_TEXT]Революционная волна[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_OVERVIEW">
+      <Text>Общественное мнение каждой цивилизации отслеживается с момента принятия ею Идеологии и рассчитывается на основе исходящего влияния данной цивилизации по сравнению с входящим влиянием от других цивилизаций с Идеологией.[NEWLINE][NEWLINE]Если давление в пользу других Идеологий превышает давление в пользу текущей Идеологии, Общественное мнение отклонится от [COLOR_POSITIVE_TEXT]Довольны[ENDCOLOR] и породит [ICON_HAPPINESS_4] Недовольство. В сводке ниже показан символ для каждой единицы давления в пользу той или иной Идеологии.[NEWLINE][NEWLINE]</Text>
+    </Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_NOT_INFLUENCED">
+			<Text>Не подвержена влиянию Идеологии какой-либо другой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_INFLUENCED_WORLD_IDEOLOGY">
+			<Text>Подвержена влиянию Мировой Идеологии, избранной Всемирным конгрессом:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_INFLUENCED_BY">
+			<Text>Подвержена влиянию Идеологии этих цивилизаций:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_FOR_FREEDOM">
+			<Text>[NEWLINE]За [COLOR_POSITIVE_TEXT]Свободу[ENDCOLOR]:[NEWLINE]{1_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_FOR_AUTOCRACY">
+			<Text>[NEWLINE]За [COLOR_POSITIVE_TEXT]Автократию[ENDCOLOR]:[NEWLINE]{1_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_FOR_ORDER">
+			<Text>[NEWLINE]За [COLOR_POSITIVE_TEXT]Порядок[ENDCOLOR]:[NEWLINE]{1_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_PREFERRED_IDEOLOGY">
+			<Text>[NEWLINE][NEWLINE]Предпочтительная Идеология - [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE1">
+			<Text>Общественное мнение генерирует {1_Num} [ICON_HAPPINESS_4]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE2">
+			<Text>[NEWLINE]  Из наибольшего:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE3">
+			<Text>[NEWLINE]    {1_Num} [ICON_HAPPINESS_4] за город ИЛИ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE4">
+			<Text>[NEWLINE]    1 [ICON_HAPPINESS_4] за каждые {1_Num} населения</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER">
+			<Text>[ICON_HAPPINESS_4]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER_TT">
+			<Text>Текущее [ICON_HAPPINESS_4] Недовольство из-за Общественного мнения.[NEWLINE][NEWLINE]Это показывает, насколько жители данной цивилизации одобряют выбор Идеологии своим лидером.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_EXCESS_HAPPINESS_HEADER">
+			<Text>ОБЩЕЕ [ICON_HAPPINESS_1]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_VICTORY_EXCESS_HAPPINESS_HEADER_TT">
+			<Text>Текущий общий уровень [ICON_HAPPINESS_1] Довольства[NEWLINE][NEWLINE]Недовольство от Общественного мнения включено в этот итог. При -20 и ниже цивилизация начнет терять города из-за восстаний и может сменить Идеологию на предпочтительную для народа (это предпочтение можно найти в подсказке Общественного мнения).</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_THIRD_PARTY_CULTURE_INFLUENCE">
+			<Text>{1_Civ} обладает {2_Num: number #.#}% влиянием над {3_Civ}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_THIRD_PARTY_CULTURE_INFLUENCE_UNMET">
+			<Text>{1_Civ} обладает {2_Num: number #.#}% влиянием над неизвестной цивилизацией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_HAPPINESS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_UNHAPPINESS">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CLICK_TO_MOVE">
+			<Text>Нажмите для перемещения</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CLICK_TO_MOVE_TT">
+			<Text>Нажмите левой кнопкой мыши на великие произведения, чтобы переместить их с одного места на другое.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CLICK_TO_VIEW">
+			<Text>Нажмите для просмотра</Text>
+		</Row>
+<Row Tag="TXT_KEY_CO_CLICK_TO_VIEW_TT">
+			<Text>Нажмите левой кнопкой мыши на великие произведения для их просмотра.</Text>
+		</Row>
+<Row Tag="TXT_KEY_ANTIQUITY_SITES_TO_EXCAVATE">
+			<Text>Античных мест, еще не раскопанных: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_HIDDEN_SITES_TO_EXCAVATE">
+			<Text>Скрытых мест, еще не раскопанных: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURAL_INFLUENCE">
+			<Text>Самые посещаемые народы</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURAL_INFLUENCE_TT">
+			<Text>Ранжирует игроков по числу цивилизаций, над которыми их [ICON_CULTURE] Культура стала Влиятельной.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROGRESS_SCREEN_CITY_TOURISM">
+			<Text>Самые посещаемые города</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROGRESS_SCREEN_CITY_TOURISM_TT">
+			<Text>Ранжирует города по [ICON_TOURISM] Туризму.</Text>
+		</Row>
+<Row Tag="TXT_KEY_DOUBLE_TOURISM">
+			<Text>Удваивает [ICON_TOURISM] Туризм.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_GP_MOD">
+			<Text>[ICON_BULLET] Бонус Института: +{1_num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOLDENAGE_GP_MOD">
+			<Text>[ICON_BULLET] Бонус Карнавала: +{1_num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_WORLD_CONGRESS_POSITIVE_GP_MOD">
+			<Text>[ICON_BULLET] Бонус Всемирного конгресса: +{1_num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_WORLD_CONGRESS_NEGATIVE_GP_MOD">
+			<Text>[ICON_BULLET] Штраф Всемирного конгресса: {1_num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_TITLE">
+			<Text>Выбор Идеологии</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_OPTIONS">
+			<Text>Выберите одну из Идеологий:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_BEST_VICTORY_TYPES">
+			<Text>Лучшие типы победы:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_ADOPTED_BY">
+			<Text>Принята:</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_ADOPTED_BY_NOBODY">
+			<Text>[COLOR_POSITIVE_TEXT]Никем[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_NUM_FREE_POLICIES">
+			<Text>Бесплатных принципов для ранних последователей: {1_NumFreePolicies}</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_CONFIRM">
+			<Text>Вы уверены, что хотите принять [COLOR_POSITIVE_TEXT]{@1_PolicyName}[ENDCOLOR]?</Text>
+		</Row>
+<Row Tag="TXT_KEY_ALLOWS_WORLD_CONGRESS">
+			<Text>Позволяет основать Всемирный конгресс после того, как будут встречены все остальные цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EXTRA_VOTES_FROM_DIPLOMATS">
+			<Text>Получайте {1_DelegatesPerDiplomat} дополнительных {1_DelegatesPerDiplomat: plural 1?делегата; other?делегатов;} во Всемирном конгрессе за каждого Шпиона в роли [ICON_DIPLOMAT] Дипломата в [ICON_CAPITAL] Столице другой Цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_SLOTS_TOOLTIP">
+			<Text>[ICON_GREAT_WORK] Слоты для Великих произведений искусства или артефактов: {1_NumSlots}</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_SLOTS_TOOLTIP">
+			<Text>[ICON_GREAT_WORK] Слоты для Великих произведений письма: {1_NumSlots}</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_SLOTS_TOOLTIP">
+			<Text>[ICON_GREAT_WORK] Слоты для Великих музыкальных произведений: {1_NumSlots}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_1">
+			<Text>{1_Num} слотов [ICON_GREAT_WORK] Великих произведений заполнено</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_2">
+			<Text>{1_Num} слотов [ICON_GREAT_WORK] Великих произведений доступно</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_3">
+			<Text>Влиятельное над {1_XofYString} цивилизациями, необходимыми для Культурной победы</Text>
+		</Row>
+<Row Tag="TXT_KEY_WRITING_SLOT_EMPTY">
+			<Text>Пусто (Письмо)</Text>
+		</Row>
+<Row Tag="TXT_KEY_ART_SLOT_EMPTY">
+			<Text>Пусто (Искусство)</Text>
+		</Row>
+<Row Tag="TXT_KEY_ARTIFACT_SLOT_EMPTY">
+			<Text>Пусто (Артефакт)</Text>
+		</Row>
+<Row Tag="TXT_KEY_MUSIC_SLOT_EMPTY">
+			<Text>Пусто (Музыка)</Text>
+		</Row>
+<Row Tag="TXT_KEY_WRITING_SLOT_TT">
+			<Text>Нажмите, чтобы изменить, что вы готовы отдать в обмен на Великое произведение письма. Великие произведения письма можно менять только на другие Великие произведения письма. После обмена с другой цивилизацией полученный предмет займет слот здания или чуда, который занимал ваш оригинальный предмет. Полученный предмет нельзя снова обменять в этот же ход.[NEWLINE][NEWLINE]Если вы выберете Великое произведение письма для слота, но не совершите обмен в свой ход, другие цивилизации смогут обменяться на него в свой ход без вашего разрешения! Убедитесь, что выставляете только те предметы, с которыми готовы расстаться!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ART_SLOT_TT">
+			<Text>Нажмите, чтобы изменить, что вы готовы отдать в обмен на Великое произведение искусства. Великие произведения искусства можно менять только на другие Великие произведения искусства. После обмена с другой цивилизацией полученный предмет займет слот здания или чуда, который занимал ваш оригинальный предмет. Полученный предмет нельзя снова обменять в этот же ход.[NEWLINE][NEWLINE]Если вы выберете Великое произведение искусства для слота, но не совершите обмен в свой ход, другие цивилизации смогут обменяться на него в свой ход без вашего разрешения! Убедитесь, что выставляете только те предметы, с которыми готовы расстаться!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ARTIFACT_SLOT_TT">
+			<Text>Нажмите, чтобы изменить, на что вы готовы обменять Артефакт. Артефакты можно обменивать только на другие Артефакты. После обмена предметами с другой цивилизацией полученный предмет займет слот здания или чуда света, который занимал ваш исходный предмет. Полученный предмет нельзя обменять повторно в этот ход.[NEWLINE][NEWLINE]Если вы выберете Артефакт для слота, но не выполните обмен в свой ход, другие цивилизации смогут обменять его в свой ход без вашего разрешения! Убедитесь, что вы выставляете на обмен только те предметы, с которыми готовы расстаться!</Text>
+		</Row>
+<Row Tag="TXT_KEY_MUSIC_SLOT_TT">
+			<Text>Нажмите, чтобы изменить, на что вы готовы обменять Великое произведение музыки. Великие произведения музыки можно обменивать только на другие Великие произведения музыки. После обмена предметами с другой цивилизацией полученный предмет займет слот здания или чуда света, который занимал ваш исходный предмет. Полученный предмет нельзя обменять повторно в этот ход.[NEWLINE][NEWLINE]Если вы выберете Великое произведение музыки для слота, но не выполните обмен в свой ход, другие цивилизации смогут обменять его в свой ход без вашего разрешения! Убедитесь, что вы выставляете на обмен только те Великие произведения или Артефакты, с которыми готовы расстаться!</Text>
+		</Row>
+<Row Tag="TXT_KEY_WRITING_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?has; other?have;} не выставил(а) на обмен ни одного Великого произведения письма.</Text>
+		</Row>
+<Row Tag="TXT_KEY_ART_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?has; other?have;} не выставил(а) на обмен ни одного Великого произведения искусства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_ARTIFACT_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?has; other?have;} не выставил(а) на обмен ни одного Артефакта.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MUSIC_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?has; other?have;} не выставил(а) на обмен ни одного Великого произведения музыки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WRITING_OTHERS_SLOT">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?is; other?are;} готов(а) обменять это Великое произведение письма на другое Великое произведение письма.</Text>
+		</Row>
+<Row Tag="TXT_KEY_ART_OTHERS_SLOT">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?is; other?are;} готов(а) обменять это Великое произведение искусства на другое Великое произведение искусства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_ARTIFACT_OTHERS_SLOT">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?is; other?are;} готов(а) обменять этот Артефакт на другой Артефакт.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MUSIC_OTHERS_SLOT">
+			<Text>{1_CivShortDesc} {1_CivShortDesc: plural 1?is; other?are;} готов(а) обменять это Великое произведение музыки на другое Великое произведение музыки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_BUTTON">
+			<Text>Обменять</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_BUTTON_TT">
+			<Text>Это действие обменяет ваше Великое произведение или Артефакт на Великое произведение или Артефакт другой цивилизации. Ваш предмет перейдет в один из ее городов, а ее предмет займет слот, который занимал обменянный вами предмет. Предмет можно обменять лишь один раз за ход. </Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_BUTTON_DISABLED_TT">
+			<Text>Чтобы обменять Великое произведение или Артефакт, необходимо выбрать один из ваших предметов и один предмет другой цивилизации того же типа. (Великое произведение письма можно обменять только на другое Великое произведение письма.)</Text>
+		</Row>
+<Row Tag="TXT_KEY_CLEAR_BUTTON">
+			<Text>Очистить</Text>
+		</Row>
+<Row Tag="TXT_KEY_CLEAR_BUTTON_TT">
+			<Text>Это действие сбросит предложенный обмен Великими произведениями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_WRITING_HEADER">
+			<Text>Письмо</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_ART_HEADER">
+			<Text>Искусство</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_ARTIFACT_HEADER">
+			<Text>Артефакт</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_MUSIC_HEADER">
+			<Text>Музыка</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_THIS">
+			<Text>Выбрать {1_String}</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_CLEAR_SPOT">
+			<Text>Освободить слот</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_SWAPPING">
+			<Text>Очистить</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_SWAPPING_TT">
+			<Text>Это действие освободит слот, чтобы в этот ход вы не могли обменять его ни на что другое. Также другие цивилизации не смогут обменять предметы этого типа в свой ход, если слот пуст.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_YOURS">
+			<Text>Ваше</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_THEIRS">
+			<Text>Их</Text>
+		</Row>
+<Row Tag="TXT_KEY_SWAP_NAME">
+			<Text>Вы можете обменивать Великие произведения или Артефакты с любой Цивилизацией, с которой не находитесь в состоянии войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLOMAT_PICKER_DIPLOMAT">
+			<Text>Дипломат</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLOMAT_PICKER_SPY">
+			<Text>Шпион</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_TITLE">
+			<Text>Выберите бонус за Древние руины</Text>
+		</Row>
+<Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_DESCRIPTION">
+			<Text>Выберите бонус за Древние руины из списка</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_TRADE">
+			<Text>Городские связи</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INCOME_TRADE">
+			<Text>Доход от городских связей</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS">
+			<Text>[ICON_PLUS] Городские связи</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] Городские связи</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_TRADE_ROUTES">
+			<Text>[ICON_PLUS] Городские связи</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_TRADE_ROUTES_COLLAPSE">
+			<Text>[ICON_MINUS] Городские связи</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_DIPLOMACY_AND_LEAGUE_SESSION">
+			<Text>Дипломатия[NEWLINE][NEWLINE]Ходов до созыва Всемирного конгресса: {1_Num}[NEWLINE][NEWLINE]По мере продвижения игроков в более поздние эпохи этот интервал сокращается.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_DIPLOMACY_AND_VICTORY_SESSION">
+			<Text>Дипломатия[NEWLINE][NEWLINE]Ходов до созыва Организации Объединенных Наций: {1_TurnsUntilSession}[NEWLINE][NEWLINE]Ходов до следующего предложения о [COLOR_POSITIVE_TEXT]Мировом лидере[ENDCOLOR]: {2_TurnsUntilVictorySession}[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Дипломатическая победа[ENDCOLOR] теперь возможна. Чтобы победить, Цивилизация должна получить поддержку достаточного числа делегатов на голосовании о [COLOR_POSITIVE_TEXT]Мировом лидере[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_24">
+			<Text>Торговля</Text>
+		</Row>
+<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_25">
+			<Text>Всемирный конгресс</Text>
+		</Row>
+<Row Tag="TXT_KEY_VICTORYSCREEN_DOMINATION">
+			<Text>[ICON_VICTORY_DOMINATION] Господство</Text>
+		</Row>
+<Row Tag="TXT_KEY_VICTORYSCREEN_CULTURAL">
+			<Text>[ICON_VICTORY_CULTURE] Культурная</Text>
+		</Row>
+<Row Tag="TXT_KEY_VICTORYSCREEN_DIPLOMATIC">
+			<Text>[ICON_VICTORY_DIPLOMACY] Дипломатическая</Text>
+		</Row>
+<Row Tag="TXT_KEY_VICTORYSCREEN_SPACE_RACE">
+			<Text>[ICON_VICTORY_SPACE] Научная</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_CULTURE_INFLUENCE">
+			<Text>Ваше культурное влияние на {2_Civ} составляет {1_Num: number #.#}%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_CULTURE_INFLUENCE_UNMET">
+			<Text>Ваше культурное влияние на неизвестную цивилизацию составляет {1_Num: number #.#}%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_TURNS_UNTIL_SESSION">
+			<Text>Ходов до следующего голосования о Мировом лидере:</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_NEEDED">
+			<Text>Делегатов для победы в голосовании о Мировом лидере:</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_CONTROLLED">
+			<Text>Делегатов под вашим контролем:</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_IN_WORLD">
+			<Text>Всего доступных делегатов:</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_UN_ACTIVE">
+			<Text>Организация Объединенных Наций активна, и победа возможна.</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_DIPLO_UN_INACTIVE">
+			<Text>Организация Объединенных Наций еще не создана.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITYVIEW_TOURISM_TEXT">
+			<Text>Туризм</Text>
+		</Row>
+<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_NEW_TO_XP">
+			<Text>Новичок в Gods &amp; Kings</Text>
+		</Row>
+<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_NEW_TO_XP2">
+			<Text>Новичок в Brave New World</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_POLICIES">
+			<Text>Институты</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_GREAT_WORKS">
+			<Text>Великие произведения</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_RELIGION">
+			<Text>Религия</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_MY_SCORE_POLICIES">
+			<Text>{1_Num} от Институтов</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_MY_SCORE_GREAT_WORKS">
+			<Text>{1_Num} от Великих произведений</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_MY_SCORE_RELIGION">
+			<Text>{1_Num} от Религии</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_SCENARIO1">
+			<Text>Сценарий VP 1</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_SCENARIO2">
+			<Text>Сценарий VP 2</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_SCENARIO3">
+			<Text>Сценарий VP 3</Text>
+		</Row>
+<Row Tag="TXT_KEY_VP_SCENARIO4">
+			<Text>Сценарий VP 4</Text>
+		</Row>
+<Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
+			<Text>На протяжении всей истории снова и снова появлялись мужчины и женщины, коренным образом изменявшие окружающий мир, - художники, ученые, полководцы, торговцы и другие, чей гений ставил их неизмеримо выше остальных. В этой игре подобные провидцы называются "Великими людьми".[NEWLINE][NEWLINE]В игре существует девять видов великих людей: Великие торговцы, Великие художники, Великие музыканты, Великие писатели, Великие ученые, Великие инженеры, Великие полководцы, Великие адмиралы и Великие пророки. У каждого из них есть особая способность.[NEWLINE][NEWLINE]Ваша цивилизация получает Великих людей, строя определенные здания и чудеса света, а затем назначая в них "специалистов" - жителей ваших городов, отказавшихся от работы в поле или шахтах. Хотя специалисты не обрабатывают клетки города, они значительно ускоряют появление Великих людей. Умение соблюдать баланс между потребностью в производстве и пище и стремлением к Великим людям - важная задача управления городом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_TOP">
+			<Text>Вы уверены, что хотите объявить войну {1_CivName}?</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_NAME_DESC">
+			<Text>{1_PlayerName} ({2_EraName})</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_ALLIES_HEADER">
+			<Text>Союзные города-государства</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_HEADER">
+			<Text>Сделки с {1_CivName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_TURNS_LEFT">
+			<Text>Осталось ходов: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_YOU">
+			<Text>От вас</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_OTHER">
+			<Text>От {1_CivName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_TRADE_ROUTES_HEADER">
+			<Text>Торговые пути</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_YES">
+			<Text>Да</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_NO">
+			<Text>Нет</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_DIPLOMAT_OTHER_CIV_TT">
+			<Text>{1_SpyRank} {2_SpyName} находится в {3_CityName} в качестве дипломата. Пока {4_SpyRank} {5_SpyName} находится в городе, он ведет наблюдение и информирует вас о голосовании этой цивилизации во Всемирном конгрессе. {6_SpyRank} {7_SpyName} также будет сообщать вам о любых интригах, которые раскроет во время пребывания.</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_UNDER_PROTECTION_OF">
+			<Text>ПОД ЗАЩИТОЙ</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_ALLIED_CITYSTATES">
+			<Text>СОЮЗНЫЕ ГОРОДА-ГОСУДАРСТВА</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_ACTIVE_DEALS">
+			<Text>АКТИВНЫЕ СДЕЛКИ</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_TRADES_FROM_THEM">
+			<Text>От них:</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_TRADES_FROM_YOU">
+			<Text>От вас:</Text>
+		</Row>
+<Row Tag="TXT_KEY_DECLARE_WAR_TRADE_ROUTES">
+			<Text>ТОРГОВЫЕ ПУТИ</Text>
+		</Row>
+<Row Tag="TXT_KEY_ACTIVE_DEAL_RESOURCE">
+			<Text>{1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

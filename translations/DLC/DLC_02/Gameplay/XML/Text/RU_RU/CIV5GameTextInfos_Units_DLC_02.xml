@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_INCAN_SLINGER">
+			<Text>Пращник</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
+			<Text>Терсио</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_HEADING">
+      <Text>Сокровище</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_SPANISH_CONQUISTADOR">
+			<Text>Конкистадор</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
+			<Text>Отступление перед ближним боем</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
+			<Text>Юнит отступает при атаке противника в ближнем бою. Шанс отступления снижается против быстрых вражеских юнитов или если позади юнита мало свободных клеток.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

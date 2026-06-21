@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM">
+			<Text>Эфириум</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM">
+			<Text>Люборик</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_5">
+			<Text>Эпоха пара</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_6">
+			<Text>Эпоха дирижаблей</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_ERA_7">
+			<Text>Эпоха будущего</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

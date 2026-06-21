@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
+			<Text>Альгамбра</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CN_TOWER">
+			<Text>Башня Си-эн</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HUBBLE">
+			<Text>Космический телескоп "Хаббл"</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LEANING_TOWER">
+			<Text>Пизанская башня</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MOSQUE_OF_DJENNE">
+			<Text>Большая мечеть Дженне</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
+			<Text>Нойшванштайн</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PETRA">
+			<Text>Петра</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TERRACOTTA_ARMY">
+			<Text>Терракотовая армия</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL">
+			<Text>Великий брандмауэр</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY">
+			<Text>Национальное разведывательное агентство</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
+      <Text>Главный храм</Text>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
+			<Text>Амфитеатр</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SHRINE">
+			<Text>Святилище</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
+			<Text>Центр переработки отходов</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
+			<Text>Бомбоубежище</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
+			<Text>Полицейский участок</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
+			<Text>Полицейская станция</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CATHEDRAL">
+			<Text>Собор</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MOSQUE">
+			<Text>Мечеть</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PAGODA">
+			<Text>Пагода</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CEILIDH_HALL">
+			<Text>Зал сейли</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_COFFEE_HOUSE">
+			<Text>Кофейня</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_STELE">
+			<Text>Стела</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID">
+			<Text>Пирамида</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

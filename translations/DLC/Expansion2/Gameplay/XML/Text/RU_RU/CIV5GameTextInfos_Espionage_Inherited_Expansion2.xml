@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_ESPIONAGE_NOT_STARTED_YET">
+			<Text>Шпионаж начинается, когда кто-либо вступает в эпоху Ренессанса</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_MORE_SPIES">
+			<Text>Все ваши шпионы погибли[NEWLINE]Ведется вербовка замены.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_CREATED">
+			<Text>{1_SpyName} завербован в качестве шпиона.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_CREATED">
+			<Text>Завербован шпион!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_PROMOTED">
+			<Text>{1_SpyName} повышен с {@2_RankName} до {@3_RankName}.[NEWLINE]Повышенные шпионы быстрее похищают технологии при наступлении и эффективнее ловят вражеских шпионов при обороне.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_PROMOTED">
+			<Text>{1_SpyName} повышен!</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_RANK_0">
+			<Text>Новобранец</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_RANK_1">
+			<Text>Агент</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_RANK_2">
+			<Text>Специальный агент</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_LOCATION_UNASSIGNED">
+			<Text>Требует назначения</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_UNASSIGNED">
+			<Text>Не назначен</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_TRAVELLING">
+			<Text>В пути</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_SURVEILLANCE">
+			<Text>Установка слежки</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_GATHERING_INTEL">
+			<Text>Сбор разведывательных данных</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_RIGGING_ELECTION">
+			<Text>Фальсификация выборов</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_COUNTER_INTEL">
+			<Text>Контрразведка</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_DEAD">
+			<Text>Погиб при выполнении задания</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_ESTABLISHED_SURVEILLANCE">
+			<Text>Наблюдение ведется</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_ESTABLISHED_SURVEILLANCE_PROGRESS_BAR">
+			<Text>Нет технологий для похищения</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_TECH">
+			<Text>{1_SpyRank} {2_SpyName} собрал достаточно разведывательных данных в {3_CityName}, чтобы похитить технологию у {@4_CivShortName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_TECH_S">
+			<Text>Похитить технологию</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_CANT_STEAL_TECH">
+			<Text>{1_SpyRank} {2_SpyName} не может похитить технологии у {@3_CivShortName}, так как мы полностью превзошли их в исследованиях!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_CANT_STEAL_TECH_S">
+			<Text>Нельзя красть у {@1_CivShortName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_BLOCKING">
+			<Text>ПОХИТИТЬ ТЕХНОЛОГИЮ</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_BLOCKING_TT">
+			<Text>Ваш шпион собрал достаточно разведывательных данных, чтобы похитить технологию у противника. Выберите технологию для похищения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST_S">
+			<Text>Шпион бежал при захвате города</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST">
+			<Text>Ваш шпион {1_SpyRank} {2_SpyName} бежал из {3_CityName}, когда город был захвачен {@4_CivShortName}. Теперь шпиону можно назначить новое задание.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST_YOU">
+			<Text>Ваш шпион {1_SpyRank} {2_SpyName} бежал из {3_CityName}, когда вы захватили город. Теперь шпиону можно назначить новое задание.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE_S">
+			<Text>Шпион покинул город</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE">
+			<Text>Ваш шпион {1_SpyRank} {2_SpyName} вернулся из {3_CityName}, так как город был передан {@4_CivShortName}. Теперь шпиону можно назначить новое задание.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE_YOU">
+			<Text>Ваш шпион {1_SpyRank} {2_SpyName} вернулся из {3_CityName}, так как город был передан вам. Теперь шпиону можно назначить новое задание.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH_S">
+			<Text>Технология похищена!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH_W_TIP">
+			<Text>Неизвестный шпион похитил технологические секреты из {1_CityName}![NEWLINE]Рекомендуется разместить одного из своих шпионов в этом городе для его защиты в будущем.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH">
+			<Text>Неизвестный шпион похитил технологические секреты из {1_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_S">
+			<Text>{1_Tech} похищена!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_W_TIP">
+			<Text>Неизвестный шпион похитил секреты {1_Tech} из {2_CityName}![NEWLINE]Рекомендуется разместить одного из своих шпионов в этом городе для его защиты в будущем.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED">
+			<Text>Неизвестный шпион похитил секреты {1_Tech} из {2_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH_S">
+			<Text>{1_CivShortDesc} похитил технологию!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH_W_TIP">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_CivAdj}} шпион похитил технологические секреты из {2_CityName}![NEWLINE]Рекомендуется разместить одного из своих шпионов в этом городе для его защиты в будущем.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_CivAdj}} шпион похитил технологические секреты из {2_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_S">
+			<Text>{1_CivShortDesc} похитил {2_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_W_TIP">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_CivAdj}} шпион похитил секреты {2_Tech} из {3_CityName}![NEWLINE]Рекомендуется разместить одного из своих шпионов в этом городе для его защиты в будущем.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {1_CivAdj}} шпион похитил секреты {2_Tech} из {3_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_S">
+			<Text>Уничтожен {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {1_CivAdj}} шпион!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY">
+			<Text>Ваш шпион {1_SpyRank} {2_SpyName} уничтожил {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} шпиона в {4_CityName}, пытавшегося похитить технологию!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED_S">
+			<Text>{1_SpyName} погиб!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED">
+			<Text>Ваш шпион {1_SpyRank} {2_SpyName} был уничтожен {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} контршпионом, когда пытался похитить технологию в {4_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED_S">
+			<Text>Завербован шпион на замену</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED">
+			<Text>{1_SpyRank} {2_SpyName} завербован на замену шпиону, погибшему при выполнении задания.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_YOU_S">
+			<Text>{1_PlayerName} строит заговор против вас!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_YOU">
+			<Text>{1_SpyRank} {2_SpyName} в {3_CityName} раскрыл, что {4_PlayerName} тайно строит заговор против вас!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_KNOWN_S">
+			<Text>{1_PlayerName} строит заговор против {2_PlayerName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} в {3_CityName} раскрыл, что {4_PlayerName} тайно строит заговор против {5_PlayerName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName} строит заговор против кого-то.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} в {3_CityName} раскрыл, что {4_PlayerName} тайно строит заговор против неизвестной цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_PLOTTING_AGAINST_YOU">
+			<Text>{1_PlayerName} тайно строит заговор против вас.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_PLOTTING_AGAINST_KNOWN">
+			<Text>{1_PlayerName} тайно строит заговор против {2_PlayerName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_PLOTTING_AGAINST_UNKNOWN">
+			<Text>{1_PlayerName} тайно строит заговор против цивилизации, с которой вы еще не встречались.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_ARMY_S">
+			<Text>{1_PlayerName} готовит внезапное нападение!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_ARMY">
+			<Text>{1_SpyRank} {2_SpyName} раскрыл, что {3_PlayerName} собирает армию для внезапного нападения на другую цивилизацию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_BUILDING_ARMY">
+			<Text>{1_PlayerName} собирает армию для внезапного нападения на другую цивилизацию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY_S">
+			<Text>{1_PlayerName} готовит морское внезапное нападение!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY">
+			<Text>{1_SpyRank} {2_SpyName} раскрыл, что {3_PlayerName} собирает армию с морским прикрытием для внезапного нападения на другую цивилизацию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY">
+			<Text>{1_PlayerName} собирает армию с морским прикрытием для внезапного нападения на другую цивилизацию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN_S">
+			<Text>{1_PlayerName} нанес внезапный удар по вашему городу, {2_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия движется к вашему городу {4_CityName} для нанесения внезапного удара!</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_PlayerName} нанес внезапный удар по вашему городу, {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} нанес внезапный удар по вам!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия движется в вашем направлении для нанесения внезапного удара!</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_PlayerName} нанес внезапный удар по вам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN_S">
+			<Text>{1_PlayerName} нанес внезапный удар по {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия движется к городу {4_CivAdj} {5_CityName} для нанесения внезапного удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_PlayerName} нанес внезапный удар по городу {2_CivAdj} {3_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} нанес внезапный удар по {2_PlayerName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия движется к {4_CivDesc} для нанесения внезапного удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_PlayerName} нанес внезапный удар по {2_PlayerName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName} нанес внезапный удар по неизвестной цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия движется к цивилизации, с которой вы еще не встречались, для нанесения внезапного удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN">
+			<Text>{1_PlayerName} нанес внезапный удар по неизвестной цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE_S">
+			<Text>{1_PlayerName} нанес внезапный удар по другой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия наносит внезапный удар по другой цивилизации. Неизвестно, какая именно цивилизация является целью.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
+			<Text>{1_PlayerName} нанес внезапный удар по другой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN_S">
+			<Text>{1_PlayerName} высадил десант для удара по вашему городу, {2_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия с морским прикрытием движется к вашему городу {4_CityName} для нанесения внезапного удара!</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_PlayerName} нанес амфибийный внезапный удар по вашему городу, {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} высадил десант для удара по вам!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия с морским прикрытием движется в вашем направлении для нанесения внезапного удара!</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_PlayerName} нанес амфибийный внезапный удар по вам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN_S">
+			<Text>{1_PlayerName} высадил десант для удара по {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия с морским прикрытием движется к городу {4_CivAdj} {5_CityName} для нанесения внезапного удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_PlayerName} нанес амфибийный внезапный удар по городу {2_CivAdj} {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName} высадил десант для удара по {2_PlayerName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия с морским прикрытием движется к {4_CivDesc} для нанесения внезапного удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_PlayerName} нанес амфибийный внезапный удар по {2_PlayerName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName} высадил десант для удара по неизвестной цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия с морским прикрытием движется к цивилизации, с которой вы еще не встречались, для нанесения внезапного удара.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN">
+			<Text>{1_PlayerName} нанес амфибийный внезапный удар по неизвестному игроку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE_S">
+			<Text>{1_PlayerName} высадил десант для удара по другой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE">
+			<Text>{1_SpyRank} {2_SpyName} обнаружил, что {TXT_KEY_GRAMMAR_A_AN &lt;&lt; {3_CivAdj}} армия с морским прикрытием вышла в море для нанесения внезапного удара. Неизвестно, какая именно цивилизация является целью.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE">
+			<Text>{1_PlayerName} нанес амфибийный внезапный удар по другому игроку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCT_WONDER_S">
+			<Text>{1_PlayerName} возводит {2_WonderOrProject}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCT_WONDER">
+			<Text>{1_SpyRank} {2_SpyName} выяснил, что {3_PlayerName} возводит {4_WonderOrProject} в {5_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_CONSTRUCT_WONDER">
+			<Text>{1_PlayerName} возводит {2_WonderOrProject} в {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTRIGUE_CONSTRUCT_WONDER_WO_CITY">
+			<Text>{1_PlayerName} возводит {2_WonderOrProject}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS_S">
+			<Text>Выборы в {1_CityName} сфальсифицированы!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS">
+			<Text>{1_SpyRank} {2_SpyName} успешно сфальсифицировал местные выборы в {3_CityName}, повысив ваше влияние и снизив влияние других крупных цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE_S">
+			<Text>Провал фальсификации выборов в {1_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE">
+			<Text>{1_SpyRank} {2_SpyName} не смог сфальсифицировать местные выборы в {3_CityName}. {4_CivShortDesc} сделал это вместо вас и усилил там свое влияние.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT_S">
+			<Text>Махинации на выборах в {1_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT">
+			<Text>После последних выборов ваше влияние неожиданно упало в {1_CityName}. Вероятно, это результат вмешательства вражеских шпионов в местные выборы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS">
+			<Text>{1_SpyRank} {2_SpyName} организовал переворот в {3_CityName}, свергнув сторонников {4_CivShortDesc} и приведя к власти группу, находящуюся в союзе с вами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS_S">
+			<Text>Переворот в {1_CityName} удался!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE">
+			<Text>{1_SpyRank} {2_SpyName} попытался организовать переворот в {3_CityName}, но не смог свергнуть сторонников {4_CivShortDesc}, возглавлявших город. {1_SpyRank} {2_SpyName} погиб при попытке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE_S">
+			<Text>Переворот в {1_CityName} провалился!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_SUCCESS">
+			<Text>{1_CivShortDesc} организовал переворот в {2_CityName}, устранив сторонников {3_CivAdj} и установив своих людей во власти, став новым союзником города-государства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_SUCCESS_S">
+			<Text>Переворот {1_CivAdj} в {2_CityName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_FAILURE">
+			<Text>{1_CivShortDesc} попытался организовать переворот в {2_CityName}, но не смог свергнуть сторонников {3_CivAdj}, имеющих союз с городом-государством.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_FAILURE_S">
+			<Text>Переворот {1_CivAdj} в {2_CityName} провалился</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_OCCUPYING_CITY">
+			<Text>{1_AgentName} действует в этом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_FULL_NAME">
+			<Text>{1_RankName} {2_AgentName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_SORT_TT">
+			<Text>Потенциал показывает, насколько быстро можно похитить технологии из города. Чем выше значение, тем быстрее можно похитить технологии. Базовое значение определяется количеством науки, производимой городом. Потенциал может снижаться из-за оборонительных зданий в городе, таких как Полицейский участок и Полицейское управление. Потенциал может возрастать при использовании шпиона более высокого ранга для похищения технологий.[NEWLINE][NEWLINE]Нажмите для сортировки городов по потенциалу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_SORT_TT">
+			<Text>Название города.[NEWLINE][NEWLINE]Нажмите для сортировки городов по названию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CIVILIZATION_SORT_TT">
+			<Text>Цивилизация, контролирующая город.[NEWLINE][NEWLINE]Нажмите для сортировки городов по цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POPULATION_SORT_TT">
+			<Text>Население города. Чем больше население, тем выше вероятность производства большого количества науки. Чем больше науки производит город, тем выше может быть значение потенциала.[NEWLINE][NEWLINE]Нажмите для сортировки городов по населению.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_UNKNOWN_POTENTIAL_TT">
+			<Text>Потенциал этого города неизвестен. Чтобы узнать потенциал города, отправьте в него шпиона для установки слежки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_STATE_POTENTIAL_TT">
+			<Text>Технологии нельзя похитить из Городов-государств, поэтому у них нет показателя Потенциала.[NEWLINE][NEWLINE]Отправив шпиона в Город-государство, вы повысите там свое влияние путем фальсификации выборов. Если в городе находится более одного шпиона, наибольшие шансы на фальсификацию имеет самый высокопоставленный шпион, пробывший в Городе-государстве дольше всех. Шпионы в Городах-государствах могут также попытаться совершить государственный переворот, если другая цивилизация является союзником Города-государства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_OWN_CITY_POTENTIAL_TT">
+			<Text>Потенциал города {1_CityName} составляет {2_Num}.[NEWLINE][NEWLINE]Потенциал собственных городов вам всегда известен. Если вы лидируете в технологическом развитии, рекомендуется защитить города с высоким Потенциалом. Сделать это можно двумя способами. Вы можете разместить своих шпионов в своих городах - они будут действовать как контрразведчики и смогут поймать и устранить вражеских шпионов до того, как те похитят технологию. Также можно замедлить кражу технологий вражескими шпионами, построив такие здания, как Полицейский участок, Полицейское управление и Великий брандмауэр.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_POTENTIAL_TT">
+			<Text>{1_SpyRank} {2_SpyName} похищает {3_Num} единиц Потенциала из {4_CityName}.[NEWLINE]Базовый Потенциал города {5_CityName} равен {6_Num}.[NEWLINE][NEWLINE]Потенциал определяет, насколько быстро из города можно похитить технологии. Чем выше значение, тем быстрее происходит кража. Базовое значение зависит от количества Науки, вырабатываемой городом. Потенциал может снижаться из-за оборонительных зданий в городе, таких как Полицейский участок и Полицейское управление. Потенциал может возрастать при использовании более высокопоставленного шпиона для кражи технологий из города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_POTENTIAL_CANNOT_STEAL_TT">
+			<Text>{1_SpyRank} {2_SpyName} не может похитить технологии из {3_CityName}, поскольку у этой цивилизации нет технологий, которых вы не знаете.[NEWLINE][NEWLINE]Базовый Потенциал города {4_CityName} равен {5_Num}.[NEWLINE][NEWLINE]Потенциал определяет, насколько быстро из города можно похитить технологии. Чем выше значение, тем быстрее происходит кража. Базовое значение зависит от количества Науки, вырабатываемой городом. Потенциал может снижаться из-за оборонительных зданий в городе, таких как Полицейский участок и Полицейское управление. Потенциал может возрастать при использовании более высокопоставленного шпиона для кражи технологий из города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_ONCE_KNOWN_POTENTIAL_TT">
+			<Text>Последнее известное значение Потенциала города {1_CityName} равно {2_Num}.[NEWLINE][NEWLINE]Это последнее измерение Потенциала данного города одним из ваших шпионов. Чтобы получить более актуальные данные, переместите одного из своих шпионов в этот город.[NEWLINE][NEWLINE]Потенциал определяет, насколько быстро из города можно похитить технологии. Чем выше значение, тем быстрее происходит кража. Базовое значение зависит от количества Науки, вырабатываемой городом. Потенциал может снижаться из-за оборонительных зданий в городе, таких как Полицейский участок и Полицейское управление. Потенциал может возрастать при использовании более высокопоставленного шпиона для кражи технологий из города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_CIV_TT">
+			<Text>{1_CityName} находится под управлением {@2_CivShortDesc}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_CIV_CITY_STATE_TT">
+			<Text>{1_CityName} - [COLOR_POSITIVE_TEXT]{2_CityStateTraitAdj}[ENDCOLOR] Город-государство.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_NAME_TT">
+			<Text>{1_CityName} находится под управлением {@2_CivShortDesc}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_NAME_CITY_STATE_TT">
+			<Text>{1_CityName} - [COLOR_POSITIVE_TEXT]{2_CityStateTraitAdj}[ENDCOLOR] Город-государство.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_POPULATION_TT">
+			<Text>Население города {1_CityName} составляет {2_Num}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_TT">
+			<Text>Нажмите, чтобы открыть экран города {1_CityName}.[NEWLINE][NEWLINE]Вы можете просматривать экран города другого игрока, если ваш шпион установил наблюдение или ваш дипломат налаживает связи в этом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_YOUR_CITY_TT">
+			<Text>Нажмите, чтобы открыть экран города {1_CityName}.[NEWLINE][NEWLINE]Вы всегда можете просматривать свои собственные города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_TT">
+			<Text>Вы не можете просматривать экран города {1_CityName}.[NEWLINE][NEWLINE]Чтобы получить доступ к экрану города, переместите шпиона в этот город и установите там наблюдение.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_WAIT_TT">
+			<Text>Вы не можете просматривать экран города {1_CityName}.[NEWLINE][NEWLINE]В этом городе есть ваш шпион, однако необходимо дождаться установления наблюдения, прежде чем вы сможете просматривать экран города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_NO_CITY_TT">
+			<Text>Для просмотра экрана города шпион должен быть перемещен в этот город.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_YOUR_CITY_TT">
+			<Text>Вам не нужно просматривать экран города {1_CityName} глазами шпиона.[NEWLINE][NEWLINE]Вы являетесь владельцем этого города и не нуждаетесь в шпионе, чтобы узнать, что в нем происходит.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_RANK_TT">
+			<Text>{1_SpyName} получил звание {2_RankName}.[NEWLINE][NEWLINE]Существует три ранга шпионов: Новобранец, Агент и Специальный агент. Каждый следующий уровень повышает эффективность шпиона. Более высокопоставленный шпион быстрее похищает технологии, чаще обнаруживает и уничтожает вражеских шпионов, пытающихся обокрасть вас, эффективнее фальсифицирует выборы в Городах-государствах и имеет больше шансов на успешное проведение переворота в Городе-государстве, союзном другой цивилизации.[NEWLINE][NEWLINE]Шпионы повышают ранг, успешно похищая технологии у другой цивилизации или уничтожая вражеского шпиона, пытающегося похитить технологию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_LOCATION_TT">
+			<Text>{1_SpyRank} {2_SpyName} в настоящее время находится в {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_MOVE_TT">
+			<Text>Нажмите, чтобы переместить {1_SpyRank} {2_SpyName} в новое место.[NEWLINE][NEWLINE]Когда шпиону дано указание переместиться в новый город, требуется несколько ходов, прежде чем он станет полностью эффективным.[NEWLINE][NEWLINE]Если шпион перемещается в город своего владельца, он начнет проводить контрразведывательные операции по выявлению и уничтожению вражеских шпионов.[NEWLINE][NEWLINE]Если шпион перемещается в Столицу противника, у него есть возможность стать [ICON_DIPLOMAT] Дипломатом, и вы сможете торговать с этой цивилизацией за голоса во Всемирном конгрессе.[NEWLINE][NEWLINE]Если шпион перемещается в город другой цивилизации и не становится [ICON_DIPLOMAT] Дипломатом, он начнет пытаться похитить технологию у этой цивилизации. Шпион может похищать технологии лишь у той цивилизации, которая знает технологии, не известные владельцу шпиона. Если хозяин города держит в нем шпиона для защиты, ваш шпион рискует быть обнаружен и уничтожен. Это может осложнить дипломатические отношения![NEWLINE][NEWLINE]Если шпион перемещается в Город-государство, он будет пытаться фальсифицировать выборы, чтобы увеличить ваше влияние над этим Городом-государством.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUP_ENABLED_TT">
+			<Text>Нажмите, чтобы {1_SpyRank} {2_SpyName} попытался совершить государственный переворот в {3_CityName} и свергнуть тамошних сторонников {4_CivAdjective}.[NEWLINE][NEWLINE]Шансы на успех составляют {5_Num}%. Если {6_SpyRank} {7_SpyName} добьется успеха, вы станете союзниками {8_CityName}, а влияние {9_CivShortDesc} снизится до вашего текущего уровня влияния. После этого влияние всех остальных игроков также упадет. Если {10_SpyRank} {11_SpyName} потерпит неудачу, он будет уничтожен, а ваше влияние на {12_CityName} значительно ослабнет.[NEWLINE][NEWLINE]Чтобы повысить шансы на успех, вы можете увеличить свое влияние на Город-государство, использовать более высокопоставленного шпиона или подождать, пока влияние нынешнего союзника не ослабнет.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_WAIT_TT">
+			<Text>{1_SpyRank} {2_SpyName} пока не может попытаться совершить государственный переворот в {3_CityName}, так как еще не завершил там установление наблюдения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_NO_ALLY_TT">
+			<Text>{1_SpyRank} {2_SpyName} не может попытаться совершить государственный переворот в {3_CityName}, поскольку у {4_CityName} в настоящее время нет союзников.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_YOU_ALLY_TT">
+			<Text>{1_SpyRank} {2_SpyName} не может попытаться совершить государственный переворот в {3_CityName}, поскольку вы сами являетесь союзником этого Города-государства!</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_BUTTON_DISABLED_SPY_DEAD_TT">
+			<Text>{1_SpyRank} {2_SpyName} мертв. Дайте ему покой.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_NAMEPLATE_TT">
+			<Text>Это ваш шпион, {1_SpyRank} {2_SpyName}.[NEWLINE][NEWLINE]Шпионы должны быть перемещены в города, чтобы от них был какой-то толк.[NEWLINE][NEWLINE]Если ваш шпион находится в одном из ваших городов, он будет пытаться поймать и уничтожить вражеских шпионов, которые пытаются похитить вашу технологию.[NEWLINE][NEWLINE]Если ваш шпион находится в городе другой цивилизации, он будет пытаться похитить технологию у этой цивилизации. Шпион также будет сообщать о любых интригах, которые он раскроет, - например, о планах цивилизации напасть врасплох на вас или другие цивилизации.[NEWLINE][NEWLINE]Если ваш шпион находится в Городе-государстве, он будет пытаться фальсифицировать местные выборы, чтобы увеличить ваше влияние там.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_NEEDS_ASSIGNMENT_TT">
+			<Text>Переместите вашего шпиона в город, чтобы он начал свои темные дела.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_UNASSIGNED_TT">
+			<Text>{1_RankName} {2_SpyName} слоняется без дела в конспиративной квартире, не принося никакой пользы.[NEWLINE][NEWLINE]Переместите его в город, чтобы он занялся тайными операциями!</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_RIGGING_ELECTIONS_TT">
+			<Text>{1_RankName} {2_SpyName} пытается сфальсифицировать выборы в {3_CityName}, чтобы увеличить наше влияние там.[NEWLINE][NEWLINE]Только одна цивилизация может успешно сфальсифицировать выборы. Если в Городе-государстве присутствует более одного шпиона, наибольшие шансы на успешную фальсификацию выборов в свою пользу имеет самый высокопоставленный шпион, пробывший в этом Городе-государстве дольше всех.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_TRAVELLING_TT">
+			<Text>{1_RankName} {2_SpyName} в настоящее время направляется в {3_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_SURVEILLANCE_TT">
+			<Text>{1_RankName} {2_SpyName} устанавливает наблюдение в {3_CityName}.[NEWLINE][NEWLINE]После установления наблюдения шпион сможет приступить к более сложным операциям в городе. Наблюдение также позволяет вам просматривать экран города для городов других цивилизаций. (Но не для Городов-государств.)[NEWLINE][NEWLINE]Наблюдение также позволяет шпиону раскрывать интриги - например, планы внезапных нападений, которые готовит цивилизация. Эта информация может оказаться крайне важной!</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_GATHERING_INTEL_TT">
+			<Text>{1_RankName} {2_SpyName} собирает разведданные в {3_CityName} для кражи технологии.[NEWLINE][NEWLINE]Шпион может попытаться похитить технологию только в том случае, если цивилизация-цель располагает технологией, которой нет у цивилизации шпиона.[NEWLINE][NEWLINE]Если хозяин города держит в нем шпиона, ваш шпион рискует быть обнаружен и уничтожен при попытке похитить технологию!</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_TT">
+			<Text>{1_RankName} {2_SpyName} проводит контрразведывательные операции в {3_CityName}.[NEWLINE][NEWLINE]Если вражеский шпион попытается похитить технологию из города, в котором находится ваш шпион, ваш шпион гарантированно обнаружит факт кражи. Он также имеет шанс установить личность похитителя и уничтожить вражеского шпиона на месте. Чем выше ранг вашего шпиона, тем выше вероятность уничтожения вражеского шпиона при попытке кражи технологии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_SPY_RANK_TT">
+			<Text>+{1_Num}% к шансу уничтожения вражеских шпионов благодаря рангу {2_RankName} {3_SpyName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_POLICY_TT">
+			<Text>+{1_Num}% к шансу уничтожения вражеских шпионов благодаря институту "Полицейское государство".</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_SUM_TT">
+			<Text>{1_Num}% суммарный шанс уничтожения вражеского шпиона.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_OVERVIEW">
+			<Text>Обзор</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_OVERVIEW_TT">
+			<Text>Экран "Обзор" позволяет просматривать ваших шпионов и назначать их в города по всему миру для ведения наблюдения, кражи технологий, раскрытия интриг или фальсификации выборов в Городах-государствах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INTRIGUE">
+			<Text>Интриги</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INTRIGUE_TT">
+			<Text>Экран "Интриги" показывает, что вы узнали от своих шпионов и других цивилизаций о планах прочих цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_UNASSIGNED_SPIES_TT">
+			<Text>У вас есть {1_Num: plural 1?шпион, не назначенный; other?{1_Num} шпионов, не назначенных;} на задания.[NEWLINE][NEWLINE]Шпионы могут похищать технологии у других цивилизаций, раскрывать планы других цивилизаций через интриги и увеличивать ваше влияние на Города-государства путем фальсификации выборов. Назначьте шпионов на экране "Обзор Шпионажа", чтобы они приступили к работе!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_SPY_OTHER_CIV_TT">
+			<Text>{1_SpyRank} {2_SpyName} находится в {3_CityName}. Пока {4_SpyRank} {5_SpyName} пребывает в городе, он устанавливает наблюдение, а затем пытается похитить у этой цивилизации любую технологию, которой у вас нет. {6_SpyRank} {7_SpyName} также будет сообщать вам о любых интригах, которые обнаружит в ходе своих операций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_SPY_CITY_STATE_TT">
+			<Text>{1_SpyRank} {2_SpyName} находится в {3_CityName}. Пока {4_SpyRank} {5_SpyName} пребывает в Городе-государстве, он устанавливает наблюдение, а затем пытается фальсифицировать выборы, чтобы увеличить ваше влияние на Город-государство. При наличии других шпионов вам может не удаться сфальсифицировать каждые выборы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_SPY_YOUR_CITY_TT">
+			<Text>{1_SpyRank} {2_SpyName} находится в {3_CityName}. Пока {4_SpyRank} {5_SpyName} пребывает в вашем городе, он будет проводить контрразведывательные операции по поимке и уничтожению вражеских шпионов, пытающихся похитить вашу технологию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MOVE_SPY_HIDEOUT_BUTTON">
+			<Text>Переместить на явку</Text>
+		</Row>
+<Row Tag="TXT_KEY_MOVE_SPY_HIDEOUT_BUTTON_TT">
+			<Text>Это выводит шпиона из активного режима и отправляет его на явку, где он будет играть в дартс остроконечными ножами для стейка в ожидании следующего задания.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MOVE_SPY_CANCEL">
+			<Text>Отмена</Text>
+		</Row>
+<Row Tag="TXT_KEY_MOVE_SPY_CANCEL_TT">
+			<Text>Отменяет перемещение шпиона и оставляет его на текущем месте.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_BUILDING_MOD_TITLE">
+			<Text>Изменение от зданий и чудес:</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_BUILDING_MOD_ENTRY">
+			<Text>{1_BuildingName}: {2_Num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_WONDER_MOD_TITLE">
+			<Text>Изменение от чудес в других городах:</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_WONDER_MOD_ENTRY">
+			<Text>{1_WonderName}: {2_Num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_POLICY_MOD_TITLE">
+			<Text>Изменение от общественных институтов:</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL_POLICY_MOD_ENTRY">
+			<Text>{1_SocialPolicyName}: {2_Num}%</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INCREASED_CHANCE_TO_CATCH_SPY_YOU">
+			<Text>Вы приняли институт {1_SocialPolicyName}, который дает +{2_Num}% к шансу поимки вражеских шпионов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_INCREASED_CHANCE_TO_CATCH_SPY_THEM">
+			<Text>{1_PlayerName} принял институт {2_SocialPolicyName}, который дает +{3_Num}% к шансу поимки вражеских шпионов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_STATE_ELECTION">
+			<Text>Все города-государства по всему миру проводят выборы одновременно каждые {1_Num} ходов. Следующие выборы состоятся через {2_Num} ходов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_NO_INTRIGUE_AVAILABLE">
+			<Text>Интриги отсутствуют</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_MOVE_SPY_TO_HIDEOUT_CHECK">
+			<Text>Вы уверены, что хотите отправить {1_SpyRank} {2_SpyName} на явку?[NEWLINE][NEWLINE]Любое действие, которое шпион выполняет в данный момент, будет отменено при перемещении на явку. На явке шпионы не могут вам помогать, однако там их невозможно уничтожить.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_UNKNOWN_POTENTIAL">
+			<Text>?</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

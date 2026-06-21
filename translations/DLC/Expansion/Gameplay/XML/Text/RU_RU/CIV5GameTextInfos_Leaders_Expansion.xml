@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_LEADER_ATTILA">
+			<Text>Аттила</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_BOUDICCA">
+			<Text>Боудикка</Text>
+     		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_DIDO">
+			<Text>Дидона</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Густав Адольф</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_MARIA">
+			<Text>Мария Терезия</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_PACAL">
+			<Text>Пакаль</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>Хайле Селассие</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_THEODORA">
+			<Text>Феодора</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_WILLIAM">
+			<Text>Вильгельм</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>Изабелла</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_DESC">
+			<Text>Соединенные Штаты Америки</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_SHORT_DESC">
+			<Text>Союз</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_ADJECTIVE">
+			<Text>Союзный</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>Конфедеративные Штаты Америки</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_SHORT_DESC">
+			<Text>Конфедерация</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_ADJECTIVE">
+			<Text>Конфедеративный</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

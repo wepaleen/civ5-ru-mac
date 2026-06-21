@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_TITLE">
+			<Text>Нарезная артиллерия</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_TITLE">
+			<Text>Военная наука</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_TITLE">
+			<Text>Инженерное дело</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_TITLE">
+			<Text>Магазинные винтовки</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_TITLE">
+			<Text>Броненосцы</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_TITLE">
+			<Text>Кавалерийские рейды</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_TITLE">
+			<Text>Полевые госпитали</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_TITLE">
+			<Text>Воздушная разведка на аэростатах</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_TITLE">
+			<Text>Военные железные дороги</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_TITLE">
+			<Text>Индустриализация</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_TITLE">
+			<Text>Выжженная земля</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_TITLE">
+			<Text>Окапывание</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

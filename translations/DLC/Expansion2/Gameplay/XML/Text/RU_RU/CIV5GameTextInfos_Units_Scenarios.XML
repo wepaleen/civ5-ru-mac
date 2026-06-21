@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION">
+			<Text>Пехотная дивизия США</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS">
+			<Text>Пехотный корпус США</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY">
+			<Text>Кавалерия США</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY">
+			<Text>Карабинерная кавалерия США</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON">
+			<Text>Пушка США</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON">
+			<Text>Нарезная пушка США</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE">
+			<Text>Фрегат</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR">
+			<Text>Монитор</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION">
+			<Text>Пехотная дивизия КША</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS">
+			<Text>Пехотный корпус КША</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY">
+			<Text>Кавалерия КША</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY">
+			<Text>Карабинерная кавалерия КША</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON">
+			<Text>Пушка КША</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON">
+			<Text>Нарезная пушка КША</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER">
+			<Text>Блокадопрорыватель</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD">
+			<Text>Броненосец</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN">
+			<Text>Пулемет Гатлинга</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER">
+			<Text>Военный инженер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_STRATEGY">
+			<Text>Основной юнит ближнего боя в Гражданской войне. Улучшайте дивизии до корпусов для большей концентрации огневой мощи, если вы открыли технологию военных наук и располагаете необходимой живой силой и Золотом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS_STRATEGY">
+			<Text>Мощнейший юнит ближнего боя в Гражданской войне, доступный только путем улучшения пехотной дивизии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_STRATEGY">
+			<Text>Основной конный юнит Гражданской войны. Улучшайте до карабинерной кавалерии после открытия технологии многозарядных винтовок.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_STRATEGY">
+			<Text>Мощнейший конный юнит Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_STRATEGY">
+			<Text>Основной артиллерийский юнит Гражданской войны. Очень эффективен против соседних юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON_STRATEGY">
+			<Text>Усовершенствованный артиллерийский юнит Гражданской войны с дальностью стрельбы 3 гекса. Применяйте для контрбатарейного огня по артиллерии противника.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION_STRATEGY">
+			<Text>Основной юнит ближнего боя в Гражданской войне. Улучшайте дивизии до корпусов для большей концентрации огневой мощи, если вы открыли технологию военных наук и располагаете необходимой живой силой и Золотом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS_STRATEGY">
+			<Text>Мощнейший юнит ближнего боя в Гражданской войне, доступный только путем улучшения пехотной дивизии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_STRATEGY">
+			<Text>Основной конный юнит Гражданской войны. Улучшайте до карабинерной кавалерии после открытия технологии многозарядных винтовок.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_STRATEGY">
+			<Text>Мощнейший конный юнит Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_STRATEGY">
+			<Text>Основной артиллерийский юнит Гражданской войны. Очень эффективен против соседних юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON_STRATEGY">
+			<Text>Усовершенствованный артиллерийский юнит Гражданской войны с дальностью стрельбы 3 гекса. Применяйте для контрбатарейного огня по артиллерии противника.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE_STRATEGY">
+			<Text>Базовый морской юнит, уже устаревший к началу Гражданской войны. Может строиться только Союзом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_STRATEGY">
+			<Text>Может строиться только Конфедерацией. Получайте Золото за каждый блокадопрорыватель, доведенный до восточного края карты (где он будет автоматически распущен).</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_STRATEGY">
+			<Text>Может строиться только Конфедерацией. Медленный, но невероятно мощный морской юнит, способный легко одолевать фрегаты Союза.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_STRATEGY">
+			<Text>Дальнобойный юнит, появляющийся на поздних этапах Гражданской войны. Достаточно крепок, чтобы отражать атаки ближнего боя, и опустошителен против соседних юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_STRATEGY">
+			<Text>Может строиться только Союзом. Способен легко одолевать блокадопрорыватели Конфедерации и на равных сражаться с броненосцами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_HELP">
+			<Text>Линейный юнит ближнего боя начала Гражданской войны, до того как обе стороны начали формировать более крупные соединения (пехотные корпуса).</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS_HELP">
+			<Text>Линейный юнит ближнего боя в основной фазе Гражданской войны, после того как обе стороны начали формировать более крупные соединения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_HELP">
+			<Text>Базовый конный юнит Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_HELP">
+			<Text>Мощный конный юнит с вдвое большей Боевой мощью, чем у обычной кавалерии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_HELP">
+			<Text>Базовый артиллерийский юнит Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON_HELP">
+			<Text>Усовершенствованный артиллерийский юнит с увеличенной дальностью стрельбы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION_HELP">
+			<Text>Линейный юнит ближнего боя начала Гражданской войны, до того как обе стороны начали формировать более крупные соединения (пехотные корпуса).</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS_HELP">
+			<Text>Линейный юнит ближнего боя в основной фазе Гражданской войны, после того как обе стороны начали формировать более крупные соединения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_HELP">
+			<Text>Базовый конный юнит Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_HELP">
+			<Text>Мощный конный юнит с вдвое большей Боевой мощью, чем у обычной кавалерии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_HELP">
+			<Text>Базовый артиллерийский юнит Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON_HELP">
+			<Text>Усовершенствованный артиллерийский юнит с увеличенной дальностью стрельбы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE_HELP">
+			<Text>Базовый морской юнит Союза.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_HELP">
+			<Text>Морской юнит Конфедерации, который можно обменять на Золото.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_HELP">
+			<Text>Уникальный морской юнит Конфедерации, опустошительный против фрегатов Союза.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_HELP">
+			<Text>Усовершенствованное противопехотное оружие, доступное на поздних этапах Гражданской войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_HELP">
+			<Text>Уникальный морской юнит Союза, способный на равных сражаться с броненосцами Конфедерации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN">
+			<Text>Необстрелянный</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_CONFEDERATE_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-20% [ICON_STRENGTH] Боевая мощь.[ENDCOLOR][NEWLINE][NEWLINE]Заменяется случайно выбранным новым генералом Конфедерации (повышение) после первого боя юнита</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_UNION_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-20% [ICON_STRENGTH] Боевая мощь.[ENDCOLOR][NEWLINE][NEWLINE]Заменяется случайно выбранным новым генералом Союза (повышение) после первого боя юнита</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON">
+			<Text>Ричард Х. Андерсон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_HILL">
+			<Text>Амброз П. Хилл</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_B_JOHNSON">
+			<Text>Бушрод Джонсон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE">
+			<Text>Джон Брекинридж</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL">
+			<Text>Дэниел Х. Хилл</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_E_JOHNSON">
+			<Text>Эдвард Джонсон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EARLY">
+			<Text>Джубал Эрли</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EWELL">
+			<Text>Ричард Юэлл</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FIELD">
+			<Text>Чарльз Филд</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GORDON">
+			<Text>Джон Гордон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HETH">
+			<Text>Генри Хет</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOKE">
+			<Text>Роберт Хоук</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOLMES">
+			<Text>Теофил Холмс</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOOD">
+			<Text>Джон Белл Худ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUGER">
+			<Text>Бенджамин Хьюгер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_JACKSON">
+			<Text>Томас Джексон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_LONGSTREET">
+			<Text>Джеймс Лонгстрит</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAGRUDER">
+			<Text>Джон Магрудер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAHONE">
+			<Text>Уильям Магоун</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MCLAWS">
+			<Text>Лафайет Маклоз</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PICKETT">
+			<Text>Джордж Пикетт</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_RODES">
+			<Text>Роберт Роудс</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WHITING">
+			<Text>Чейз Уайтинг</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WINDER">
+			<Text>Чарльз Уиндер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WRIGHT">
+			<Text>Амброз Райт</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Двойное передвижение в лесу.[ENDCOLOR][NEWLINE][NEWLINE]Выиграл "гонку к Споттсильвании" в первый день командования корпусом, опередив войска Союза на этом стратегическом перекрестке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_HILL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Двойное передвижение по лугам.[ENDCOLOR][NEWLINE][NEWLINE]"Легкая дивизия Хилла" прославилась 17-мильным однодневным маршем из Харперс-Ферри, спасшим конфедератов при Шарпсберге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_B_JOHNSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] При защите в городе.[ENDCOLOR][NEWLINE][NEWLINE]Его южнокаролинцы доблестно сражались в битве при Кратере, захватив 130 пленных.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] При защите на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Баллотировался на пост президента против Линкольна в 1860 году. Его дивизия участвовала в отражении фронтального удара Союза при Колд-Харборе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]Нет бонуса от Великих полководцев.[ENDCOLOR][NEWLINE][NEWLINE]Умелый полководец, чья карьера была омрачена постоянными конфликтами с вышестоящими офицерами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_E_JOHNSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] При защите в лесу.[ENDCOLOR][NEWLINE][NEWLINE]Его дивизия отразила несколько атак Союза в битве в Глуши, что заставило Ли рассматривать его кандидатуру на командование корпусом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EARLY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+10 HP в ход на вражеской территории.[ENDCOLOR][NEWLINE][NEWLINE]Возглавил поздний военный рейд на Вашингтон, едва не захвативший слабо защищенную столицу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EWELL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+10 HP в ход вне дружественной и вражеской территории.[ENDCOLOR][NEWLINE][NEWLINE]Возглавил наступление конфедератов в Пенсильванию и едва не захватил Гаррисберг во время Геттисбергской кампании.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FIELD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] При атаке на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Помог обезопасить Ричмонд мощной контратакой в битве при Дип-Боттом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GORDON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] При атаке в лесу.[ENDCOLOR][NEWLINE][NEWLINE]Провел успешный фланговый удар в Глуши, который мог переломить ход сражения, если бы был начат раньше.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HETH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+1 дальность обзора.[ENDCOLOR][NEWLINE][NEWLINE]Прославился разведывательным рейдом к Геттисбергу в поисках обуви, который положил начало великому сражению.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOKE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] При атаке городов.[ENDCOLOR][NEWLINE][NEWLINE]Захватил гарнизон Союза в три тысячи солдат при штурме Плимута в Северной Каролине - последняя победа конфедератов в войне.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOLMES_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-1 Передвижение.[ENDCOLOR][NEWLINE][NEWLINE]На шестом десятке лет, страдая потерей памяти, он главным образом командовал прибрежными гарнизонами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOOD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]1 дополнительная атака в ход.[ENDCOLOR][NEWLINE][NEWLINE]Пожалуй, самый агрессивный из командиров конфедератов, чья наступательная тактика в конечном счете погубила Армию Теннесси на исходе войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUGER_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-30% [ICON_STRENGTH] При защите в городе.[ENDCOLOR][NEWLINE][NEWLINE]Эвакуировал Норфолк в начале Полуостровной кампании, вынудив конфедератов затопить броненосец CSS "Вирджиния".</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_JACKSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Бонус за фланговый удар увеличен на 50%.[ENDCOLOR][NEWLINE][NEWLINE]Получил прозвище "Каменная стена" при 1-м сражении при Булл-Ране; возглавлял решающие фланговые маневры в кампаниях при 2-м Булл-Ране и Чанселлорсвилле.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_LONGSTREET_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH]При атаке на пересеченной местности.[ENDCOLOR][NEWLINE][NEWLINE] Наибольшего успеха добился, возглавив контратаку конфедератов в густых лесах в ходе кампании в Глуши.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAGRUDER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+100% [ICON_STRENGTH]При защите в болоте.[ENDCOLOR][NEWLINE][NEWLINE] Обманул Союз, заставив поверить в командование огромной армией, пока защищал болотистые земли Виргинского полуострова.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAHONE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]На 30% сильнее в бою вблизи столицы; бонус снижается по мере удаления юнита от нее.[ENDCOLOR][NEWLINE][NEWLINE]Герой битвы при Кратере - неудачной попытки Союза подорвать осадные линии у Питерсберга с помощью туннеля.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MCLAWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] При защите на холмах.[ENDCOLOR][NEWLINE][NEWLINE]Воодушевил своих солдат на яростную оборону высот Мари в битве при Фредериксберге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PICKETT_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] При атаке на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Дал имя злополучной "Атаке Пикетта", приведшей к поражению конфедератов на третий день битвы при Геттисберге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_RODES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Бонус за фланговый удар увеличен на 30%.[ENDCOLOR][NEWLINE][NEWLINE]Командовал первой волной флангового удара Джексона при Чанселлорсвилле, приумножив легенду этого полководца.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WHITING_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Боевая мощь против артиллерии.[ENDCOLOR][NEWLINE][NEWLINE]Командовал подразделениями, захватившими первую артиллерийскую батарею Союза в ходе войны (батарея Рикеттса при 1-м сражении при Булл-Ране).</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WINDER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+1 Передвижение.[ENDCOLOR][NEWLINE][NEWLINE]Его подразделение представляло элитную "пехоту-кавалерию" корпуса Джексона, прославившуюся многомильными дневными маршами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WRIGHT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Может высаживаться на морские клетки.[ENDCOLOR][NEWLINE][NEWLINE]Участвовал в редкой десантной операции конфедератов по усилению гарнизона острова Роанок в Северной Каролине для отражения атаки Союза.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SIGEL">
+			<Text>Франц Зигель</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BANKS">
+			<Text>Натаниэль Бэнкс</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_REYNOLDS">
+			<Text>Джон Рейнольдс</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SUMNER">
+			<Text>Эдвин Самнер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HEINTZELMAN">
+			<Text>Сэмюэл Хайнцелман</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PORTER">
+			<Text>Фитц Джон Портер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FRANKLIN">
+			<Text>Уильям Франклин</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_COUCH">
+			<Text>Дариус Кауч</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MANSFIELD">
+			<Text>Джозеф Мэнсфилд</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_WILLIAMS">
+			<Text>Алфеус Уильямс</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SEDGWICK">
+			<Text>Джон Седжвик</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_DOUBLEDAY">
+			<Text>Абнер Даблдей</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK">
+			<Text>Уинфилд Хэнкок</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES">
+			<Text>Дэниел Сикклс</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOWARD">
+			<Text>Оливер Говард</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SLOCUM">
+			<Text>Генри Слокам</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN">
+			<Text>Гувернер Уоррен</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SMITH">
+			<Text>Уильям Смит</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUMPHREYS">
+			<Text>Эндрю Хамфрис</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_H_WRIGHT">
+			<Text>Горацио Райт</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GIBBON">
+			<Text>Джон Гиббон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PATTERSON">
+			<Text>Роберт Паттерсон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_CHAMBERLAIN">
+			<Text>Джошуа Чемберлен</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_POTTER">
+			<Text>Роберт Поттер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_UPTON">
+			<Text>Эмори Аптон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SIGEL_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]Нет бонуса от Великих полководцев.[ENDCOLOR][NEWLINE][NEWLINE]Получил командование XI корпусом благодаря популярности среди немецких иммигрантов-добровольцев. По возможности отстранялся от главных театров боевых действий.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BANKS_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-1 дальность обзора.[ENDCOLOR][NEWLINE][NEWLINE]Был полностью переигран и разгромлен Томасом Джексоном в ходе кампании в долине Шенандоа в 1862 году.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_REYNOLDS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] При защите на пересеченной местности.[ENDCOLOR][NEWLINE][NEWLINE]Воодушевил своих солдат на яростную оборону холма Генри-Хаус во 2-м сражении при Булл-Ране.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SUMNER_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] При защите на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Его корпус понес катастрофические потери в атаках при Антиетаме и Фредериксберге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HEINTZELMAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]На 30% сильнее при сражении в столице; бонус снижается по мере удаления юнита.[ENDCOLOR][NEWLINE][NEWLINE]После посредственных результатов в полевом командовании был назначен руководить обороной Вашингтона до конца войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PORTER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+50% [ICON_STRENGTH] при защите на болоте.[ENDCOLOR][NEWLINE][NEWLINE]Защищал правый фланг Союза одним корпусом против превосходящих сил в битве при Гейнс-Милл.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FRANKLIN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Устраняет штраф в бою при атаке с моря или через реку.[ENDCOLOR][NEWLINE][NEWLINE]Командовал единственным пехотным подразделением Союза, получившим специальную подготовку для проведения десантных операций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_COUCH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] при защите в городе.[ENDCOLOR][NEWLINE][NEWLINE]Успешно оборонял Харрисберг с плохо обученным ополчением во время Геттисбергской кампании.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MANSFIELD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] при атаке в лесу.[ENDCOLOR][NEWLINE][NEWLINE]Возглавил дерзкую атаку на Западный лес при Антиетаме, в ходе которой был убит.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_WILLIAMS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+2 к дальности обзора.[ENDCOLOR][NEWLINE][NEWLINE]Его войска обнаружили печально известный Специальный приказ N191 (содержавший планы вторжения Ли в Мэриленд), завернутый вокруг трех сигар.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SEDGWICK_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] Боевая мощь против пехоты.[ENDCOLOR][NEWLINE][NEWLINE]Был убит снайпером спустя мгновения после того, как заявил, что конфедераты "не смогут попасть в слона с такого расстояния".</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_DOUBLEDAY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] при защите на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Хотя больше всего известен своей ролью в изобретении бейсбола, был компетентным командиром и отличился при Геттисберге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] при защите на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Организовал оборону Союза вдоль Семетери-Ридж при Геттисберге после гибели командира своего крыла Джона Рейнольдса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] при защите на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Выдвинул свой корпус к Персиковому саду при Геттисберге, опасно обнажив свои части для атак с трех сторон.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOWARD_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-15% [ICON_STRENGTH] при защите на пересеченной местности.[ENDCOLOR][NEWLINE][NEWLINE]Его корпус был разгромлен в ходе последовательных сражений при Чанселлорсвилле и Геттисберге в 1863 году.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SLOCUM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] при атаке города.[ENDCOLOR][NEWLINE][NEWLINE]Несмотря на прозвище "Тихоход" за нерешительные марши, его войска все же взяли Атланту во время наступления Шермана на этот город.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] при защите на пересеченной местности.[ENDCOLOR][NEWLINE][NEWLINE]Выстроил оборону Союза при Геттисберге вдоль Семетери-Ридж до высоты Литтл-Раунд-Топ.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SMITH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Юниты на судне защищаются с удвоенной силой.[ENDCOLOR][NEWLINE][NEWLINE]Спланировал и успешно провел десантную операцию у Браунс-Ферри в ходе Чаттанугской кампании.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUMPHREYS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] при атаке на холмах.[ENDCOLOR][NEWLINE][NEWLINE]Добился наибольшего продвижения среди всех подразделений Союза во время штурма высот Мэри над Фредериксбергом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_H_WRIGHT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Нет затрат Передвижения на разграбление[ENDCOLOR][NEWLINE][NEWLINE]Командовал VI корпусом Союза в ходе Шенандоанской долинной кампании Шеридана, оставившей этот плодородный край в руинах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GIBBON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Двойное Передвижение по лугам.[ENDCOLOR][NEWLINE][NEWLINE]Совершил марш со своим корпусом 30 миль за 21 час, чтобы поддержать Шеридана в окружении армии Ли при Аппоматтоксе и завершить войну в Вирджинии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PATTERSON_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-1 к Передвижению.[ENDCOLOR][NEWLINE][NEWLINE]Был немедленно уволен со службы после 1-го сражения при Булл-Ран, когда его обвинили в том, что он не задержал армию Джо Джонстона у Винчестера.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_CHAMBERLAIN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] при защите на холмах.[ENDCOLOR][NEWLINE][NEWLINE]Командир 20-го Мэнского полка в ходе их легендарной обороны высоты Литтл-Раунд-Топ на второй день сражения при Геттисберге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_POTTER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+30% [ICON_STRENGTH] Боевая мощь против укрепленных юнитов.[ENDCOLOR][NEWLINE][NEWLINE]В состав дивизии входил 48-й Пенсильванский полк - подразделение бывших шахтеров, мастерски умевших рыть тоннели под вражескими позициями и закладывать взрывчатку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_UPTON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+15% [ICON_STRENGTH] при атаке на открытой местности.[ENDCOLOR][NEWLINE][NEWLINE]Разработал новый стиль атаки с использованием плотной колонны войск, прорвавшей вражеские позиции у Спотсильванского суда.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY">
+      <Text>Дервишская кавалерия</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE">
+      <Text>Форс Пюблик</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS">
+      <Text>Класс "Бранденбург"</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS">
+      <Text>Класс "Каио Дуилио"</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS">
+      <Text>Иностранный доброволец</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_EXPLORER">
+      <Text>Исследователь</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_RIFLED_CANNON">
+      <Text>Нарезная пушка</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_ANDERSON">
+      <Text>Бенджамин Андерсон</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_BAKER">
+      <Text>Сэмюэл Бейкер</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_BARTH">
+      <Text>Генрих Барт</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_BRAZZA">
+      <Text>Пьер Саворньян де Бразза</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_BURNHAM">
+      <Text>Фредерик Бернем</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_BURTON">
+      <Text>Ричард Фрэнсис Бертон</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_CAILLIE">
+      <Text>Рене Кайе</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_CAPELO">
+      <Text>Эрменежилду Капелу</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_CHAILLU">
+      <Text>Поль дю Шайю</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_CLAPPERTON">
+      <Text>Хью Клапертон</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_DENHAM">
+      <Text>Диксон Денем</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_DUVEYRIER">
+      <Text>Анри Дювейрье</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_ELTON">
+      <Text>Джеймс Элтон</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_GESSI">
+      <Text>Ромоло Джесси</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_HOLUB">
+      <Text>Эмиль Голуб</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_IVENS">
+      <Text>Роберту Ивенс</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_KINGSLEY">
+      <Text>Мэри Кингсли</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_KIRK">
+      <Text>Джон Керк</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_KRAPF">
+      <Text>Иоганн Крапф</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_LANDER">
+      <Text>Ричард Лэндер</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_LENZ">
+      <Text>Оскар Ленц</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_LERMAN">
+      <Text>Драгутин Лерман</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_LIVINGSTON">
+      <Text>Давид Ливингстон</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_LUGARD">
+      <Text>Фредерик Лугард</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_MEYER">
+      <Text>Ганс Майер</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_MOHUN">
+      <Text>Ричард Мохун</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_NACHTIGAL">
+      <Text>Густав Нахтигаль</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_PETERS">
+      <Text>Карл Петерс</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_POTAGOS">
+      <Text>Панайотос Потагос</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_REBMANN">
+      <Text>Иоганнес Ребман</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_ROHLFS">
+      <Text>Фридрих Рольфс</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_SCHWEINFURTH">
+      <Text>Георг Швайнфурт</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_SELJAN">
+      <Text>Мирко Сельян</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_SELOUS">
+      <Text>Фредерик Селус</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_SERPA_PINTO">
+      <Text>Александре де Серпа Пинту</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_SILVA_PORTO">
+      <Text>Антониу да Силва Порту</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_SPEKE">
+      <Text>Джон Хэннинг Спик</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_STAIRS">
+      <Text>Уильям Стэрс</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_STANLEY">
+      <Text>Генри М. Стэнли</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_TINNE">
+      <Text>Алексин Тинне</Text>
+    </Row>
+<Row Tag="TXT_KEY_EXPLORER_VOGEL">
+      <Text>Эдуард Фогель</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

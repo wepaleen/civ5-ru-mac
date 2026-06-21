@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG">
+			<Text>Аугсбург</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_ADJ">
+			<Text>Аугсбург</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE">
+			<Text>Кельн</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_ADJ">
+			<Text>Кельн</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA">
+			<Text>Мекка</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_ADJ">
+			<Text>Мекканский</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS">
+			<Text>Тунис</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_ADJ">
+			<Text>Тунисский</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES">
+			<Text>Неаполь</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_ADJ">
+			<Text>Неаполитанский</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA">
+			<Text>Рига</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_ADJ">
+			<Text>Рижский</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK">
+			<Text>Гданьск</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_ADJ">
+			<Text>Гданьск</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK">
+			<Text>Полоцк</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_ADJ">
+			<Text>Полоцкий</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

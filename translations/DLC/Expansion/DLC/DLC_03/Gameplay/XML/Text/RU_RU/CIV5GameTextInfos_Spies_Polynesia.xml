@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_0">
+			<Text>Тики</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_1">
+			<Text>Хоту Матуа</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_2">
+			<Text>Ронго-ма-тане</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_3">
+			<Text>Купе</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_4">
+			<Text>Халоти</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_5">
+			<Text>Дегеи</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_6">
+			<Text>Бабамик</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_7">
+			<Text>Кулу Лау</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_8">
+			<Text>Нанганганга</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_9">
+			<Text>Туруа</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

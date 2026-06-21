@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TECH_INTERNET_TITLE">
+			<Text>Интернет</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_IRON_WORKING_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Мечника[ENDCOLOR] - чрезвычайно мощный юнит ближнего боя.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP">
+			<Text>Открывает [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Железо[ENDCOLOR] и позволяет вашим Рабочим [COLOR_POSITIVE_TEXT]Вырубать джунгли[ENDCOLOR], очищая клетку карты для строительства других улучшений. Также позволяет строить [COLOR_POSITIVE_TEXT]Копейщика[ENDCOLOR] - военный юнит, эффективный против конных врагов.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

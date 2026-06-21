@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING">
+          <Text>Корабль-черепаха</Text>
+      </Row>
+<Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_HEADING">
+          <Text>Хвача</Text>
+      </Row>
+	</Language_RU_RU>
+</GameData>

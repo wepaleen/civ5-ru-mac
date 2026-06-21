@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_ADJECTIVE">
+			<Text>Цзиньский</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_DESC">
+			<Text>Империя Цзинь</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_SIAM_SHORT_DESC">
+			<Text>Цзинь</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_ADJECTIVE">
+			<Text>Византийский</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_DESC">
+			<Text>Византийская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV_GREECE_SHORT_DESC">
+			<Text>Византия</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

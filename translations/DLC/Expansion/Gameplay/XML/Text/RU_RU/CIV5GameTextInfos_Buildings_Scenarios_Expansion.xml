@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BUILDING_MEAD_HALL">
+			<Text>Медовый зал</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HOV">
+			<Text>Хов</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRANDSTAND">
+			<Text>Трибуна</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY">
+			<Text>Фабрика Луборика</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
+			<Text>Торусное динамо</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY">
+			<Text>Фабрика эфириума</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AERODROME">
+			<Text>Аэродром</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE">
+			<Text>Разностная машина</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION">
+			<Text>Большой особняк</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE">
+			<Text>Торговый колледж</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE">
+			<Text>Патентное бюро</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY">
+			<Text>Нефтеперерабатывающий завод Луборика</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM">
+			<Text>Филантропориум</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TESLA_COIL">
+			<Text>Катушка Теслы</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR">
+			<Text>Фабрикатор эфириума</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR">
+			<Text>Ангар для дирижаблей</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY">
+			<Text>Автоматизированная фабрика</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST">
+			<Text>Подземный форпост</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE">
+			<Text>Аналитическая машина</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE">
+			<Text>Дом Билтмор</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL">
+			<Text>Зал изобретателей</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL">
+			<Text>Карнеги-холл</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY">
+			<Text>Подземная колония</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE">
+			<Text>Двигатель вечного движения</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BUILDING_UNITED_NATIONS">
+			<Text>Собор Святого Петра</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH">
+			<Text>Деревянная церковь</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CHATEAU">
+			<Text>Шато</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MADRASAH">
+			<Text>Медресе</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

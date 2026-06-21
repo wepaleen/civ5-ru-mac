@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO">
+			<Text>Леопольд II</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH">
+			<Text>Виктория</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON">
+			<Text>Жюль Греви</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS">
+			<Text>Джузеппе Гарибальди</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK">
+			<Text>Бисмарк</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I">
+			<Text>Мария Пиа</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES">
+			<Text>Исмаил-паша</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR">
+			<Text>Хасан I</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN">
+			<Text>Абдул-Хамид II</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON">
+			<Text>Пол Крюгер</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE">
+			<Text>Менелик II</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA">
+			<Text>Кечвайо</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

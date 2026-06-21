@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED">
+      <Text>Юниты сражаются так, будто они находятся на полном здоровье, даже когда получили урон. +1 [ICON_CULTURE] Культура от каждой рыбачьей лодки и +2 [ICON_CULTURE] Культура от каждого атолла.</Text>
+    </Row>
+<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE_SHORT">
+			<Text>Светлейшая</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
+			<Text>Не может получать Поселенцев и аннексировать города. Вдвое больше Торговых путей по сравнению с обычным количеством. После изучения Оптики появляется Торговец Венеции. Можно покупать в городах-марионетках.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
+			<Text>Иклва</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS">
+			<Text>Содержание юнитов ближнего боя стоит на 50% меньше. Все юниты нуждаются на 25% меньше опыта для получения следующего Повышения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT_SHORT">
+			<Text>Сокровища Ниневии</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT">
+			<Text>При захвате города вы бесплатно получаете Технологию, уже открытую его владельцем. Получение города по торговому соглашению не учитывается, и это может произойти только один раз для каждого вражеского города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT">
+			<Text>Солидарность</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SOLIDARITY">
+			<Text>Получите бесплатный Общественный институт при переходе в следующую Эпоху.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_CARNIVAL_SHORT">
+			<Text>Карнавал</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_CARNIVAL">
+			<Text>Выработка Туризма [ICON_TOURISM] увеличивается на +100% во время их Золотых веков. Великие художники, музыканты и писатели появляются на 50% быстрее во время их Золотых веков.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SPICE_SHORT">
+			<Text>Острова пряностей</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SPICE">
+			<Text>Первые 3 города, основанные на континентах, отличных от стартового континента Индонезии, каждый предоставляет 2 уникальных Ресурса роскоши (и никогда не может быть снесен).</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE_SHORT">
+			<Text>Mare Clausum</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE">
+			<Text>Разнообразие ресурсов приносит вдвое больше [ICON_GOLD] Золота для Португалии в Торговых путях.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT">
+			<Text>Великое расширение</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE">
+			<Text>Основанные города начинают с дополнительной территорией. Юниты получают боевой бонус при сражении на собственной территории.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT">
+			<Text>Ворота в Африку</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA">
+			<Text>Получает +3 Золота [ICON_GOLD] и +1 [ICON_CULTURE] Культуры за каждый Торговый путь с другой цивилизацией или Городом-государством. Владельцы Торговых путей получают +2 [ICON_GOLD] Золота за каждый Торговый путь, направленный в Марокко.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2_SHORT">
+			<Text>Корабли пустыни</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2">
+			<Text>Дальность действия торговых караванов увеличена на 50%. Ваши торговые маршруты вдвое эффективнее распространяют религию родного города. Запасы [ICON_OIL] Нефти удваиваются.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT">
+			<Text>Город света</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
+			<Text>Бонусы за тематическое оформление музеев и Чудес света удваиваются в их столице.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS">
+			<Text>При уничтожении юнита варваров внутри лагеря есть 67% шанс получить 25 [ICON_GOLD] Золота, и они переходят на вашу сторону. Содержание сухопутных юнитов стоит на 25% меньше.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

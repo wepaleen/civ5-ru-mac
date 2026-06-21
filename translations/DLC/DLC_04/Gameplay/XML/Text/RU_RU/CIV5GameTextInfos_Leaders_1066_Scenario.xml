@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_BISMARCK">
+			<Text>Харальд Хардрада</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_ELIZABETH">
+			<Text>Гарольд Годвинсон</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_NAPOLEON">
+			<Text>Вильгельм Завоеватель</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARALD">
+			<Text>Свен II</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

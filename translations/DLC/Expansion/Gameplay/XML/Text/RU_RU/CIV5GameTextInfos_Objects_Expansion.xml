@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_RESOURCE_JEWELRY">
+			<Text>Украшения</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_PORCELAIN">
+			<Text>Фарфор</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_COPPER">
+			<Text>Медь</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_SALT">
+			<Text>Соль</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_CRAB">
+			<Text>Краб</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_TRUFFLES">
+			<Text>Трюфели</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_CITRUS">
+			<Text>Цитрус</Text>
+		</Row>
+<Row Tag="TXT_KEY_YIELD_CULTURE">
+			<Text>Культура</Text>
+		</Row>
+<Row Tag="TXT_KEY_YIELD_FAITH">
+			<Text>Вера</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_MERCANTILE_ADJECTIVE">
+			<Text>Торговый</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_RELIGIOUS_ADJECTIVE">
+			<Text>Религиозный</Text>
+		</Row>
+<Row Tag="TXT_KEY_FEATURE_SRI_PADA">
+			<Text>Шри-Пада</Text>
+		</Row>
+<Row Tag="TXT_KEY_FEATURE_MT_SINAI">
+			<Text>Гора Синай</Text>
+		</Row>
+<Row Tag="TXT_KEY_FEATURE_MT_KAILASH">
+			<Text>Гора Кайлаш</Text>
+		</Row>
+<Row Tag="TXT_KEY_FEATURE_ULURU">
+			<Text>Улуру</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITYVIEW_FAITH_TEXT">
+			<Text>Вера</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_6">
+			<Text>Атомная эпоха</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_POSTMODERN_STRATEGY">
+			<Text>Атомная эпоха</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_7">
+			<Text>Информационная эпоха</Text>
+		</Row>
+<Row Tag="TXT_KEY_IMPROVEMENT_HOLY_SITE">
+			<Text>Святое место</Text>
+		</Row>
+<Row Tag="TXT_KEY_DOMAIN_HOVER">
+			<Text>Парящие юниты</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

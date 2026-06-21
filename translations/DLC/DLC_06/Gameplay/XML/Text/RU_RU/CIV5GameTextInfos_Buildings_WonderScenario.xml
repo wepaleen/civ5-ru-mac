@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BUILDING_NILOMETER">
+			<Text>Ниломер</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ZIGGURAT">
+			<Text>Зиккурат</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LIONS_GATE">
+			<Text>Львиные ворота</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

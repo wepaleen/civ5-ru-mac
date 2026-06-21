@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TP_HAPPINESS_LEAGUES">
+			<Text>{1_Happiness} от Всемирного конгресса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_UNHAPPINESS_PUBLIC_OPINION">
+			<Text>{1_Num} от Общественного мнения (стремление к новой Идеологии).</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLD_FROM_ITR">
+			<Text>{1_Num} от [ICON_TURNS_REMAINING] Торговых путей между вашими Городами и городами других цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLD_FROM_TRAITS">
+			<Text>{1_Num} от Особенностей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_SCIENCE_FROM_ITR">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_RESEARCH] от [ICON_TURNS_REMAINING] Торговых путей между вашими Городами и городами других цивилизаций.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_CULTURE_FROM_BONUS_TURNS">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] от недавнего проекта Всемирного конгресса (осталось ходов: {2_TurnsLeft}).</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_CULTURE_CITY_COST">
+			<Text>Каждый ваш Город увеличивает стоимость Общественных институтов на {1_Num}%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_TECH_CITY_COST">
+			<Text>Каждый ваш Город или [ICON_PUPPET] Марионеточный город увеличивает стоимость Технологий на {1_Num}%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_CARNIVAL_EFFECT">
+			<Text>Благодаря вашему уникальному бонусу Карнавала, выход Туризма в данный момент увеличен на +100% со всеми цивилизациями, а Великие писатели, художники и музыканты появляются на 50% быстрее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLD_FROM_CITY_CONNECTIONS">
+			<Text>{1_Num} от [ICON_CONNECTED] Торговых путей между вашими Городами и вашей [ICON_CAPITAL] Столицей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
+			<Text>Так как [ICON_HAPPINESS_4] Недовольство достигло 20, Империя охвачена восстанием! Города могут покинуть вашу империю и перейти к цивилизации, культурное влияние которой на ваш народ наиболее велико.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
+			<Text>Так как [ICON_HAPPINESS_4] Недовольство достигло 10, Империя охвачена волнениями! Могут вспыхивать восстания с появлением мятежных (варварских) юнитов на вашей территории. Это будет происходить каждые несколько ходов, пока вы не исправите положение!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
+			<Text>Города будут расти лишь с 1/4 нормальной скорости, пока империя [ICON_HAPPINESS_3] недовольна! [NEWLINE][ICON_GOLD] Золото и [ICON_PRODUCTION] Производство снижены на 2% за каждую единицу Недовольства. Тот же штраф применяется к Юнитам в бою!</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_ANARCHY">
+			<Text>[COLOR_NEGATIVE_TEXT]Империя погружена в Анархию из-за смены Идеологии еще {1_Turns} ход(а). Во время Анархии империя не получает [ICON_RESEARCH] Науку, [ICON_GOLD] Золото, [ICON_CULTURE] Культуру или [ICON_PEACE] Веру, а города не имеют [ICON_PRODUCTION] Производства для строительства чего-либо[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP">
+			<Text>Пустой слот для Великого произведения искусства или Артефакта</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP">
+			<Text>Пустой слот для Великого литературного произведения</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP">
+			<Text>Пустой слот для Великого музыкального произведения</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_CITY_SAPPED">
+			<Text>Поддержка Осадной башней</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_EMPIRE_VERY_UNHAPPY_PENALTY">
+			<Text>Империя [ICON_HAPPINESS_4] крайне недовольна</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_EMPIRE_UNHAPPY_PENALTY">
+			<Text>Империя [ICON_HAPPINESS_3] недовольна</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIQUE_GOLDEN_AGE_ANNOUNCE">
+			<Text>Карнавал!</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_CITY_STATE_TERRITORY">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_ImprovementName}} можно построить только на территории Города-государства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_BLOCKED_NO_ADJACENT_LUXURY">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_ImprovementName}} необходимо строить рядом с клеткой, содержащей Ресурс роскоши.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_BLOCKED_CANNOT_BE_ADJACENT">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_ImprovementName}} нельзя строить рядом с другим {@1_ImprovementName} (завершенным или строящимся).</Text>
+		</Row>
+<Row Tag="TXT_KEY_PLOTROLL_TRADE_ROUTE">
+			<Text>Торговый путь</Text>
+		</Row>
+<Row Tag="TXT_KEY_SV_OVERLAY_TRADE_ROUTES">
+			<Text>Торговые пути</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLD_FROM_TR">
+			<Text>{1_Num} от [ICON_CONNECTED] Торговых путей между вашими Городами и вашей [ICON_CAPITAL] Столицей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_CONNECTED">
+			<Text>Город имеет [ICON_CONNECTED] Торговый путь со [ICON_CAPITAL] Столицей!</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_TOURISM_STRENGTH_TT">
+			<Text>Это показывает мощь юнита при проведении концертного тура. Мощь основана на выходе [ICON_TOURISM] Туризма цивилизации в момент рождения Музыканта.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY">
+			<Text>Грузовместимость</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY_TT">
+			<Text>Количество юнитов, которые могут быть перевезены на {1_UnitName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
+			<Text>[COLOR_YELLOW]Перехват истребителем или[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
+			<Text>[COLOR_YELLOW]зенитным огнем усилит урон[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_VISIBLE_AA_UNITS">
+			<Text>[COLOR_WARNING_TEXT]Известные вражеские зенитные юниты: {1_Number}[ENDCOLOR]</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

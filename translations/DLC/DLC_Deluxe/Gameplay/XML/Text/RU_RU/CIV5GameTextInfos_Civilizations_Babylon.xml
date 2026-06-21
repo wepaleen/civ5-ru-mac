@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_BABYLON_ADJECTIVE">
+			<Text>Вавилонский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_BABYLON_DESC">
+			<Text>Вавилонская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_BABYLON_SHORT_DESC">
+			<Text>Вавилон</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

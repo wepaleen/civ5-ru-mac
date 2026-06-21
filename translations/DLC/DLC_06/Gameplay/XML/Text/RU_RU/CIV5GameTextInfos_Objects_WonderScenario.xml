@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_GIBRALTAR">
+            <Text>Гора Олимп</Text>
+        </Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_VOLCANO">
+            <Text>Гора Тира</Text>
+        </Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_MESA">
+            <Text>Каппадокия</Text>
+        </Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_MT_FUJI">
+            <Text>Гора Арарат</Text>
+        </Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_CLIBANARII">
+			<Text>Клибанарии</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
+			<Text>Сакс</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_VANDAL_AXEMAN">
+			<Text>Топорник</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA">
+			<Text>Тригемиолия</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT">
+			<Text>Гадраухт</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD">
+			<Text>Бич Божий</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD">
+			<Text>Наземный броненосец</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LANDSHIP">
+			<Text>Сухопутный корабль</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN">
+			<Text>Наземный Левиафан</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_FLYER">
+			<Text>Летун</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_AIRSHIP">
+			<Text>Дирижабль</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS">
+			<Text>Небесная крепость</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY">
+			<Text>Мамлюк</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
+			<Text>Уэльский лучник</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

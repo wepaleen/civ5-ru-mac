@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_RELIGION_CATHOLICISM">
+			<Text>Католицизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS">
+			<Text>Бонус влияния от подарков [ICON_GOLD] Золотом городам-государствам увеличен на 30%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_EVANGELISM">
+			<Text>Действие миссионеров "Распространить религию" ослабляет давление других религий.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION">
+			<Text>Миссионеры обращают соседних варваров в юниты данной цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION">
+			<Text>Можно строить Университеты, Общеобразовательные школы и Исследовательские лаборатории за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR">
+			<Text>Используйте [ICON_PEACE] Веру для приобретения наземных юнитов Индустриальной эпохи (и позже).</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SACRED_SITES">
+			<Text>Все здания, купленные за [ICON_PEACE] Веру, приносят по 2 [ICON_TOURISM] Туризма каждое.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD">
+			<Text>Используйте [ICON_PEACE] Веру для приобретения [ICON_GREAT_PEOPLE] Великих людей любого типа начиная с Индустриальной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT">
+			<Text>Ваши шпионы оказывают религиозное давление на города, в которых находятся.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS">
+			<Text>Инквизиторы и Пророки уменьшают присутствие данной религии вдвое (вместо полного вытеснения).</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS">
+			<Text>+2 [ICON_PEACE] Веры за каждый ресурс Самоцветы и Жемчуг</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART">
+			<Text>Эрмитаж дает +5 [ICON_CULTURE] Культуры и +5 [ICON_TOURISM] Туризма</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER">
+			<Text>+1 [ICON_PEACE] Веры за каждый ресурс Медь, Железо и Соль</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_GOD_KING">
+			<Text>Дворец дает +1 к следующим показателям: [ICON_CULTURE] , [ICON_PEACE] , [ICON_GOLD], [ICON_PRODUCTION], [ICON_RESEARCH]</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SUN_GOD">
+			<Text>+1 [ICON_FOOD] Пищи за каждый ресурс Бананы, Цитрусовые и Пшеница</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_CHARITABLE_MISSIONS_SHORT">
+			<Text>Благотворительные миссии</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_EVANGELISM_SHORT">
+			<Text>Евангелизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT">
+			<Text>Обращение язычников</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_JESUIT_EDUCATION_SHORT">
+			<Text>Иезуитское образование</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_FERVOR_SHORT">
+			<Text>Религиозный пыл</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SACRED_SITES_SHORT">
+			<Text>Священные места</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_TO_GLORY_OF_GOD_SHORT">
+			<Text>Во славу Господа</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT_SHORT">
+			<Text>Подпольная секта</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS_SHORT">
+			<Text>Единство пророков</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_TEARS_OF_GODS_SHORT">
+			<Text>Слезы богов</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
+			<Text>Православие</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
+			<Text>Протестантизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_EARTH_MOTHER_SHORT">
+			<Text>Мать-Земля</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_GOD_KING_SHORT">
+			<Text>Бог-Царь</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SUN_GOD_SHORT">
+			<Text>Бог Солнца</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

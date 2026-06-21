@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
+			<Text>Империализм</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
+			<Text>Морская традиция</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
+			<Text>Профессиональные солдаты</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
+			<Text>Пиратство</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
+			<Text>Военные корабли</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
+			<Text>Королевская гвардия</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
+			<Text>Религиозные ордена</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
+			<Text>Флот сокровищ</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

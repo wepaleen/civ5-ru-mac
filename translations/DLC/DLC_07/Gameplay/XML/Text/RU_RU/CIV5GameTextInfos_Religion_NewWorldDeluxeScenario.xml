@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES">
+			<Text>Можно строить Молитвенные дома за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES_SHORT">
+			<Text>Молитвенные дома</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_HOLY_WARRIORS">
+			<Text>Используй [ICON_PEACE] Веру для покупки наземных юнитов эпохи Позднего горизонта (и позднее).</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_APU">
+			<Text>+3 [ICON_PEACE] Веры в городах с [ICON_CONNECTED] Городским сообщением, +1 [ICON_GOLD] Золото от Торговых постов, и возможность покупать Рабочих за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_APU_SHORT">
+			<Text>Апу</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_COQUIHANI">
+			<Text>+2 [ICON_PEACE] Веры от Каменоломен, +15% [ICON_PRODUCTION] Производства Чудес света, и возможность строить Мастерские за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_COQUIHANI_SHORT">
+			<Text>Кокихани</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_COYOTE">
+			<Text>+1 [ICON_PEACE] Веры и +1 [ICON_RESEARCH] Науки от Плантаций, и возможность строить Библиотеки за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_COYOTE_SHORT">
+			<Text>Койот похищает огонь</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HUNAHPU">
+			<Text>+1 [ICON_FOOD] Пищи от Лагерей, +1 [ICON_PEACE] Веры за каждый ресурс Бананы, Цитрусовые и Пшеница, и возможность строить Храмы за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_HUNAHPU_SHORT">
+			<Text>Хунахпу</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_INTI">
+			<Text>+15% ускорение расширения границ, Храмы дают +2 [ICON_HAPPINESS_1] Довольства, Храмы дают +1 [ICON_PEACE] Веры, и возможность покупать Поселенцев за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTI_SHORT">
+			<Text>Инти</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_QUETZALCOATL">
+			<Text>На 10% быстрее [ICON_FOOD] Рост населения, +3 [ICON_PEACE] Веры от Садов, и возможность строить Водяные мельницы и Акведуки за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_QUETZALCOATL_SHORT">
+			<Text>Кецалькоатль</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SEDNA">
+			<Text>+1 [ICON_PEACE] Веры от Рыболовных лодок, +1 [ICON_PRODUCTION] Производства от клеток Озер, Побережья и Океана, и возможность строить Маяки за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SEDNA_SHORT">
+			<Text>Седна</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SOSONDOWAH">
+			<Text>+4 [ICON_PEACE] Веры от Цитаделей и +2 [ICON_PEACE] Веры от Фортов, +30% прироста [ICON_RANGE_STRENGTH] Стрелковой мощи города, и возможность строить Стены за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SOSONDOWAH_SHORT">
+			<Text>Сосондова</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_XBALANQUE">
+			<Text>Получай [ICON_PEACE] Веру при победе в сражении, и используй [ICON_PEACE] Веру для покупки наземных юнитов Классической эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_XBALANQUE_SHORT">
+			<Text>Шбаланке</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_AZTEC_PANTHEON">
+			<Text>Пантеон ацтеков</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_INCA_PANTHEON">
+			<Text>Пантеон инков</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_IROQUOIS_PANTHEON">
+			<Text>Пантеон ирокезов</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_MAYA_PANTHEON">
+			<Text>Пантеон майя</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_SHOSHONE_PANTHEON">
+			<Text>Пантеон шошонов</Text>
+		</Row>
+<Row Tag="TXT_KEY_RELIGION_PANTHEON_NWS_PEDIA">
+			<Text>Дает им бесплатную второстепенную религию; подробнее о религии можно узнать, наведя курсор на показатель Веры в информационной панели в верхней части экрана.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS">
+			<Text>+2 [ICON_PEACE] Веры от клеток Тундры без Леса и +4 [ICON_PEACE] Веры от клеток Снега</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS">
+			<Text>+2 [ICON_PEACE] Веры от клеток Пустыни</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_EARTHS_BOUNTY">
+			<Text>+2 [ICON_PEACE] Веры от каждого ресурса Железо, Самоцветы, Золото, Серебро, Медь и Соль</Text>
+		</Row>
+<Row Tag="TXT_KEY_EARTHS_BOUNTY_SHORT">
+			<Text>Щедрость земли</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HOLY_ANIMALS">
+			<Text>+3 [ICON_PEACE] Веры от клеток Пастбищ</Text>
+		</Row>
+<Row Tag="TXT_KEY_HOLY_ANIMALS_SHORT">
+			<Text>Священные животные</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HOLY_HIGH_GROUND">
+			<Text>+1 [ICON_PEACE] Веры от клеток Холмов</Text>
+		</Row>
+<Row Tag="TXT_KEY_HOLY_HIGH_GROUND_SHORT">
+			<Text>Священные высоты</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_HOLY_LOW_GROUND">
+			<Text>+3 [ICON_PEACE] Веры от клеток Болот и Пойменных равнин</Text>
+		</Row>
+<Row Tag="TXT_KEY_HOLY_LOW_GROUND_SHORT">
+			<Text>Священные низины</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS">
+			<Text>+2 [ICON_PEACE] Веры от Плантаций</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS">
+			<Text>+8 [ICON_PEACE] Веры от Природных чудес</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SACRED_PATH_NWS">
+			<Text>+2 [ICON_PEACE] Веры от клеток Джунглей</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_NWS">
+			<Text>+2 [ICON_PEACE] Веры от клеток Озер, Побережья и Океана. +1 [ICON_HAPPINESS_1] Довольства от городов на реках</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_TOTEMISM">
+			<Text>+2 [ICON_PEACE] Веры от Лагерей</Text>
+		</Row>
+<Row Tag="TXT_KEY_TOTEMISM_SHORT">
+			<Text>Тотемизм</Text>
+		</Row>
+<Row Tag="TXT_KEY_BELIEF_WORLD_TREES">
+			<Text>+2 [ICON_PEACE] Веры от клеток Леса</Text>
+		</Row>
+<Row Tag="TXT_KEY_WORLD_TREES_SHORT">
+			<Text>Мировые деревья</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_DESC">
+			<Text>Западный Рим</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_SHORT_DESC">
+			<Text>Западный Рим</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_ADJECTIVE">
+			<Text>Западноримский</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_DESC">
+			<Text>Восточный Рим</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_SHORT_DESC">
+			<Text>Восточный Рим</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_ADJECTIVE">
+			<Text>Восточноримский</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_DESC">
+			<Text>Империя Сасанидов</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_SHORT_DESC">
+			<Text>Сасаниды</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_ADJECTIVE">
+			<Text>Сасанидский</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_DESC">
+			<Text>Франкское королевство</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>Франки</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>Франкский</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_DESC">
+			<Text>Готское королевство</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>Готы</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>Готский</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_DESC">
+			<Text>Королевство вандалов</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_SHORT_DESC">
+			<Text>Вандалы</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_ADJECTIVE">
+			<Text>Вандальский</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_DESC">
+			<Text>Империя Эрух</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>Эрух</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>Эрух</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_DESC">
+			<Text>Империя Орлин</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_SHORT_DESC">
+			<Text>Орлин</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_ADJECTIVE">
+			<Text>Орлин</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>Империя Пулиас</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC">
+			<Text>Пулиас</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_ADJECTIVE">
+			<Text>Пулиас</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_DESC">
+			<Text>Империя Ведрия</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC">
+			<Text>Ведрия</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_ADJECTIVE">
+			<Text>Ведрия</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_DESC">
+			<Text>Империя Далмас</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>Далмас</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>Далмас</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_ADJECTIVE">
+			<Text>Луддитский</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_DESC">
+			<Text>Орда луддитов</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_SHORT_DESC">
+			<Text>Луддиты</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_DESC">
+			<Text>Династия Айюбидов</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_SHORT_DESC">
+			<Text>Айюбиды</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_ADJECTIVE">
+			<Text>Айюбидский</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_SHORT_DESC">
+			<Text>Альмохады</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_DESC">
+			<Text>Халифат Альмохадов</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_ADJECTIVE">
+			<Text>Альмохадский</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
+			<Text>Турки</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_DESC">
+			<Text>Тюркская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_ADJECTIVE">
+			<Text>Турецкий</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

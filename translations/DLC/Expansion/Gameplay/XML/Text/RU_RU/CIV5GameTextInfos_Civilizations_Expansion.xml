@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_AUSTRIA_ADJECTIVE">
+            <Text>Австрийский</Text>
+            <Gender>neuter:an</Gender>
+        </Row>
+<Row Tag="TXT_KEY_CIV_AUSTRIA_DESC">
+            <Text>Австрийская империя</Text>
+            <Gender>neuter:an</Gender>
+        </Row>
+<Row Tag="TXT_KEY_CIV_AUSTRIA_SHORT_DESC">
+            <Text>Австрия</Text>
+            <Gender>neuter:an</Gender>
+        </Row>
+<Row Tag="TXT_KEY_CIV_BYZANTIUM_ADJECTIVE">
+            <Text>Византийский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_BYZANTIUM_DESC">
+            <Text>Византийская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_BYZANTIUM_SHORT_DESC">
+            <Text>Византия</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE">
+            <Text>Карфагенский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_CARTHAGE_DESC">
+            <Text>Карфагенская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC">
+            <Text>Карфаген</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
+            <Text>Кельтский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_CELTS_DESC">
+            <Text>Кельтская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_CELTS_SHORT_DESC">
+            <Text>Кельты</Text>
+			<Plurality>2</Plurality>
+        </Row>
+<Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
+            <Text>Эфиопский</Text>
+            <Gender>neuter:an</Gender>
+        </Row>
+<Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
+            <Text>Эфиопская империя</Text>
+            <Gender>neuter:an</Gender>
+        </Row>
+<Row Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC">
+            <Text>Эфиопия</Text>
+            <Gender>neuter:an</Gender>
+        </Row>
+<Row Tag="TXT_KEY_CIV_HUNS_ADJECTIVE">
+            <Text>Гуннский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_HUNS_DESC">
+            <Text>Гуннская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_HUNS_SHORT_DESC">
+            <Text>Гунны</Text>
+			<Plurality>2</Plurality>
+        </Row>
+<Row Tag="TXT_KEY_CIV_MAYA_ADJECTIVE">
+            <Text>Майянский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_MAYA_DESC">
+            <Text>Майянская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_MAYA_SHORT_DESC">
+            <Text>Майя</Text>
+			<Plurality>2</Plurality>
+        </Row>
+<Row Tag="TXT_KEY_CIV_NETHERLANDS_ADJECTIVE">
+            <Text>Нидерландский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_NETHERLANDS_DESC">
+            <Text>Нидерландская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_NETHERLANDS_SHORT_DESC">
+            <Text>Нидерланды</Text>
+			<Plurality>2</Plurality>
+        </Row>
+<Row Tag="TXT_KEY_CIV_SPAIN_ADJECTIVE">
+			<Text>Испанский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_SPAIN_DESC">
+			<Text>Испанская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_SPAIN_SHORT_DESC">
+			<Text>Испания</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE">
+            <Text>Шведский</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_SWEDEN_DESC">
+            <Text>Шведская империя</Text>
+        </Row>
+<Row Tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC">
+            <Text>Швеция</Text>
+        </Row>
+	</Language_RU_RU>
+</GameData>

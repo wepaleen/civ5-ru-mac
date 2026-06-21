@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_PEDIA_FAITH_LABEL">
+      <Text>Вера:</Text>
+    </Row>
+<Row Tag="TXT_KEY_MINOR_TRAIT_MERCANTILE">
+      <Text>Торговые города-государства</Text>
+    </Row>
+<Row Tag="TXT_KEY_MINOR_TRAIT_RELIGIOUS">
+      <Text>Религиозные города-государства</Text>
+    </Row>
+<Row Tag="TXT_KEY_ALLOWS_EMBASSY">
+      <Text>Позволяет открывать посольства в столицах других цивилизаций.</Text>
+    </Row>
+<Row Tag="TXT_KEY_TOP_PANEL_RELIGION_OFF">
+      <Text>Религия: ВЫКЛ</Text>
+    </Row>
+<Row Tag="TXT_KEY_TOP_PANEL_RELIGION_OFF_TOOLTIP">
+      <Text>В этой игре система религии отключена. Вера не накапливается. Создание пантеонов и основание религий недоступны.</Text>
+    </Row>
+<Row Tag="TXT_KEY_MO_GA_PROGRESS">
+      <Text>Прогресс Великого адмирала</Text>
+    </Row>
+<Row Tag="TXT_KEY_MO_ADMIRAL_TT">
+      <Text>{1_current}/{2_needed}[NEWLINE]Прогресс к следующему Великому адмиралу основан на опыте, получаемом морскими юнитами в бою.</Text>
+    </Row>
+<Row Tag="TXT_KEY_MO_GENERAL_TT">
+      <Text>{1_current}/{2_needed}[NEWLINE]Прогресс к следующему Великому полководцу основан на опыте, получаемом сухопутными юнитами в бою.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CITY_GP_MOD">
+      <Text>[ICON_BULLET] Бонусы города: +{1_num}%</Text>
+    </Row>
+<Row Tag="TXT_KEY_PLAYER_GP_MOD">
+      <Text>[ICON_BULLET] Бонусы империи: +{1_num}%</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_CITY_BUILDINGS">
+      <Text>[ICON_PLUS] Глобальное довольство от зданий</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE">
+      <Text>[ICON_MINUS] Глобальное довольство от зданий</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_LOCAL_CITY">
+      <Text>[ICON_PLUS] Местное довольство города</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_LOCAL_CITY_COLLAPSE">
+      <Text>[ICON_MINUS] Местное довольство города</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_RELIGION">
+      <Text>Религия</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_INCOME_RELIGION">
+      <Text>Доход от религии</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_INTRIGUE_TURN">
+      <Text>Ход</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_INTRIGUE_FROM">
+      <Text>От</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_INTRIGUE_MSG">
+      <Text>Сообщение</Text>
+    </Row>
+<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_22">
+      <Text>Шпионаж</Text>
+    </Row>
+<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_23">
+      <Text>Религия</Text>
+    </Row>
+<Row Tag="TXT_KEY_EGI_TRADE_ROUTE_MOD_INFO">
+      <Text>Модификатор золота: {1_Num}%</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_FORTIFICATION_MOD">
+      <Text>Боевой бонус от укрепления увеличивается на [COLOR_POSITIVE_TEXT]{1_UnitFortificationPercent}%[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_UNIT_BASE_HEAL_MOD">
+      <Text>Базовая скорость исцеления юнита увеличивается на [COLOR_POSITIVE_TEXT]{1_UnitHealingPercent}%[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_FREE_PROMOTION_FROM_TECH">
+      <Text>Дает повышение [COLOR_POSITIVE_TEXT]{@1_PromotionName}[ENDCOLOR] допустимым юнитам[NEWLINE][NEWLINE]({@2_PromotionHelp})</Text>
+    </Row>
+<Row Tag="TXT_KEY_RELIGION_OVERVIEW">
+      <Text>Обзор религии</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_TAB_YOUR_RELIGION">
+      <Text>Ваша религия</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_TAB_WORLD_RELIGIONS">
+      <Text>Мировые религии</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_TAB_BELIEFS">
+      <Text>Верования</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_RELIGIOUS_STATUS">
+      <Text>Ваш религиозный статус:</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEFS">
+      <Text>Верования:</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEFS_NONE">
+      <Text>Нет</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_FAITH">
+      <Text>[ICON_PEACE] ВЕРА: {1_NumFaith}/{2_MinFaithForProphet}</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_FAITH_TOOLTIP">
+      <Text>Необходимо минимум {1_MinFaith} [ICON_PEACE] Веры для следующего Великого пророка</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_POSSIBLE_GP">
+      <Text>Возможные великие люди:</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE">
+      <Text>Автоматическая покупка за [ICON_PEACE] Веру:</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_MISSIONARY">
+      <Text>Купить миссионера</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_INQUISITOR">
+      <Text>Купить инквизитора</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_BUILDING">
+      <Text>Купить здание</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_PROPHET">
+      <Text>Копить на Великого пророка</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE_PROPHET">
+      <Text>Купить Великого пророка</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_GREAT_PERSON">
+      <Text>Копить на {1_GreatPersonType}</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE_GREAT_PERSON">
+      <Text>Купить {1_GreatPersonType}</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_AUTO_FAITH_PROMPT">
+      <Text>Напомнить позже</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_NO_WORLD_RELIGIONS">
+      <Text>Мировых религий нет.</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_RELIGION">
+      <Text>Религия</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_HOLY_CITY">
+      <Text>Священный город</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_FOUNDER">
+      <Text>Основатель</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_NUMBER_OF_CITIES">
+      <Text>Количество городов</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_OVERALL_STATUS">
+      <Text>ОБЩИЙ СТАТУС</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_NUM_AVAIL_RELIGIONS">
+      <Text>Количество религий, которые можно основать: {1_NumAvailReligions}</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_B_NO_BELIEFS">
+      <Text>Нет активных верований.</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_B_BELIEFS">
+      <Text>Верования</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_B_TYPE">
+      <Text>Тип</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_B_BONUS">
+      <Text>Бонус</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_B_RELIGION">
+      <Text>Религия</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_STATUS_FOUNDER">
+      <Text>Основатель {1_ReligionName}</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_STATUS_CREATED_PANTHEON">
+      <Text>Создал пантеон</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_STATUS_CAN_CREATE_PANTHEON">
+      <Text>Можно создать пантеон прямо сейчас!</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_STATUS_NEED_FAITH">
+      <Text>Необходимо {1_NumFaith} [ICON_PEACE] Веры для создания пантеона</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_STATUS_TOO_LATE">
+      <Text>Слишком поздно для создания пантеона</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEF_TYPE_PANTHEON">
+      <Text>Пантеон</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEF_TYPE_FOUNDER">
+      <Text>Основатель</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEF_TYPE_FOLLOWER">
+      <Text>Последователь</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEF_TYPE_ENHANCER">
+      <Text>Усилитель</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_YR_NO_GREAT_PEOPLE">
+      <Text>Нет</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_UNKNOWN_CIV">
+      <Text>Неизвестная цивилизация</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_WR_UNKNOWN_HOLY_CITY">
+      <Text>Неизвестный город</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEF_PANTHEON">
+      <Text>Пантеон {@1_CivAdj}</Text>
+    </Row>
+<Row Tag="TXT_KEY_RO_BELIEF_UNKNOWN_PANTHEON">
+      <Text>Неизвестный пантеон</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_VIEW">
+      <Text>Просмотр</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_VIEW_TOOLTIP">
+      <Text>Просмотр города</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_RELOCATE">
+      <Text>Переместить</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_RELOCATE_TOOLTIP">
+      <Text>Переместить</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_TITLE">
+      <Text>Обзор шпионажа</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_AGENTS">
+      <Text>Агенты</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_NAME_RANK">
+      <Text>Имя/Звание</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_LOCATION">
+      <Text>Местоположение</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_ACTIVITY">
+      <Text>Деятельность</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_YOUR_CITIES">
+      <Text>Ваши города</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_THEIR_CITIES">
+      <Text>Их города</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_CIVILIZATION">
+      <Text>Цивилизация</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_NAME">
+      <Text>Имя</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_POTENTIAL">
+      <Text>Потенциал</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_RELOCATE_SPY_QUESTION">
+      <Text>Переместить шпиона?</Text>
+    </Row>
+<Row Tag="TXT_KEY_CITY_HAS_SPY_TT">
+      <Text>{1_SpyName} занимает этот город.</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_COUP">
+      <Text>Переворот</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_COUP_TT">
+      <Text>Шпион попытается организовать переворот, чтобы стать союзником города-государства. Город-государство уже должен быть в союзе с другой цивилизацией.</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_STAGE_COUP_QUESTION">
+      <Text>{1_SpyRank} {2_SpyName} может попытаться организовать переворот в {3_CityName}, приведя к власти группу, которая станет нашим союзником. Ведущая фракция сторонников {4_CivShortDesc} будет свергнута, а ее влияние ослаблено.[NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]Эта операция имеет {5_PERCENT}% шанс успеха.[ENDCOLOR] В случае успеха вы станете союзниками {6_CityName}, а влияние {7_CivShortDesc} снизится. В случае неудачи ваш шпион будет уничтожен, а ваше влияние на {8_CityName} уменьшится.[NEWLINE][NEWLINE]Вы хотите, чтобы {9_SpyRank} {10_SpyName} попытался организовать переворот в {11_CityName}?</Text>
+    </Row>
+<Row Tag="TXT_KEY_EO_KIA">
+      <Text>ПОГИБ В БОЮ</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_PANTHEON_TITLE">
+      <Text>Создать пантеон</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_TITLE">
+      <Text>Основать религию</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_TITLE_ENHANCE">
+      <Text>Улучшить религию</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_ICON">
+      <Text>Выберите иконку религии.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_PANTHEON_BELIEF">
+      <Text>Верование пантеона</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_PANTHEON_BELIEF">
+      <Text>Выберите верование пантеона.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOUNDER_BELIEF">
+      <Text>Верование основателя</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOUNDER_BELIEF">
+      <Text>Выберите верование основателя (бонус для цивилизации основателя).</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOLLOWER_BELIEF">
+      <Text>Верование последователя</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOLLOWER_BELIEF">
+      <Text>Выберите верование последователя (бонус для каждого города, следующего религии).</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOLLOWER_BELIEF2">
+      <Text>2-е верование последователя</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOLLOWER_BELIEF2">
+      <Text>Выберите верование последователя.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SPREAD_BELIEF">
+      <Text>Верование усилителя</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_SPREAD_BELIEF">
+      <Text>Выберите верование усилителя.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_BONUS_BELIEF">
+      <Text>Бонусное верование</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_BONUS_BELIEF">
+      <Text>Выберите бонусное верование.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_OK_BUTTON">
+      <Text>Основать религию</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_OK_BUTTON_ENHANCE">
+      <Text>Улучшить религию</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_CHANGE_NAME">
+      <Text>Изменить название</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_ENTER_NAME">
+      <Text>Введите новое название</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_ERROR_NAME_EMPTY">
+      <Text>Название не должно быть пустым.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_ALREADY_FOUNDED">
+      <Text>{1_ReligionName} уже была основана {2_CivName}</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_UNMET_PLAYER">
+      <Text>неизвестным игроком</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_AVAILABLE_LATER">
+      <Text>Станет доступно после улучшения религии.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_BYZANTINES_ONLY">
+      <Text>Доступно только для Византии.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_NAME_LABEL">
+      <Text>{1_ReligionName} [COLOR_GREEN](Нажмите для изменения названия)[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOUNDED_IN">
+      <Text>Основана в {1_DateYear}</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_CONFIRM">
+      <Text>Вы уверены, что хотите основать {1_ReligionName}?</Text>
+    </Row>
+<Row Tag="TXT_KEY_CHOOSE_RELIGION_CONFIRM_ENHANCE">
+      <Text>Вы готовы улучшить {1_ReligionName}?</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_SUBTITLE_ALT">
+      <Text>Прогнозируемый результат следующих выборов в ООН:</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_ALT">
+      <Text>Прогнозируемые голоса за вас:</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TITLE_ALT">
+      <Text>Прогнозируемые голоса</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_COL_TT_ALT">
+      <Text>Количество голосов, которое каждый игрок предположительно получит на следующих выборах в ООН. Фактические результаты могут отличаться в зависимости от игровых событий, которые произойдут до выборов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_SUMMARY_ALT">
+      <Text>{@1_CivName} прогнозируется {2_NumProjectedVotes} голосов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_CIVS_ALT">
+      <Text>На предыдущих выборах {@1_CivName} получила {2_NumVotesFromCivs} голосов от цивилизаций. Это может измениться на предстоящих выборах в зависимости от международных отношений. Цивилизации проголосуют за ту цивилизацию, с которой у них лучшие отношения.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_CITYSTATES_ALT">
+      <Text>{@1_CivName} получит {2_NumVotesFromMinorCivs} голосов от городов-государств, если отношения с ними останутся прежними. Города-государства проголосуют за цивилизацию, которая последней освободила их, или за своего текущего союзника, если освободителя не было.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_UN_ALT">
+      <Text>{@1_CivName} получает 1 голос за строительство ООН.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TITLE_ALT">
+      <Text>Цивилизации</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_COL_TT_ALT">
+      <Text>На предыдущих выборах - количество голосов, полученных от других цивилизаций.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TT_ALT">
+      <Text>На последних выборах в ООН {@1_CivName} получила голоса от цивилизаций, имевших с ней наилучшие отношения:</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_CS_VOTES_COL_TT_ALT">
+      <Text>Текущее количество союзных городов-государств.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_CS_VOTES_TT_ALT">
+      <Text>{@1_CivName} в настоящее время является союзником:</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_VOTES_COL_TT_ALT">
+      <Text>Текущее количество освобожденных городов-государств.</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_VOTES_TT_ALT">
+      <Text>{@1_CivName} последней освободила:</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TITLE_ALT">
+      <Text>Последнее голосование</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_COL_TT_ALT">
+      <Text>На предыдущих выборах - за какую цивилизацию был отдан голос. (Нельзя голосовать за себя.)</Text>
+    </Row>
+<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TT_ALT">
+      <Text>{@1_VotingCivName} проголосовала за {@2_RecipientCivName} на последних выборах, поскольку имела с ней наилучшие отношения.[NEWLINE][NEWLINE]Текущее отношение {@1_VotingCivName} к вам: {@3_MoodTowardsYou}</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

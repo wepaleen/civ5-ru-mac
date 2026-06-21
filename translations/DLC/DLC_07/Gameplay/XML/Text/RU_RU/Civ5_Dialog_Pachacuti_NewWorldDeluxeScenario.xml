@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_FIRSTGREETING_1">
+      <Text>Приветствую. Я - Пачакути, правитель инков, благороднейшего, сильнейшего и прекраснейшего народа на планете. Я всегда рад встретить правителей уступающих нам цивилизаций!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_FIRSTGREETING_2">
+      <Text>Приветствую тебя, чужестранец! Я - Пачакути, правитель инков. Как ты должен быть горд встречей с нами.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_FIRSTGREETING_3">
+      <Text>Приветствую, чужестранец. Я - Пачакути, правитель несравненных инков. Если мы можем хоть чем-то помочь твоей уступающей нам цивилизации - не стесняйся обращаться.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WARBLUFF_1">
+      <Text>Хорошо. На этот раз мы проявим милосердие. Пока что.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WARBLUFF_2">
+      <Text>Хорошо. В следующий раз я не буду столь вежлив!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WARBLUFF_3">
+      <Text>Вот как? Надеюсь, ты не пожалеешь о своей близорукости.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_WINWAR_1">
+      <Text>Ты и впрямь думал, что сможешь победить могущественную Империю инков? Жалкий безумец - мне почти жаль тебя.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LOSEWAR_1">
+      <Text>Ты выступил на удивление хорошо. Похоже, ты внимательно изучал меня.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_1">
+      <Text>Невероятно! Этого не может быть! Должно быть, мне снится сон! Скоро я проснусь и этот кошмар закончится.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_2">
+      <Text>Я побежден? Но как это могло случиться? Меня явно предали!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEFEATED_3">
+      <Text>Этого не может быть. Мое величие, моя гениальность - все повержено в прах, и кем? Кто-то должен мне объяснить!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_1">
+      <Text>Добро пожаловать.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_2">
+      <Text>Здравствуй.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_1">
+      <Text>Прощай.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_2">
+      <Text>До свидания.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_NEUTRAL">
+      <Text>Разумеется. Мы всегда рады торговать с менее развитыми цивилизациями.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>Ты не пытаешься нас обмануть? Это было бы весьма грубой ошибкой. Тебе следует улучшить свое предложение.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>Ты можешь предложить чуть больше?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>Этого недостаточно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>Почти...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NO_NEUTRAL">
+      <Text>Неужели ты думаешь, что твоя цивилизация способна предложить нам что-то ценное?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_YES_NEUTRAL">
+      <Text>Мы всегда рады помочь менее развитым цивилизациям!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_NO_NEUTRAL">
+      <Text>Твоя жадность уступает лишь твоей наглости. Мы отвергаем твои нелепые требования.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADEREQUEST_NEUTRAL">
+      <Text>Народ инков предлагает тебе эту весьма выгодную сделку.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEMANDTRIBUTE_NEUTRAL">
+      <Text>Настало время воздать инкам за нашу дружбу и защиту. Не разочаруй нас.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_1">
+      <Text>Хорошо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_2">
+      <Text>Пусть так.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_1">
+      <Text>Ни в коем случае.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_2">
+      <Text>Нет.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_1">
+      <Text>Я слушаю.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_2">
+      <Text>Да?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_3">
+      <Text>Приветствую.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_4">
+      <Text>Добрый день.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_3">
+      <Text>До новой встречи.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_4">
+      <Text>До свидания.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_HAPPY">
+      <Text>Превосходная идея! Ты подаешь большие надежды как правитель.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_1">
+      <Text>Понимаю, что высшая математика бывает непростой, мой друг, но эта сделка несправедлива. Тебе нужно улучшить свое предложение.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_2">
+      <Text>Это лучшее, что ты можешь предложить?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_3">
+      <Text>Ты почти у цели...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NO_HAPPY">
+      <Text>Боюсь, твое предложение неприемлемо, мой друг.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_YES_HAPPY">
+      <Text>Конечно, мой друг! Совершенно очевидно, что без нашей помощи тебе не выжить.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_NO_HAPPY">
+      <Text>Увы! Боюсь, мы не можем выполнить твою просьбу. Придется тебе пока что обходиться без нашей помощи.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEMANDTRIBUTE_HAPPY">
+      <Text>Мой друг, как бы невероятно это ни звучало, народ инков нуждается в твоей помощи. Надеюсь, ты не откажешь нам?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADEREQUEST_HAPPY">
+      <Text>Мой друг, полагаю, эта сделка будет выгодна для обоих наших народов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_3">
+      <Text>Разумеется.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_3">
+      <Text>Мы отказываем.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_4">
+      <Text>Разумеется, нет.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_3">
+      <Text>Продолжай.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_4">
+      <Text>Ты что-то говорил?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_5">
+      <Text>А, это ты.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GREETING_6">
+      <Text>Чего тебе?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_5">
+      <Text>Это все.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_GOODBYE_6">
+      <Text>Наш разговор окончен.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_YES_ANGRY">
+      <Text>Это кажется разумным. Удивлен, что ты сам до этого додумался.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_1">
+      <Text>Тебе вообще знакомо понятие "честной торговли"? Твое предложение слишком мало - ты должен его улучшить.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_2">
+      <Text>Этого недостаточно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_3">
+      <Text>Ты должен предложить больше.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADE_NO_ANGRY">
+      <Text>Твое предложение столь же оскорбительно, как и ты сам.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_YES_ANGRY">
+      <Text>Ладно. Надеюсь, это тебя подавит!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRIBUTE_NO_ANGRY">
+      <Text>Ты в своем уме?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DEMANDTRIBUTE_ANGRY">
+      <Text>Отдай нам то, что мы хотим - и, быть может, твоя жалкая цивилизация доживет до того, чтобы набраться немного мудрости.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_TRADEREQUEST_ANGRY">
+      <Text>Народ инков великодушно предлагает вашему отсталому народу эту сделку.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_AGREE_SHORT_4">
+      <Text>О, ладно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_5">
+      <Text>Прошу прощения?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_6">
+      <Text>Это неприемлемо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DISAGREE_SHORT_7">
+      <Text>Ты говоришь серьезно?!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_LETSHEARIT_5">
+      <Text>И?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DECLAREWAR_1">
+      <Text>Твой народ остается отсталым и примитивным. Смена власти явно назрела. Готовься к войне!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DECLAREWAR_2">
+      <Text>Я окажу твоему примитивному народу услугу и введу его в состав Империи инков. Готовься к войне!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_DECLAREWAR_3">
+      <Text>Сопротивление бесполезно! Тебе не устоять перед могущественной Империей инков. Если ты не сдашься немедленно - готовься к войне!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_ATTACKED_1">
+      <Text>Я ожидал от тебя не лучшего. Ты не застанешь нас врасплох.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_ATTACKED_2">
+      <Text>Объявить мне войну?!? Не выйдет - это я объявляю войну тебе первым!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI_ATTACKED_3">
+      <Text>Жалкий червь. Как ты смеешь угрожать несравненной Империи инков!</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_TITLE">
+		<Text>Перемешанные континенты</Text>
+	</Row>
+<Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_DESC">
+      <Text>Набор карт "Перемешанные континенты"</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA">
+      <Text>Африка</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DUEL">
+      <Text>Африка - Дуэль</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_SMALL">
+      <Text>Африка - Маленькая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_STANDARD">
+      <Text>Африка - Стандартная</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_LARGE">
+      <Text>Африка - Большая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DESC">
+      <Text>Карта Африки, случайно сгенерированная, за исключением некоторых ключевых элементов рельефа.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED">
+      <Text>Оттаявшая Антарктида</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED_DESC">
+      <Text>Случайно сгенерированная фантастическая версия Антарктиды, где лишь небольшая часть территории остается замерзшей.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH">
+      <Text>Земля</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_TINY">
+      <Text>Земля - Крошечная</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DUEL">
+      <Text>Земля - Дуэль</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_SMALL">
+      <Text>Земля - Маленькая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_STANDARD">
+      <Text>Земля - Стандартная</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_LARGE">
+      <Text>Земля - Большая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_HUGE">
+      <Text>Земля - Огромная</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DESC">
+      <Text>Вся Земля целиком, с географически точными формами рельефа и случайно сгенерированными ландшафтом и объектами.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA">
+      <Text>Восточная Азия</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_DESC">
+      <Text>Карта Восточной Азии, где формы рельефа и Гималаи неизменны, а весь остальной ландшафт генерируется случайно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL">
+      <Text>Восточная Азия - Маленькая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL_DESC">
+      <Text>Маленькая карта Восточной Азии, где формы рельефа и Гималаи неизменны, а весь остальной ландшафт генерируется случайно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE">
+      <Text>Восточная Азия - Большая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE_DESC">
+      <Text>Большая карта Восточной Азии, где формы рельефа и Гималаи неизменны, а весь остальной ландшафт генерируется случайно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE">
+      <Text>Западная Европа</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_DESC">
+      <Text>Карта Западной Европы, где формы рельефа и горные цепи неизменны, а весь остальной ландшафт и объекты генерируются случайно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL">
+      <Text>Западная Европа - Маленькая</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL_DESC">
+      <Text>Маленькая карта Западной Европы, где формы рельефа и горные цепи неизменны, а весь остальной ландшафт и объекты генерируются случайно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD">
+      <Text>Западная Европа - Стандартная</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD_DESC">
+      <Text>Стандартная карта Западной Европы, где формы рельефа и горные цепи неизменны, а весь остальной ландшафт и объекты генерируются случайно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA">
+      <Text>Океания</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA_DESC">
+      <Text>Напоминает Архипелаг, но с более континентальным характером: скопления разрозненных материков, небольшие острова и обширные открытые воды.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS">
+      <Text>Малые континенты плюс</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS_DESC">
+      <Text>Новый подход к оригинальной карте малых континентов: добавлены протяженные архипелаги и улучшен алгоритм генерации континентов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA">
+		<Text>Северная Америка</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DUEL">
+		<Text>Северная Америка - Дуэль</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_TINY">
+		<Text>Северная Америка - Крошечная</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_SMALL">
+		<Text>Северная Америка - Маленькая</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_STANDARD">
+		<Text>Северная Америка - Стандартная</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_LARGE">
+		<Text>Северная Америка - Большая</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_HUGE">
+		<Text>Северная Америка - Огромная</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DESC">
+		<Text>Карта Северной Америки от Колумбии до Аляски, где формы рельефа и северная тундра неизменны, а весь остальной ландшафт и объекты генерируются случайно.</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA">
+		<Text>Южная Америка</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_TINY">
+		<Text>Южная Америка - Крошечная</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_STANDARD">
+		<Text>Южная Америка - Стандартная</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_DESC">
+      <Text>Карта Южной Америки, где форма материка неизменна, а весь остальной ландшафт и объекты генерируются случайно, включая "блуждающие" горные цепи.</Text>
+    </Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST">
+		<Text>Ближний Восток</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DUEL">
+		<Text>Ближний Восток - Дуэль</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_TINY">
+		<Text>Ближний Восток - Крошечный</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_SMALL">
+		<Text>Ближний Восток - Маленький</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_STANDARD">
+		<Text>Ближний Восток - Стандартный</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_LARGE">
+		<Text>Ближний Восток - Большой</Text>
+	</Row>
+<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DESC">
+		<Text>Карта Ближнего Востока от Черного моря до Аравийского, где формы рельефа неизменны, а весь остальной ландшафт генерируется случайно.</Text>
+	</Row>
+	</Language_RU_RU>
+</GameData>

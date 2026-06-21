@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY">
+			<Text>Развитое пиратство</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_DESC">
+			<Text>"Золотой век пиратства" охватывал, приблизительно, период с 1650 по 1730 год н.э., когда по Испанскому морю бороздили такие личности, как Генри Морган, Бартоломью Робертс и Калико Джек Рэкхем. Его породили как несметные богатства, перевозившиеся в Европу из Нового Света, так и достижения в кораблестроении, позволившие быстрым и маневренным шлюпам, бригантинам и шхунам нести более тяжелое вооружение и более многочисленные экипажи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Морского нищего[ENDCOLOR] - более мощный пиратский корабль, способный восстанавливать здоровье за пределами вашей территории. Эта технология также позволяет строить увеличивающее [ICON_GOLD] Золото здание [COLOR_POSITIVE_TEXT]Шоколадный дом[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Ведь я - Король пиратов! И это, это - чудесно: быть Королем пиратов!"[NEWLINE][TAB][TAB] - У.С. Гилберт, "Пираты Пензанса"[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_BANKING_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Банк[ENDCOLOR], а также [COLOR_POSITIVE_TEXT]Ост-Индскую компанию[ENDCOLOR] - здания, увеличивающие производство [ICON_GOLD] Золота в городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
+			<Text>Дает различные бонусы к [ICON_RESEARCH] Науке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Конкистадора[ENDCOLOR] - юнита, специализирующегося на разведке и основании заморских поселений. Эта технология также позволяет строить [COLOR_POSITIVE_TEXT]Суд[ENDCOLOR] - здание, снижающее [ICON_HAPPINESS_4] Недовольство от [ICON_OCCUPIED] оккупированных городов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE">
+			<Text>Линия баталии</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_DESC">
+			<Text>Хотя первое боевое применение этой тактики по-прежнему остается предметом споров (называются даты от 1502 до 1652 года н.э.), к 1675 году "линия баталии" стала наиболее распространенным боевым порядком европейских флотов. В отличие от привычной морской свалки, при построении в линию баталии каждый военный корабль мог вести бортовой огонь, не задевая дружественные суда, что обеспечивало как сосредоточенный, так и непрерывный огонь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_HELP">
+			<Text>Позволяет строить увеличивающее [ICON_GOLD] Золото здание [COLOR_POSITIVE_TEXT]Фондовая биржа[ENDCOLOR], а также [COLOR_POSITIVE_TEXT]Линейный корабль[ENDCOLOR] - самый мощный юнит с наибольшей дальностью стрельбы. </Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Никакой капитан не может сильно ошибиться, поставив свой корабль борт о борт с кораблем врага."[NEWLINE][TAB][TAB] - Горацио Нельсон[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET">
+			<Text>Торговый флот</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_DESC">
+			<Text>Столкнувшись с нападениями буканьеров и каперов, в середине XVI века испанцы и португальцы ввели раннюю форму конвоев для своих торговых судов, ходивших по атлантическим торговым путям. Если флоты с сокровищами обычно сопровождались военными кораблями, то частные торговые флоты - нет; поэтому многие галеоны, груженные табаком, пряностями, лесом, сахаром, зерном, жемчугом и прочими предметами роскоши для европейских рынков, были вооружены пушками и карронадами для отражения атак небольших пиратских судов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Нау[ENDCOLOR] - самый быстрый корабль.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Золото - это сокровище, и тот, кто им владеет, исполняет в этом мире все свои желания."[NEWLINE][TAB][TAB] - Христофор Колумб[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Терцио[ENDCOLOR] - грозный юнит ближнего боя - и [COLOR_POSITIVE_TEXT]Военную академию[ENDCOLOR], дающую всем вашим юнитам бонус к опыту.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
+			<Text>Позволяет строить здания с [ICON_PEACE] Верой и [COLOR_POSITIVE_TEXT]Главный храм[ENDCOLOR], позволяющий всем миссионерам распространять религию втрое больше раз.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
+			<Text>Позволяет строить [COLOR_POSITIVE_TEXT]Фрегат[ENDCOLOR] и [COLOR_POSITIVE_TEXT]Улана[ENDCOLOR] - конного юнита, способного бесплатно разрушать улучшения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
+			<Text>Империализм</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
+			<Text>Военно-морские традиции</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
+			<Text>Профессиональные солдаты</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
+			<Text>Пиратство</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
+			<Text>Военные корабли</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
+			<Text>Королевская гвардия</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
+			<Text>Религиозные ордена</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
+			<Text>Флот с сокровищами</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

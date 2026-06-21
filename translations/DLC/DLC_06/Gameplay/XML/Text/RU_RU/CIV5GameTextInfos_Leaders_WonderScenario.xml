@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN">
+			<Text>Гильгамеш</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN">
+			<Text>Муваталлис</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_NAME">
+            <Text>Гильгамеш</Text>
+        </Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_NAME">
+            <Text>Муваталлис</Text>
+        </Row>
+	</Language_RU_RU>
+</GameData>

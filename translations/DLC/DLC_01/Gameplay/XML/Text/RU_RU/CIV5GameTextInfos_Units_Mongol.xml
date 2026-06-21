@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_MONGOL_KESHIK">
+			<Text>Кешик</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MONGOL_KHAN">
+			<Text>Хан</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GENGHIS">
+			<Text>Чингис</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_BATU">
+			<Text>Батый</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_OGEDEI">
+			<Text>Угэдэй</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GUYUK">
+			<Text>Гуюк</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE">
+			<Text>Мункэ</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_KUBLAI">
+			<Text>Хубилай</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_HULEGU">
+			<Text>Хулагу</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_BERKE">
+			<Text>Берке</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE_TEMUR">
+			<Text>Мункэ-Тимур</Text>
+		</Row>
+<Row Tag="TXT_KEY_MONGOLIAN_KHAN_TEMUR_KHAGAN">
+			<Text>Тимур-каган</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL">
+			<Text>Улучшенный медик</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+			<Text>Этот юнит и все остальные на соседних клетках [COLOR_POSITIVE_TEXT]восстанавливают на 2 HP больше[ENDCOLOR] за ход.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE">
+			<Text>Быстрое обучение</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE_HELP">
+			<Text>Получает опыт для повышений на 50% быстрее.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

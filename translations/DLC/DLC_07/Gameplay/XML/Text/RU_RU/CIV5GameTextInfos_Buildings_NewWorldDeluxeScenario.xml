@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CHOCOLATE_HOUSE">
+			<Text>Шоколадный дом</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GUNSMITH_SHOP">
+			<Text>Оружейная мастерская</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID">
+			<Text>Пирамида</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL">
+			<Text>Школа мореплавания</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE">
+			<Text>Молельный дом</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_BLYTHE_INTAGLIOS">
+			<Text>Инталии Блайта</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_WONDER_MOOREHEAD_CIRCLE">
+			<Text>Круг Мурхеда</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_WONDER_TEXCOTZINGO">
+			<Text>Тескоцинго</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
+			<Text>Фиджи</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI_ADJ">
+			<Text>Фиджийский</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU">
+			<Text>Вануату</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU_ADJ">
+			<Text>Вануату</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI">
+			<Text>Кирибати</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
+			<Text>Кирибати</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU">
+			<Text>Науру</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
+			<Text>Науруанский</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO">
+			<Text>Ндендо</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO_ADJ">
+			<Text>Ндендо</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL">
+			<Text>Гуадалканал</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL_ADJ">
+			<Text>Гуадалканал</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI">
+			<Text>Понпеи</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
+			<Text>Понпейский</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO">
+			<Text>Маджуро</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO_ADJ">
+			<Text>Маджуро</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

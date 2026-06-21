@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_ADJECTIVE">
+			<Text>Инкский</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_DESC">
+			<Text>Империя инков</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_SHORT_DESC">
+			<Text>Инки</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_ADJECTIVE">
+			<Text>Испанский</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_DESC">
+			<Text>Испанская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_SHORT_DESC">
+			<Text>Испания</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_ADJECTIVE">
+			<Text>Майянский</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_DESC">
+			<Text>Империя майя</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_SHORT_DESC">
+			<Text>Майя</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_ADJECTIVE">
+			<Text>Нидерландский</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_DESC">
+			<Text>Нидерландская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_SHORT_DESC">
+			<Text>Нидерланды</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_ADJECTIVE">
+			<Text>Старосветский европейский</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_DESC">
+			<Text>Старый Свет Европа</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_SHORT_DESC">
+			<Text>Старый Свет</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

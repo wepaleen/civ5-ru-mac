@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_DESC">
+			<Text>Герцогство Нормандия</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>Нормандия</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>Нормандский</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_DESC">
+			<Text>Норвежская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>Норвегия</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>Норвежский</Text>
+		</Row>
+<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>Англосаксонская Англия</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

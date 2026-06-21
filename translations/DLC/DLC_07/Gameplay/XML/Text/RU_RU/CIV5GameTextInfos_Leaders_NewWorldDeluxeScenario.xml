@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI">
+			<Text>Пачакути</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA">
+			<Text>Изабелла</Text>
+			<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_MARIA_I">
+			<Text>Екатерина</Text>
+			<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_NAME">
+			<Text>Екатерина</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL">
+			<Text>Пакаль</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM">
+			<Text>Вильгельм</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON">
+			<Text>Франциск I</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_NAME">
+			<Text>Франциск I</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

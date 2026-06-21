@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_ADJECTIVE">
+			<Text>Европейский Старый Свет</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_DESC">
+			<Text>Европа Старого Света</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_SHORT_DESC">
+			<Text>Старый Свет</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

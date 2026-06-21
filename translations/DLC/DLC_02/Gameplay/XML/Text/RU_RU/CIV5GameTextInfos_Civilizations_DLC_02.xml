@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_INCA_ADJECTIVE">
+			<Text>Инкский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_INCA_DESC">
+			<Text>Империя Инков</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_INCA_SHORT_DESC">
+			<Text>Инки</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_CIV_SPAIN_ADJECTIVE">
+			<Text>Испанский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_SPAIN_DESC">
+			<Text>Испанская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_SPAIN_SHORT_DESC">
+			<Text>Испания</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

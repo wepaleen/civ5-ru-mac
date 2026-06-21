@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_MONGOL_TATARS">
+			<Text>Татары</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MONGOL_KEREIT">
+			<Text>Кереиты</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MONGOL_MERKITS">
+			<Text>Меркиты</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MONGOL_NAIMANS">
+			<Text>Найманы</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MONGOL_MONGOLS">
+			<Text>Монголы</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MONGOL_GENGHIS">
+			<Text>Чингисхан</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

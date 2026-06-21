@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_AUGUSTUS">
+			<Text>Гонорий</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_DARIUS">
+			<Text>Бахрам V</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ASKIA">
+			<Text>Гейзерих</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_NAPOLEON">
+			<Text>Хлодион</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BISMARCK">
+			<Text>Аларих I</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
+			<Text>Сайрус Ротерам</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
+			<Text>Игнас Карно</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
+			<Text>Октавий Катлер</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>Лютер Григгс</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
+			<Text>Клинтон Олдердайс</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BARBARIAN">
+			<Text>Луддит</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA">
+			<Text>Саладин</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">
+			<Text>Якуб аль-Мансур</Text>
+		</Row>
+<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON">
+			<Text>Франциск I</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

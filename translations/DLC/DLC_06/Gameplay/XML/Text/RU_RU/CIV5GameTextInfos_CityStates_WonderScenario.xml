@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY">
+			<Text>Троя</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_ADJ">
+			<Text>Троянский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_DESC">
+			<Text>Легендарный город Троя, достигший расцвета в III-II тысячелетиях до н.э., был процветающим торговым центром на Эгейском море. Прославленный прежде всего в эпической поэме Гомера "Илиада", город долгое время считался чистой мифологией. Однако археологические открытия XIX века обнажили в современной Турции руины, которые принято считать остатками города Трои.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS">
+			<Text>Кносс</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_ADJ">
+			<Text>Кносский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_DESC">
+			<Text>Поселение Кносс, расположенное на греческом острове Крит, являлось центром древней бронзовой цивилизации минойцев. Оказывая влияние на греческое общество на протяжении всего II тысячелетия до н.э., минойцы Кносса славились как искусные ремесленники, нередко торговавшие с египтянами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS">
+			<Text>Библ</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_ADJ">
+			<Text>Библский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_DESC">
+			<Text>Один из древнейших городов мира - финикийское поселение Библ, расположенное в современном Ливане, - был основан около V тысячелетия до н.э. Первоначально известный как Гебал, название "Библ" (от греческого "Бублос", означающего папирус) было дано греками, поскольку город служил главным импортером египетского папируса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT">
+			<Text>Угарит</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_ADJ">
+			<Text>Угаритский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_DESC">
+			<Text>Древний город Угарит, находившийся на восточном побережье Средиземного моря, располагается сегодня на территории современной Сирии. Заселенный около VI тысячелетия до н.э., Угарит развился в успешный портовый город, торговавший с египтянами и греками в период расцвета в конце II тысячелетия.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE">
+			<Text>Кирена</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_ADJ">
+			<Text>Киренский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_DESC">
+			<Text>Древняя греческая колония Кирена, расположенная на территории современной Ливии, была впервые основана в 630 году до н.э. греческими колонистами с острова Фера. Став торговым центром региона, Кирена являлась узловым пунктом различных торговых путей, связывавших остальные греческие колонии в округе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI">
+			<Text>Стоби</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_ADJ">
+			<Text>Стоби</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_DESC">
+			<Text>Древний город Стоби в свое время был римской столицей провинции "Македония Салутарис" на территории современной Македонии. Стратегически расположенный торговый центр на реках Черна и Аксий, Стоби был разрушен землетрясением в 518 году н.э.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS">
+			<Text>Севтополь</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_ADJ">
+			<Text>Севтопольский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_DESC">
+			<Text>Основанный в IV веке до н.э. фракийским царем Севтом III, город Севтополь служил столицей Одрисского царства до разграбления кельтами в 281 году до н.э. Руины Севтополя находятся на территории современной Болгарии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI">
+			<Text>Энкоми</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_ADJ">
+			<Text>Энкоми</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_DESC">
+			<Text>Город Энкоми в II тысячелетии до н.э. являлся важным центром торговли медью. Расположенный на острове Кипр, Энкоми процветал вплоть до ок. 1050 года до н.э., когда был сильно поврежден землетрясением и покинут жителями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM">
+			<Text>Элам</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM_ADJ">
+			<Text>Эламский</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM_DESC">
+			<Text>Элам, располагавшийся на территории современного Ирана, представлял собой обширную территорию, охватывавшую несколько иранских провинций и части Ирака. Существовавший на протяжении нескольких тысячелетий, начиная с III тысячелетия до н.э., Элам пал жертвой внутренних раздоров и внешних конфликтов на рубеже I века н.э. </Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN">
+			<Text>Нахчыван</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_ADJ">
+			<Text>Нахчыван</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_DESC">
+			<Text>Охватывающий территории Армении, Ирана и Турции, анклавный регион Нахчыван, по преданиям, был заселен более 5000 лет назад. На протяжении всей своей истории регион оказывался в центре многочисленных военных кампаний персидских империй и македонян. Нахчыван существует по сей день как регион Азербайджанской Республики. </Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI">
+			<Text>Вашуканни</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_ADJ">
+			<Text>Вашуканни</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_DESC">
+			<Text>Город Вашуканни служил столицей хурритского царства народа митанни во II тысячелетии до н.э. Хотя его точное местонахождение до сих пор неизвестно, предполагается, что он располагался на берегах реки Хабур. </Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN">
+			<Text>Шарухен</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_ADJ">
+			<Text>Шарухен</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_DESC">
+			<Text>Древний город Шарухен, найденный в пустыне Негев на юге Израиля, в свое время служил убежищем для гиксосов, изгнанных из Египта в XVI веке до н.э. Впоследствии поселение было уничтожено египетским фараоном Яхмосом I.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

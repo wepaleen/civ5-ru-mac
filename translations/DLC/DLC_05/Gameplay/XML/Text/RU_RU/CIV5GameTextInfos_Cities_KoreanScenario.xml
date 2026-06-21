@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CITY_NAME_FE_ALA">
+			<Text>Фэ Ала</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_YENDEN">
+			<Text>Йендэн</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_XINGJING">
+			<Text>Синцзин</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_MUKDEN">
+			<Text>Мукден</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_FUSHUN">
+			<Text>Фушунь</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_QINGHE">
+			<Text>Цинхэ</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SARHU">
+			<Text>Сарху</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_GIRIN_ULA">
+			<Text>Гирин Ула</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_NANLING">
+			<Text>Наньлин</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_TIELING">
+			<Text>Тэлин</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_NINGDOTA">
+			<Text>Ниндота</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SIPING">
+			<Text>Сыпин</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_LIAOYUAN">
+			<Text>Ляоюань</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_CHANGCHUN">
+			<Text>Чанчунь</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_HARBIN">
+			<Text>Харбин</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_UIJU">
+			<Text>Ыйчжу</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_JINAN">
+			<Text>Цзинань</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SHANHAIGUAN">
+			<Text>Шаньхайгуань</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_NINGYUAN">
+			<Text>Нинъюань</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_LIANYUNGANG">
+			<Text>Ляньюньган</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_LIAOYANG">
+			<Text>Ляоян</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

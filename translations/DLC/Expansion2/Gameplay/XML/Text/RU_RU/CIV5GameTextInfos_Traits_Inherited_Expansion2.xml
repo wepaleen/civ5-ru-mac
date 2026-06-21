@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION">
+			<Text>Сохраняет 50% бонусов [ICON_HAPPINESS_1] Довольства от Ресурса роскоши, если последний его экземпляр был обменян.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION_SHORT">
+			<Text>Голландская Ост-Индская компания</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE">
+			<Text>+1 [ICON_PEACE] Вера за каждый город, рядом с которым есть неулучшенный лес. Бонус возрастает до +2 [ICON_PEACE] Вера в городах, рядом с которыми находятся 3 и более неулучшенных клетки леса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT">
+			<Text>Друидические знания</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
+			<Text>При основании Религии выбирайте на одно Верование больше, чем обычно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT">
+			<Text>Константинопольский патриархат</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
+			<Text>Получите 90 [ICON_INFLUENCE] Влияния при подарке Великого человека Городу-государству. При объявлении дружбы Швеция и ее союзник получают бонус +10% к генерации Великих людей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
+			<Text>Нобелевская премия</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
+			<Text>Сносит Города вдвое быстрее. Заимствует названия городов у других Цивилизаций в игре. Начинает с технологией Скотоводство. +1 [ICON_PRODUCTION] Производство за каждое Пастбище.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
+			<Text>Бич Божий</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE">
+			<Text>Может тратить [ICON_GOLD] Золото, чтобы аннексировать или превратить в марионетку Город-государство, который является вашим союзником на протяжении 5 ходов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
+			<Text>Дипломатический брак</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
+			<Text>Все прибрежные Города получают бесплатную Гавань. После получения первого Великого полководца юниты могут пересекать горы, получая 50 единиц урона при завершении хода на горе. </Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT">
+			<Text>Финикийское наследие</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LONG_COUNT">
+			<Text>После изучения Теологии в конце каждого цикла календаря Длинного счета майя (каждые 394 года) получайте бонусного Великого человека. Каждого бонусного человека можно выбрать только один раз.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LONG_COUNT_SHORT">
+			<Text>Длинный счет</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH">
+			<Text>Боевой бонус (+20%) при сражении с юнитами Цивилизации, имеющей больше Городов, чем Эфиопия.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT">
+			<Text>Дух Адвы</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
+			<Text>Получает втрое больше [ICON_GOLD] Золота из лагерей варваров и при разграблении Городов. Наземные юниты получают повышения Военная пирога и Амфибийный, усиливающие их на судне.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
+			<Text>Семь городов золота</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
+			<Text>Бонус [ICON_GOLD] Золота за открытие Природного чуда (бонус увеличен, если вы открыли его первым). [ICON_CULTURE] Культура, [ICON_HAPPINESS_1] Довольство и доходы с клеток Природных чудес удвоены.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

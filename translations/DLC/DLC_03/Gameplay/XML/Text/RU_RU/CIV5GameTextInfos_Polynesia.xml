@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TRAIT_WAYFINDING_SHORT">
+			<Text>Навигация</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_WAYFINDING">
+			<Text>Может немедленно выходить в море и перемещаться по Океану. +1 к Обзору на судне. +10% бонус к [ICON_STRENGTH] Боевой мощи, если находится в пределах 2 клеток от Моаи.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

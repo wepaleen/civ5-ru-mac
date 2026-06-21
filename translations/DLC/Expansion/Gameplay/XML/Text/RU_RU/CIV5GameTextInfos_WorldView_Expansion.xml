@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TP_HAPPINESS_CITY_STATE_FRIENDSHIP">
+			<Text>{1_Num} от городов-государств.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_TT">
+			<Text>Если у вас достаточно [ICON_GOLD] Золота или [ICON_PEACE] Веры, купите юнит или здание немедленно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TEXT">
+			<Text>[ICON_PEACE] Акцент на Вере</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FAITH_TT">
+			<Text>Нажмите здесь, чтобы этот город сосредоточился на производстве [ICON_PEACE] Веры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_GG_STACKED">
+			<Text>В стеке с Великим полководцем</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_ACCUMULATED">
+			<Text>{1_Num} [ICON_PEACE] Веры накоплено по всей империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_FROM_CITIES">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] производится городами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_FROM_MINORS">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] от городов-государств.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_FROM_RELIGION">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] от верований основателя.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_RELIGIONS_LEFT">
+			<Text>Религий, которые еще можно основать: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_NEXT_PROPHET">
+			<Text>{1_Num} [ICON_PEACE] Веры - минимум, необходимый для следующего шанса получить Великого пророка.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_NEXT_GREAT_PERSON">
+			<Text>Вы можете приобрести любого из этих Великих людей за [ICON_PEACE] Веру: </Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_NEXT_PANTHEON">
+			<Text>{1_Num} [ICON_PEACE] Веры - минимум, необходимый для основания следующего религиозного Пантеона. Если вы хотите основать пантеон, вы должны сделать это до появления в игре Улучшенной религии (хотя вы всегда можете основать его, если количество пантеонов не достигло максимально допустимого числа религий).</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_FAITH_PANTHEONS_LOCKED">
+			<Text>Одна из религий была улучшена, а количество основанных пантеонов достигло максимально допустимого числа религий. При этих условиях вы больше не можете основать Пантеон. Используйте накопленную Веру для покупки религиозных юнитов или зданий, если религия распространилась в один из ваших городов. Или сохраните ее до Индустриальной эпохи или позже для создания Великих людей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_CULTURE_FROM_RELIGION">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] от религии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_CULTURE_FROM_GOLDEN_AGE">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] от вашего Золотого века.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_PANTHEON_DESCRIPTION">
+			<Text>почитает пантеон с верованием:</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_RELIGION_DESCRIPTION">
+			<Text>основал религию:</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLD_FROM_RELIGION">
+			<Text>{1_Num} от религии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_CAPITAL_DEFENSE_BONUS">
+			<Text>Бонус защиты столицы</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_TRAIT_LOW_TECH_BONUS">
+			<Text>Бонус против более развитых технологически</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_TRAIT_SMALL_SIZE_BONUS">
+			<Text>Бонус против более крупной цивилизации</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_ENEMY_CITY_BELIEF_BONUS">
+			<Text>Справедливая война</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_FRIENDLY_CITY_BELIEF_BONUS">
+			<Text>Защитник веры</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_GA_NEAR">
+			<Text>Рядом с Великим адмиралом</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_IGG">
+			<Text>Игнорирует Великого полководца</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_REVERSE_GG_NEAR">
+			<Text>Рядом с грозным противником</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE">
+			<Text>[COLOR_CYAN]Шанс захвата при потоплении: {1_Percent}%[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_SPREAD_RELIGION_USES">
+			<Text>Использования распространения религии</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_SPREAD_RELIGION_USES_TT">
+			<Text>Показывает оставшееся количество раз, которое этот юнит может распространить свою религию в город.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_REMOVE_HERESY_USES">
+			<Text>{TXT_KEY_MISSION_REMOVE_HERESY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_REMOVE_HERESY_USES_TT">
+			<Text>Показывает оставшееся количество раз, которое этот юнит может устранить ересь в городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UPANEL_RELIGIOUS_STRENGTH_TT">
+			<Text>Показывает силу религиозного юнита (1000 - среднее значение).</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITYVIEW_RETURN_TO_ESPIONAGE">
+			<Text>Вернуться к шпионажу</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_HAPPINESS_CITIES">
+			<Text>{1_Num} от локального довольства городов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_TEAMMATE">
+			<Text>Это город союзника.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_HAPPINESS_POLICIES">
+			<Text>{1_Num} от глобального довольства общественных институтов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_HAPPINESS_BUILDINGS">
+			<Text>{1_Num} от глобального довольства зданий.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
+			<Text>Во время [ICON_GOLDEN_AGE] Золотого века каждая клетка вашей империи, производящая хотя бы 1 [ICON_GOLD] Золото, производит 1 дополнительное. Города получают +20% [ICON_PRODUCTION] Производства, а [ICON_CULTURE] Культура по всей империи возрастает на 20%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
+			<Text>Во время [ICON_GOLDEN_AGE] Золотого века каждая клетка вашей империи, производящая хотя бы 1 [ICON_GOLD] Золото, производит 1 дополнительное. Города получают +20% [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_ADJACENT_TERRITORY">
+			<Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt; {@1_ImprovementName}} должно быть построено внутри вашей территории или в смежной с ней клетке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_OF">
+			<Text>Город-государство {@1_MinorCivName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_SV_OVERLAY_RELIGION">
+			<Text>Религиозная карта</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
+			<Text>[COLOR_YELLOW]Перехват истребителем или[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
+			<Text>[COLOR_YELLOW]зенитным огнем увеличит урон[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_EUPANEL_VISIBLE_AA_UNITS">
+			<Text>[COLOR_WARNING_TEXT]Известные вражеские зенитные юниты: {1_Number}[ENDCOLOR]</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

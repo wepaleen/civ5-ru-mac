@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
+      <Text>Эфиопский</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+<Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
+      <Text>Эфиопская Империя</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+<Row Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC">
+      <Text>Эфиопия</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+	</Language_RU_RU>
+</GameData>

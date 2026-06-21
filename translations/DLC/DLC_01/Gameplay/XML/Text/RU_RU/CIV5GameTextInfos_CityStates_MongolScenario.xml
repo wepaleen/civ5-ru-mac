@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR">
+		  <Text>Уйгуры</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR_ADJ">
+		  <Text>Уйгурский</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA">
+		  <Text>Грузия</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA_ADJ">
+		  <Text>Грузинский</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY">
+		  <Text>Венгрия</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY_ADJ">
+		  <Text>Венгерский</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET">
+		  <Text>Дай Вьет</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET_ADJ">
+		  <Text>Дай Вьет</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI">
+		  <Text>Дали</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI_ADJ">
+		  <Text>Дали</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS">
+		  <Text>Аббасиды</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS_ADJ">
+		  <Text>Аббасидский</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS">
+		  <Text>Государства крестоносцев</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS_ADJ">
+		  <Text>Государство крестоносцев</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA">
+		  <Text>Западное Ся</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA_ADJ">
+		  <Text>Западное Ся</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA">
+		  <Text>Корея</Text>
+	  </Row>
+<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA_ADJ">
+		  <Text>Корейский</Text>
+	  </Row>
+	</Language_RU_RU>
+</GameData>

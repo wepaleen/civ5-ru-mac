@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT">
+			<Text>Нормандский рыцарь</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL">
+			<Text>Хускарл</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

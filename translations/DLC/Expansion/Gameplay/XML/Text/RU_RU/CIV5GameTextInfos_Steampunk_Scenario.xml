@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TITLE">
+			<Text>Империи дымных небес</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_DESC">
+			<Text>Появление паровой энергии произвело революцию во всем мире. Это эпоха открытий, движимая новыми ресурсами и блестящими изобретениями. Сможете ли вы обуздать силу пара и привести свой народ к величию?</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RANDOM_MAP">
+			<Text>Случайная карта</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_FIXED_MAP">
+			<Text>Фиксированная карта</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_SUMMARY">
+			<Text>{@1_CivName} получает титул {@2_TitleName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_TT">
+			<Text>{@1_CivName} удостоена Почетного титула [COLOR_POSITIVE_TEXT]{@2_TitleName}[ENDCOLOR], что дает им больше влияния в Лиге империй и приближает к победе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TURNS_REMAINING">
+			<Text>{1_TokensOwned} из {2_TokensAvailable} титулов</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BRIEFING_BUTTON">
+			<Text>Инструктаж</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VSCREEN_BUTTON">
+			<Text>Лига империй</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_HELP">
+			<Text>Лига империй собирается ежегодно, чтобы определить наиболее достойных мировых лидеров и удостоить их Почетными титулами. Первый лидер, удерживающий {1_NumTokensNeededForVictory} или более титулов на протяжении {2_NumTurnsNeededForVictory} ходов, возьмет Лигу под контроль и победит в игре.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_POSSIBLE">
+			<Text>На {1_YearUpdated : number #} год:</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_LOCKED">
+			<Text>Победа пока недостижима.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_COUNTDOWN">
+			<Text>До победы {@2_CivAboutToWin} осталось {1_NumTurnsUntilVictory} ходов!</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TURN_UNLOCK">
+			<Text>Доступно с хода {1_UnlockTurn}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TECH_UNLOCK">
+			<Text>Доступно после того, как любой игрок исследует {1_Technology:textkey}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_VALUE_UNLOCK">
+			<Text>Доступно после того, как любой игрок достигнет {1_UnlockValue} в этой области.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_UNLOCK_TT">
+			<Text>Титул [COLOR_POSITIVE_TEXT]{@1_TitleName}[ENDCOLOR] становится доступен для всех игроков.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY">
+			<Text>Военное дело</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TITLE">
+			<Text>Защитник прогресса</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_HELP">
+			<Text>Количество новейших сухопутных и воздушных кораблей</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TT">
+			<Text>Как только кто-то строит более совершенную модель, старые модели устаревают и больше не учитываются. Тем не менее старые модели по-прежнему можно улучшить, чтобы они оставались конкурентоспособными. Если кто-то другой вырывается вперед, вы можете строить новые юниты, улучшать старые или атаковать вражескую армию, чтобы уменьшить ее численность.[NEWLINE][NEWLINE]Новейший тип сухопутного корабля: {@1_LandshipUnitType}[NEWLINE]Новейший тип воздушного корабля: {@2_AirshipUnitType}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE">
+			<Text>Культура</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_TITLE">
+			<Text>Владыка утонченности</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_HELP">
+			<Text>Принятые общественные институты</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_TT">
+			<Text>Примите больше общественных институтов, чем ваши соперники.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY">
+			<Text>Промышленность</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TITLE">
+			<Text>Капитан промышленности</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_HELP">
+			<Text>Город с наибольшим производством</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TT">
+			<Text>Сравниваются города с наибольшим [ICON_PRODUCTION] Производством в каждой отдельной империи, и титул достается владельцу самого производительного города.[NEWLINE][NEWLINE]Самый производительный город мира: {@1_WorldBestCity}[NEWLINE]Ваш самый производительный город: {@2_YourBestCity}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE">
+			<Text>Торговля</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TITLE">
+			<Text>Повелитель богатства</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_HELP">
+			<Text>Общий валовой доход золотом</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TT">
+			<Text>Общее количество золота, полученного за все время игры. Учитывается только валовой доход золотом, поэтому содержание и прочие расходы не уменьшают этот счет.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR">
+			<Text>Труд</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_TITLE">
+			<Text>Великий филантроп</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_HELP">
+			<Text>Чудеса света и национальные чудеса</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_TT">
+			<Text>Каждое Чудо света и Национальное чудо, которым вы владеете, одинаково засчитывается в ваш счет. Если соперники первыми строят Чудеса света, вы можете наверстать упущенное, возводя Национальные чудеса, или атаковать их города и присваивать их Чудеса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_HELP_TT">
+			<Text>В случае ничьей ни один игрок не получает титул.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>ОПИСАНИЕ СЦЕНАРИЯ[NEWLINE]Приветствуем вас, прославленный капитан науки и промышленности! Появление паровой энергии произвело революцию во всем мире. Это эпоха открытий, движимая новыми ресурсами и блестящими изобретениями. Огромные дирижабли пересекают небеса, оставляя за собой черные шлейфы дыма. Цивилизации устремляются к светлому будущему, однако конкуренция жестока. Ресурсов не хватает, а технологические секреты тщательно охраняются. Вы и ваши соперники должны расширять свои империи по всему земному шару, чтобы удовлетворять растущие потребности во имя прогресса. Сможете ли вы обуздать мощь паровых технологий и привести свой народ к величию?[NEWLINE][NEWLINE]УСЛОВИЯ ПОБЕДЫ[NEWLINE]Империи соревнуются в области военного дела, культуры, промышленности, торговли и труда. Станьте лучшим в своей области, чтобы заслужить Почетный титул. Подробности о каждом титуле и ход вашего продвижения вы можете отслеживать на экране Лиги империй. Первая империя, удерживающая три или более титула, побеждает в игре.[NEWLINE][NEWLINE]ОСОБЫЕ ПРАВИЛА[NEWLINE]Игроки начинают, имея все технологии вплоть до Паровой энергии. Древо технологий после Паровой энергии существенно изменено: игроки получают возможность строить дирижабли, сухопутные корабли и новые здания. Варвары ("луддиты") включены, но не имеют доступа к продвинутым юнитам. Общественные институты переработаны. Религия отключена, как и религиозные и милитаристские города-государства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_GERMANY_TEXT">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_RUSSIA_TEXT">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_ENGLAND_TEXT">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_SWEDEN_TEXT">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_FRANCE_TEXT">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_TIME">
+			<Text>Империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_TIME_BANG">
+			<Text>Победа империи!</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_FLAVOR_TIME">
+			<Text>Лига империй склоняется перед вами. Вы доказали, что ваша цивилизация наиболее достойна и поведет человечество к будущему. Небеса принадлежат вам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ROFFENBURG_NAME">
+			<Text>Сайрус Ротерам</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CURNOW_NAME">
+			<Text>Иньяс Курно</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CUTLER_NAME">
+			<Text>Октавиус Катлер</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GRIGGS_NAME">
+			<Text>Лютер Григгс</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ALDERDICE_NAME">
+			<Text>Клинтон Олдердайс</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_1">
+			<Text>У вас 2 титула, и вы представляете угрозу для них в Лиге.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_2">
+			<Text>У вас более 2 титулов, и вы почти контролируете Лигу!</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_3">
+			<Text>Вы претендуете на одни и те же титулы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_TEXT_1">
+			<Text>Империя Эрух началась с серии страстных дебатов между давно устоявшимися аристократическими семьями о нарастающем хаосе в мире и о том, как его остановить. Вскоре дискуссии достигли критической массы, перейдя от слов к делу, - движимые страхом аристократов перед неопределенным будущим и их желанием защитить свои богатства. Был создан тайный совет, опиравшийся на управленческий опыт и военную мощь, унаследованные от предыдущих поколений. Он собрал небольшую, но хорошо вооруженную армию. С ее помощью аристократы отвоевали обширную территорию, ставшую ядром Эруха, и отделились от прежних королевств. Внешне лидеры Эруха превозносят блага цивилизованной жизни и стремятся распространить свои порядки до краев земли. В дипломатических делах они ведут себя как джентльмены, однако за их спиной всегда стоит жесткая военная машина, готовая откликнуться на первый призыв.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_TEXT_1">
+			<Text>Точное происхождение Пулиаса по сей день окутано тайной. Казалось, она возникла из ниоткуда, однако ее сила и богатство слишком велики, чтобы остаться незамеченными. Большинство источников указывают на одного-единственного лидера, который увидел возможности в новой науке, торговле и, прежде всего, в политике, и управлял событиями из тени. Этот лидер продавал соперникам секретные сведения по высокой цене, одновременно используя их для продвижения целей Пулиаса. На раннем этапе соперничества между империями многие возможности оставались неиспользованными, пока соперники гнались за краткосрочной выгодой. Пулиас первой снарядила экспедиции в дальние края и наладила торговлю, принесшую богатство ее гражданам. Ее шпионы были расставлены на ключевых позициях по всему миру, собирая разведывательные данные и готовые к действию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_TEXT_1">
+			<Text>Далмас возник по необходимости. Смута рушащихся старых королевств и поднимающихся новых империй отодвинула на обочину многих представителей низших и средних сословий. Одни оставались на родине, другие бежали беженцами, не зная, куда идти. Они собирались в поместьях аристократов, у которых не хватало духа или сил прогнать их прочь. Вскоре из рядов беженцев выдвинулись лидеры, призывавшие к организации, защите, продовольствию и ресурсам. Некоторые аристократы усмотрели в этом возможность и примкнули к ним, разделив свое богатство. Другие отказались - и их имения были разграблены. Так возникли первые общины Далмаса, выросшие в города, ничуть не уступавшие городам любой другой империи. Далмас основан на идеалах, а его сила коренится в тесном товариществе и развивающейся культуре его скромных граждан.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_TEXT_1">
+			<Text>Неуклонное развитие науки кардинально изменило способы производства, транспортировки и продажи товаров. Многие, прежде дальновидные предприниматели не смогли приспособиться к переменам и сошли со сцены, освободив место для более гибких. Орлин не имел политического существования в момент зарождения и не стремился к созданию империи. Это было объединение честолюбивых промышленников, сплотившихся ради взаимной выгоды. Они делили рынки, как территории, и вместе добились господства в отраслях по всем старым королевствам. Когда королевства начали угасать, магнаты Орлина схлестнулись в борьбе за власть. Они посягали на чужие предприятия, прибегали к шантажу и убийствам. В итоге сложилась тесная олигархия, контролировавшая почти все средства производства. Опираясь на промышленную мощь и принесенные ею богатства, они официально вышли на мировую арену в качестве империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_TEXT_1">
+			<Text>Когда старые королевства ослабели, растущий класс ученых и изобретателей увидел возможность создать новый тип государства - основанного на принципах разума и открытого научному прогрессу. Они нашли союзников среди многих сторонников старых монархий, искавших способ сохранить свое влияние, и вместе стали Ведрией. Их ряды быстро смешались, и вскоре от каждого видного лидера ожидалось знакомство с научными процессами, если не личное участие в исследованиях. Ведрию отличает оптимизм в отношении грядущего, а ее граждане убеждены, что благородное служение науке - это верный путь к нему. Ученые привлекаются к государственным делам и получают щедрое финансирование для своих исследований.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_NAME">
+			<Text>Сайрус Ротерам</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_SUBTITLE">
+			<Text>Лидер Эруха</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_LIVED">
+			<Text>1815 - 1872 н.э.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1">
+			<Text>"Военные науки столь же сложны, как и прежде, однако в нашем распоряжении больше инструментов, чем когда-либо. Еще столетие назад для усмирения сил далекого врага требовались обширные укрепления, пути снабжения и ресурсы. Лошадей нужно было кормить и размещать, а потеря линии снабжения могла означать конец в остальном достойного похода. Солдатам приходилось учиться смотреть в глаза врагу, спокойно готовя оружие к бою и лишая жизни. В наш век солдаты могут сражаться в честном бою, избегая жестокостей прошлого столетия. Недавнее создание Сухопутного корабля сделало пехоту и кавалерию практически устаревшими. Ограниченный лишь ресурсами, необходимыми для постройки, Сухопутный корабль способен пересечь целую страну за считанные дни, не нуждаясь в отдыхе. Дальние территории, прежде требовавшие огромных усилий для покорения, теперь в пределах досягаемости. А благодаря орудиям и почти непробиваемой броне Сухопутный корабль способен легко покорить все, кроме самых упорных нецивилизованных народов."[NEWLINE][NEWLINE] - Сайрус Ротерам, обращение к Сенату Эруха
+</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_NAME">
+			<Text>Иньяс Курно</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_SUBTITLE">
+			<Text>Лидер Орлина</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LIVED">
+			<Text>1781 - 1836 н.э.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1">
+			<Text>"Нажатием кнопки паровая струя входит в установку и начинает изготовление. Шестеренки вращаются, прижимая горячую сталь и придавая ей форму новых шестеренок. Фабрика по производству фабрик. Быть может, мы используем ее для выпуска еще большего числа изделий; а может, продадим кому-то другому с хорошей прибылью. В этом простом процессе заключено доказательство роли промышленности в нашу эпоху. Мы можем строить дирижабли, сухопутные корабли, разностные машины, одежду и даже фабрики. Контролируя эффективность и максимизируя отдачу нашего промышленного сектора, мы можем производить все, что захотим, и делать это лучше всех."[NEWLINE][NEWLINE] - Иньяс Курно, отрывок из книги "Сталь и пар: руководство промышленника"
+</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_NAME">
+			<Text>Октавиус Катлер</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_SUBTITLE">
+			<Text>Лидер Пулиаса</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_LIVED">
+			<Text>1809 - 1888 н.э.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1">
+			<Text>"Есть те, кто говорит, что власть исходит из науки, а путь к ней - через исследования. Другие черпают силу в изобретении новых военных механизмов, разъезжая на своих Сухопутных кораблях и запасая ресурсы. Но истинная власть - ни в том ни в другом. Она в людях, которые все это создают. Если мы знаем то, что знают они, - значит, у нас есть то, что есть у них. Пусть они воюют между собой и стремятся к новым открытиям. Мы берем на себя задачу повторять каждый их шаг из тени, и наша совокупная мощь становится больше их вместе взятых. Если мы все сделаем правильно - а мы обязаны - они даже не заметят."[NEWLINE][NEWLINE] - Октавиус Катлер, личная переписка с вновь назначенным директором разведки
+</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_NAME">
+			<Text>Лютер Григгс</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_SUBTITLE">
+			<Text>Лидер Ведрии</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_LIVED">
+			<Text>1842 - 1910 н.э.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TEXT_1">
+			<Text>"Технологический прогресс привнес в нашу повседневную жизнь чудеса механического мастерства и позволил нам жить в изысканности и комфорте. Жужжание разностных машин, щелканье латунных шестеренок, ритмичные выдохи пара - словно дыхание быка перед броском; они привносят порядок в наш мир и позволяют нам совершать чудеса науки и вычислений, которые не только объясняют мир природы, но и властно накладывают наш порядок на его крепкие плечи. Дирижабли подняли наши земные тела, некогда навечно прикованные к земле, в вылазки по небесам. Острой силой разума мы воплотили вечную человеческую мечту о полете. И не на крыльях, которые природный отбор соблаговолил нам даровать, а на крыльях, выкованных потом нашего труда и огнем наших горнов."[NEWLINE][NEWLINE] - Лютер Григгс, отрывок из книги "Крылья разума"
+</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_NAME">
+			<Text>Клинтон Олдердайс</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_SUBTITLE">
+			<Text>Лидер Далмаса</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_LIVED">
+			<Text>1799 - 1855 н.э.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_HEADING_1">
+			<Text>История</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1">
+			<Text>"Прошу вас помнить об этом прежде всего, господин секретарь. Паровой век улучшил благосостояние наших великих держав, однако сделал это за счет простого человека. Вереница достижений последних десятилетий лишь яснее обнажила то, что давно являлось черным пятном человеческой истории: немногие облеченные властью эксплуатируют бесчисленных лишенных ее. Мы отмахивались от их трудностей как от мелких склок и ссылались на наши джентльменские манеры и производительные предприятия как на оправдание нашей власти, но в действительности условия жизни улучшаются для нас, тогда как для простого человека они ухудшаются. Если это не остановить, разрыв будет расти, пока простой человек не превратится в крепостного. Если я не могу апеллировать к вам и к Лиге на моральных основаниях - как уже выяснилось, ибо я пытался неустанно, - то позвольте предупредить вас: наше великое общество становится все более нестабильным. Простой человек, быть может, не столь образован и утончен, как мы, но у него есть глаза, уши и разум, и он не сможет бесконечно закрывать на все это глаза. Он сравнит нашу роскошь со своим положением и начнет сговариваться с соседом. Вместе они сплотятся и образуют недовольный блок, и не пройдет и века, как у нас на руках окажется неуправляемый бунт. И никакие вычисления разностных машин или бомбардировки с дирижаблей не смогут его остановить - ибо все это построено трудом тех, кто обратился против нас."[NEWLINE][NEWLINE] - Клинтон Олдердайс, письмо Великому секретарю Лиги империй
+</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS_SHORT">
+			<Text>Приграничные рынки</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS">
+			<Text>+1 [ICON_GOLD] Золото от стратегических ресурсов, а ресурсы [ICON_RES_ALUMINUM] Эфириума добываются в двойном количестве.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS_SHORT">
+			<Text>Оптимизированные добытчики</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS">
+			<Text>+1 [ICON_PRODUCTION] Производство от стратегических ресурсов, а ресурсы [ICON_RES_URANIUM] Люборика добываются в двойном количестве.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER_SHORT">
+			<Text>Новый мировой порядок</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER">
+			<Text>Принятие новых Общественных институтов обходится на 10% меньше [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH_SHORT">
+			<Text>Неусыпная стража</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH">
+			<Text>Дирижабли получают +2 [ICON_MOVES] Передвижения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES_SHORT">
+			<Text>Трудовые касты</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES">
+			<Text>На 20% меньше [ICON_HAPPINESS_4] Недовольства от [ICON_CITIZEN] Населения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD_SHORT">
+			<Text>Гильдия изобретателей</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD">
+			<Text>Великие ученые появляются на 50% быстрее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Разностную машину[ENDCOLOR] и Национальное чудо [COLOR_POSITIVE_TEXT]Аналитическая машина[ENDCOLOR], которые увеличивают [ICON_PRODUCTION] Производство и [ICON_RESEARCH] Науку в городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Всегда найдется достаточно вычислений в повседневных делах миллионов людей, занятых сложными задачами."[NEWLINE] - Ванневар Буш[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_REPLACEABLE_PARTS_HELP">
+			<Text>Открывает доступ к [COLOR_POSITIVE_TEXT]Пехоте Великой войны[ENDCOLOR] - самому передовому пехотному юниту в мире.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RAILROAD_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Сухопутный броненосец[ENDCOLOR] - первый наземный корабль. Также позволяет Рабочим прокладывать [COLOR_POSITIVE_TEXT]Железные дороги[ENDCOLOR] на клетках карты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_HELP">
+			<Text>Открывает доступ к Национальному чуду [COLOR_POSITIVE_TEXT]Аналитическая машина[ENDCOLOR], которое значительно увеличивает [ICON_PRODUCTION] Производство.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Вся арифметика теперь, казалось, оказалась в пределах досягаемости механизмов."[NEWLINE] - Чарльз Бэббидж[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Большой особняк[ENDCOLOR] и его Национальное чудо - [COLOR_POSITIVE_TEXT]Дом Билтмор[ENDCOLOR], которые приносят [ICON_GOLD] Золото и [ICON_CULTURE] Культуру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Алчность - вот движущая сила промышленности."[NEWLINE] - Дэвид Юм[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Эсминец[ENDCOLOR] и [COLOR_POSITIVE_TEXT]Летун[ENDCOLOR] - первый воздушный юнит.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Изобрести аэроплан - ничто. Построить аэроплан - кое-что. Но полететь... - это все."[NEWLINE] - Фердинанд Фербер[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_HELP">
+			<Text>Открывает [ICON_RES_URANIUM] Люборик и позволяет построить [COLOR_POSITIVE_TEXT]Линкор[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Природой можно повелевать, лишь подчиняясь ей."[NEWLINE] - Фрэнсис Бэкон[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_HELP">
+			<Text>Открывает [ICON_RES_ALUMINUM] Эфириум и позволяет построить [COLOR_POSITIVE_TEXT]Подводную лодку[ENDCOLOR]. Также позволяет построить [COLOR_POSITIVE_TEXT]Торговый колледж[ENDCOLOR], увеличивающий [ICON_RESEARCH] Науку и [ICON_CULTURE] Культуру города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"В дикой природе я ощущаю чудо жизни, на фоне которого наши научные достижения меркнут до мелочей."[NEWLINE] - Чарльз Линдберг[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Фондовую биржу[ENDCOLOR], увеличивающую [ICON_GOLD] Золото.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Конкуренция - это грех."[NEWLINE] - Джон Д. Рокфеллер[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Наземный корабль[ENDCOLOR] - мощный наземный юнит. Также открывает доступ к [COLOR_POSITIVE_TEXT]Патентному бюро[ENDCOLOR], увеличивающему [ICON_PRODUCTION] Производство и [ICON_GOLD] Золото города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Защитники были отброшены вправо и влево, едва нос этого сухопутного броненосца навис над краем траншеи."[NEWLINE] - Г. Дж. Уэллс[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Стадион[ENDCOLOR], увеличивающий [ICON_HAPPINESS_1] Довольство вашей Империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Добродетель - истинное благородство."[NEWLINE] - Мигель де Сервантес[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Дирижабль[ENDCOLOR], способный летать как над сушей, так и над морем. Также позволяет построить Национальное чудо [COLOR_POSITIVE_TEXT]Зал изобретателей[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Нефтеперерабатывающий завод Люборика[ENDCOLOR], производящий ресурсы [ICON_RES_URANIUM] Люборик.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Самая осязаемая из всех видимых тайн - огонь."[NEWLINE] - Джеймс Генри Ли Хант[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Благотворительный фонд[ENDCOLOR], увеличивающий [ICON_CULTURE] Культуру и [ICON_HAPPINESS_1] Довольство города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Я решил прекратить накопление и приступить к бесконечно более серьезной и трудной задаче - мудрому распределению."[NEWLINE] - Эндрю Карнеги[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Фабрикатор Эфириума[ENDCOLOR], производящий ресурсы [ICON_RES_ALUMINUM] Эфириума.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Цивилизация движется вперед, расширяя число важных операций, которые мы можем выполнять, не задумываясь о них."[NEWLINE] - Альфред Норт Уайтхед[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Ангар для дирижаблей[ENDCOLOR], дающий дополнительный Опыт обученным юнитам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Я летаю, потому что полет освобождает мой разум от тирании мелочей."[NEWLINE] - Антуан де Сент-Экзюпери[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Катушку Теслы[ENDCOLOR], значительно увеличивающую [ICON_RESEARCH] Науку в городе и немного повышающую [ICON_GOLD] Золото.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Зенитное орудие[ENDCOLOR] - мощное средство против воздушных юнитов, и [COLOR_POSITIVE_TEXT]Военную базу[ENDCOLOR], усиливающую оборону города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Оборона важнее богатства."[NEWLINE] - Адам Смит[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_HELP">
+			<Text>Позволяет построить самый мощный наземный корабль - [COLOR_POSITIVE_TEXT]Наземный Левиафан[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Говори тихо и держи большую дубину - далеко пойдешь."[NEWLINE] - Теодор Рузвельт[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RADIO_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Вещательную башню[ENDCOLOR] - здание, значительно увеличивающее [ICON_CULTURE] Культурный выход города. Также открывает доступ к Национальному чуду [COLOR_POSITIVE_TEXT]Карнеги-холл[ENDCOLOR] - еще одному мощному источнику [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ROBOTICS_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Автоматизированную фабрику[ENDCOLOR], существенно увеличивающую [ICON_PRODUCTION] Производство города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_HELP">
+			<Text>Позволяет построить самый мощный дирижабль - [COLOR_POSITIVE_TEXT]Небесную крепость[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Любая достаточно развитая технология неотличима от магии."[NEWLINE] - Артур Кларк[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_HELP">
+			<Text>Позволяет построить Национальное чудо [COLOR_POSITIVE_TEXT]Двигатель вечного движения[ENDCOLOR], дающее огромный прирост [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Дайте мне точку опоры и достаточно длинный рычаг - и я переверну мир."[NEWLINE] - Архимед[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_HELP">
+			<Text>Позволяет построить [COLOR_POSITIVE_TEXT]Подземный форпост[ENDCOLOR] и его Национальное чудо - [COLOR_POSITIVE_TEXT]Подземную колонию[ENDCOLOR], оба из которых значительно увеличивают [ICON_PRODUCTION] Производство города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Один справедливый принцип, рожденный в глубине пещеры, сильнее целой армии."[NEWLINE] - Хосе Марти[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_HELP">
+			<Text>Позволяет построить позднеигровое Чудо света [COLOR_POSITIVE_TEXT]Башня Си-Эн[ENDCOLOR], дающее Вещательную башню во всех ваших городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Правительство разума лучше, чем правительство силы."[NEWLINE] - Томас Джефферсон[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_HELP">
+			<Text>Может быть исследована более одного раза. Каждый раз при успешном исследовании приносит [ICON_CULTURE] Культуру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Люди любят удивляться - вот семя нашей науки."[NEWLINE] - Ральф Уолдо Эмерсон[NEWLINE][TAB]</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM_HELP">
+			<Text>Используется юнитами-дирижаблями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM_TEXT">
+			<Text>Эфириум был впервые обнаружен экспедиционными отрядами, принявшими его за серебро. По мере расширения добычи хлопья и куски этого вещества собирались в большие тюки для отправки - и тут произошло нечто очень странное. Тюки начали левитировать над землей. Ученые принялись изучать необычные свойства этого материала. Когда его массы собираются вместе, он способен противодействовать силе тяжести. При умелой инженерной обработке эти антигравитационные силы можно направить в надежный источник подъемной силы, позволяя кораблям парить в небе. Его значение в делах империй продолжает расти, однако даже сегодня его свойства изучены не до конца. Один неосторожный изобретатель пропустил электрический ток через небольшой кусок эфириума - и тот с силой выстрелил вверх, пробив дыру в крыше. Образец с гравировкой изобретателя для опытной проверки был найден спустя несколько недель, в нескольких милях от места запуска.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM_HELP">
+			<Text>Используется юнитами наземных кораблей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM_TEXT">
+			<Text>В природе люборик выглядит как невзрачная тускло-зеленая руда, но при высоких температурах начинает светиться. Он значительно мощнее и летучее своего предшественника - угля - и служит непревзойденным источником энергии как для фабрик, так и для транспортных средств. Цепочка реакций и механизмов, необходимых для использования люборика, отличается сложностью, не имеющей прецедентов в науке об энергии. Тогда как большинство видов топлива отдают энергию при сгорании, люборик не реагирует на огонь - его зеленое свечение остается единственной видимой реакцией. Чтобы высвободить огромный потенциал, скрытый в кусках люборитовой руды, ее нужно погрузить в раствор ферментов и подвергнуть воздействию тепла и давления. Ключевая реакция - не горение, а растворение. Токсичные газообразные выхлопы необходимо тщательно направлять: если пары задержатся в клапане или углу дольше нескольких секунд, они разъедят металл. Лишь при соблюдении мер предосторожности его легендарная энергия высвобождается из химических связей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN">
+			<Text>Движение по любой местности</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN_HELP">
+			<Text>Как дирижабль, этот юнит может перемещаться как по наземным, так и по морским клеткам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_AIR">
+			<Text>Бонус против истребителей и дирижаблей (150)</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PEDIA_PROMOTION_ANTI_AIR">
+			<Text>Бонус против истребителей и дирижаблей (150)</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_AIR_II">
+			<Text>Бонус против дирижаблей (150)</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_TANK">
+			<Text>Бонус против наземных кораблей (100)</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PEDIA_PROMOTION_ANTI_TANK">
+			<Text>Бонус против наземных кораблей (100)</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNITCOMBAT_HELICOPTER">
+			<Text>Юниты-дирижабли</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
+			<Text>Пехота Великой войны - сильнейший пехотный юнит в игре. Она может захватывать города, однако испытывает трудности в столкновениях с наземными кораблями и дирижаблями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_GREAT_WAR_INFANTRY">
+			<Text>Сильнейший пехотный юнит в игре.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_BATTLESHIP">
+			<Text>Самый мощный дальнобойный военно-морской юнит в игре.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_SUBMARINE_STRATEGY">
+			<Text>Подводная лодка - специализированное судно для уничтожения кораблей. Она невидима для большинства юнитов - кроме Эсминцев и других Подводных лодок - до тех пор, пока не атакует или не окажется рядом с другим юнитом. Подводная лодка может входить в ледяные клетки. Используйте ее для патрулирования вражеских вод и уничтожения вражеских кораблей, а также для защиты своих судов от атак вражеских субмарин.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_SUBMARINE">
+			<Text>Невидима для всех юнитов, кроме Эсминцев и других Подводных лодок. Способна нанести огромный урон кораблям, если подберется к ним незамеченной.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_ANTI_AIRCRAFT_GUN">
+			<Text>Перехватывает вражеских Летунов, пытающихся атаковать ближайших юнитов. Также эффективно против дирижаблей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_TEXT">
+			<Text>Строительство "Железного коня" - железной дороги - дало много ценных знаний. Вскоре изобретатели принялись создавать транспортное средство с мощью локомотива, но без нужды в рельсах. Разработка механизма передвижения для неуклюжих металлических чудовищ - первых прототипов - оказалась крайне сложной задачей. В итоге конструкция упростилась: бронирование стало значительно легче, но его хватало, чтобы выдержать ружейный огонь и капризы погоды. Первые водители обнаружили, что легкая и маневренная машина куда эффективнее громоздкой. Она позволяла быстро передвигаться при меньшем расходе топлива и обеспечивала гибкость в бою.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_STRATEGY">
+			<Text>Сухопутный броненосец - самый простой тип наземного корабля. Он хорошо бронирован и отличается в наземном бою. Используйте его для легкой победы над примитивными наземными юнитами и осады городов. Броня в какой-то мере защищает его от малокалиберных орудий Летунов, однако он крайне уязвим к пушечному огню дирижаблей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_HELP">
+			<Text>Первый наземный корабль. Силен против других наземных юнитов, но слаб против дирижаблей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LANDSHIP_TEXT">
+			<Text>Наземный корабль стал всем тем, чем должен был стать сухопутный броненосец, но так и не стал. Открытие люборика многократно увеличило доступный запас энергии для подобных машин, позволив нарастить броню и вооружение без потери маневренности. Он стал золотым стандартом на поле боя, способным уничтожить практически любой другой наземный юнит. Несколько таких машин давали командиру возможность быстро разгромить армию или взять город в кольцо.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LANDSHIP_STRATEGY">
+			<Text>Наземный корабль имеет тяжелую броню и превосходит других в наземном бою. Используйте его для уничтожения наземных юнитов и осады городов. Броня помогает защититься от малокалиберных орудий Летунов, однако он уязвим к пушечному огню дирижаблей. Для максимальной живучести сопровождайте наземный корабль юнитами, сильными против воздушных противников - Летунами и Зенитными орудиями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LANDSHIP_HELP">
+			<Text>Более мощная версия Сухопутного броненосца. Силен против других наземных юнитов, но слаб против дирижаблей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_TEXT">
+			<Text>Наземный Левиафан - вершина наземного боя. Получив имя в честь легендарного морского чудовища, он обладает колоссальной огневой мощью. Он может вести огонь почти под любым углом и пересекать сушу на большой скорости. Экипаж из шестнадцати человек: одни управляют орудиями, другие следят за двигателем на люборике, еще двое исполняют роли пилота и штурмана. В ходе учений они учатся двигаться и мыслить как единое целое, вырабатывая сокращенный язык для быстрой передачи сложных команд.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_STRATEGY">
+			<Text>Наземный Левиафан - вершина среди наземных кораблей, несущий разрушение любому другому наземному юниту. Используйте его для уничтожения уязвимых вражеских Зенитных орудий и обеспечения безопасности своих воздушных юнитов. Броня помогает защититься от малокалиберных орудий Летунов, однако он по-прежнему уязвим к пушечному огню дирижаблей и Небесных крепостей. Лучше всего прикрывать дорогостоящий Наземный Левиафан юнитами, сильными против воздушных противников, - Летунами и Зенитными орудиями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_HELP">
+			<Text>Самый совершенный наземный корабль. Силен против других наземных юнитов, но слаб против дирижаблей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_FLYER_TEXT">
+			<Text>Летун начинался как курьезное изобретение, один из многих плодов широкого участия людей в науке, порожденного Веком пара. Успехи в области движителей совершили чудеса для наземных и морских машин - почему бы не применить их в погоне за извечной мечтой о полете? Двигатель на фюзеляже был громоздким, поэтому приходилось экономить каждую унцию веса, если самолет вообще должен был летать. Там, где возможно, вместо металла использовалась ткань. Впоследствии, с развитием технологий, на него установили оружие и позволили себе отступления от первоначального замысла.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_FLYER_STRATEGY">
+			<Text>Летуны обладают небольшим радиусом действия и умеренной атакой. Они превосходны в тактике удара и отхода, особенно против Дирижаблей и Небесных крепостей, которые слишком громоздки, чтобы эффективно уклоняться от их ударов. Ограниченный радиус вначале сводит их преимущественно к оборонительным ролям, однако позднее Небесная крепость может служить их мобильной базой, доставляя их прямо на поле боя.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_FLYER_HELP">
+			<Text>Превосходен против дирижаблей, но не очень силен против наземных юнитов. Имеет ограниченный радиус действия и должен базироваться в городе или на Небесной крепости.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_AIRSHIP_TEXT">
+			<Text>До открытия эфирия считалось, что в небе смогут летать лишь легкие и маневренные суда - вроде Флаера. Дирижабль - странное, но величественное устройство. Благодаря новому материалу первые инженеры и изобретатели дирижаблей получили возможность поднять в воздух практически что угодно, преодолев ограничения науки, служившей до тех пор незыблемым законом их профессии. Закономерно, что готовый продукт напоминал нечто хорошо знакомое из прошлого: морское судно. У него была палуба, орудия по обоим бортам и воздушный шар вместо паруса. Первые экипажи дирижаблей переняли военно-морские традиции чинопочитания и иерархии. Однако вскоре реальность длительных полетов обрела собственный характер. Конструкции кораблей становились все более экспериментальными. Пилоты и команды дирижаблей выработали свою особую культуру - одновременно утонченную и причудливую.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_AIRSHIP_STRATEGY">
+			<Text>Дирижабль способен перемещаться над сушей и морем, сокращая расстояние до поля боя и открывая возможность атаковать врагов с неожиданного направления. Его мощные пушки могут обстреливать вражеские дирижабли поблизости или обрушивать разрушительный огонь на цели внизу. Флаеры и зенитные орудия представляют серьезную угрозу, поэтому уничтожайте их первыми или привлекайте другие типы юнитов для поддержки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_AIRSHIP_HELP">
+			<Text>Первый дирижабль, способный перемещаться над сушей и морем. Силен против наземных целей, но уязвим перед Флаерами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_TEXT">
+			<Text>Величественная Небесная крепость - зрелище поистине захватывающее. Значительно крупнее дирижабля, она бросает широкую тень на землю, повергая врагов в страх. Она оснащена тяжелым вооружением, но удерживается в воздухе благодаря передовому применению подъемных свойств эфирия. Внутри корпуса корабля располагаются самые разные помещения: штабные комнаты для генералов над полем боя, небольшой ангар для эскадрильи Флаеров и даже салоны для отдыха. Небесная крепость стала центральным элементом флотилий дирижаблей - мобильным командным центром, способным сеять смерть на земле и сбивать вражеские дирижабли.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_STRATEGY">
+			<Text>Небесная крепость - наиболее совершенный тип дирижабля, обладающий значительной огневой мощью. Она может не только использовать пушки для атаки наземных целей и других дирижаблей, но и служить мобильной базой для Флаера. Благодаря Флаеру, наносящему удары по соседним дирижаблям, Небесная крепость представляет серьезную угрозу для многих типов юнитов, однако по-прежнему уязвима перед вражескими Флаерами и зенитными орудиями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_HELP">
+			<Text>Наиболее совершенный дирижабль. Может служить базой для Флаера. Мощные атаки, но уязвим перед Флаерами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRANDSTAND_TEXT">
+			<Text>Жители Далмаса прекрасно понимают значение общественных пространств для своего благополучия и развития. Трибуна служит площадкой как для развлечений, так и для культурных мероприятий, привлекая зрителей издалека.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRANDSTAND_STRATEGY">
+			<Text>Трибуну может строить только Олдердайс, и она заменяет Стадион. В отличие от Стадиона, она дает [ICON_CULTURE] Культуру, помогая быстрее расширять территорию и получать новые Общественные институты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRANDSTAND_HELP">
+			<Text>Может быть построена только Олдердайсом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_LUBORIC_FACTORY_TEXT">
+			<Text>Ценность луборика для создания двигателей сухопутных кораблей была очевидна всем империям, однако промышленные умы Орлина увидели его потенциал для повышения производства. Они создали заводы, специально предназначенные для переработки луборика: здесь можно было очищать даже ничтожные его количества до пригодных для использования концентраций и применять их для эффективного производства товаров.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_STRATEGY">
+			<Text>Лубориковый завод может строить только Карноу. В отличие от Лубориковой нефтеперегонки, которую он заменяет, Лубориковый завод дает бонус к [ICON_PRODUCTION] Производству, возрастающий с числом ресурсов [ICON_RES_URANIUM] Луборик, обрабатываемых городом, в котором он построен. Этот бонус суммируется с особенностью Карноу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_HELP">
+			<Text>Может быть построен только Карноу.[NEWLINE][NEWLINE]Предоставляет [COLOR_POSITIVE_TEXT]2 [ICON_RES_URANIUM] Луборик[ENDCOLOR] ресурса.[NEWLINE][NEWLINE]Каждый источник [ICON_RES_URANIUM] Луборик, обрабатываемый этим городом, дает +1 [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_TORUS_DYNAMO_TEXT">
+			<Text>Ученые Ведрии были покорены гальваномагнитными силами и создали целые исследовательские лаборатории, посвященные их изучению. В центре этих лабораторий находилось Торусное динамо, потрескивавшее электрическим током. Оно служило одновременно объектом исследований и источником энергии для их проведения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_STRATEGY">
+			<Text>Торусное динамо может строить только Григгс. Оно дает городу больший прирост [ICON_RESEARCH] Науки, чем Катушка Тесла, которую заменяет. Этот бонус весьма полезен для изучения старых технологий, которые вы могли пропустить, или при работе над дорогостоящими технологиями Эпохи будущего.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_HELP">
+			<Text>Может быть построено только Григгсом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_AETHERIUM_FACTORY_TEXT">
+			<Text>Эфирий - вещество, словно бросающее вызов законам природы, и применений ему великое множество. Агенты Пулиаса сделали этот ресурс главным предметом своих усилий. Эфириевый завод позволяет максимально использовать даже малые количества эфирия, которые затем торговцы пускают в ход, чтобы поражать простолюдинов и выманивать у них деньги или создавать высоко ценимые коммерческие диковины.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY_STRATEGY">
+			<Text>Эфириевый завод может строить только Катлер. В отличие от Эфириевого фабрикатора, который он заменяет, Эфириевый завод дает бонус к [ICON_GOLD] Золоту, возрастающий с числом ресурсов [ICON_RES_ALUMINUM] Эфирий, обрабатываемых городом, в котором он построен. Этот бонус суммируется с особенностью Катлера.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY_HELP">
+			<Text>Может быть построен только Катлером.[NEWLINE][NEWLINE]Предоставляет [COLOR_POSITIVE_TEXT]2 [ICON_RES_ALUMINUM] Эфирий[ENDCOLOR] ресурса.[NEWLINE][NEWLINE]Каждый источник [ICON_RES_ALUMINUM] Эфирий, обрабатываемый этим городом, дает +1 [ICON_GOLD] Золота.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_AERODROME_TEXT">
+			<Text>Знаменитые аэродромы Эруха служили одновременно местом производства дирижаблей и обучения экипажей. Члены команд непосредственно участвовали в процессе строительства, что являлось не только практикой, но и повышало эффективность труда.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AERODROME_STRATEGY">
+			<Text>Аэродром может строить только Ротерам. Он заменяет Ангар для дирижаблей и дает бонус к [ICON_PRODUCTION] Производству при строительстве воздушных юнитов: Флаеров, Дирижаблей и Небесных крепостей. Как и Ангар для дирижаблей, он также предоставляет дополнительный Опыт обученным воздушным юнитам. Используйте Аэродром для быстрого создания опытного воздушного флота.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AERODROME_HELP">
+			<Text>Может быть построен только Ротерамом.[NEWLINE][NEWLINE]+15 XP для воздушных юнитов.[NEWLINE][NEWLINE]+10% [ICON_PRODUCTION] Производства при строительстве воздушных юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_DIFFERENCE_ENGINE_TEXT">
+			<Text>Первые разностные машины были небольшими, дорогостоящими инструментами, предназначенными исключительно для сложных вычислений в интересах предприятий или лабораторий. Однако, когда ценность вычислительной логики была в полной мере осознана, начали строить все более крупные модели. Сегодня их применение охватывает все - от мельчайших финансовых операций до статистического анализа государственных дел.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_STRATEGY">
+			<Text>Дает прирост [ICON_PRODUCTION] Производства и [ICON_RESEARCH] Науки. Постройте одну в каждом городе, чтобы открыть Национальное чудо "Аналитическая машина".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_HELP">
+			<Text>Открывает Аналитическую машину при постройке в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRAND_MANSION_TEXT">
+			<Text>Дела империи открывали широкие возможности для процветания через торговлю, изобретения и промышленность. Ряды знати пополнялись новыми людьми, и они тратили состояния на возведение роскошных, величественных особняков, ставших средоточием высокой культуры и деловой жизни.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_STRATEGY">
+			<Text>Дает прирост [ICON_GOLD] Золота и [ICON_CULTURE] Культуры. Постройте один в каждом городе, чтобы открыть Национальное чудо "Особняк Билтмор".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_HELP">
+			<Text>Открывает Особняк Билтмор при постройке в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_TRADE_COLLEGE_TEXT">
+			<Text>По мере того как возможности науки продолжали расширяться, империи осознали ценность субсидирования образования молодых ученых, изобретателей, исследователей и предпринимателей. Любые преимущества в этих областях - большие и малые - были в цене; ведь именно они могли обеспечить превосходство над соперничающими империями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_STRATEGY">
+			<Text>Дает значительный прирост [ICON_RESEARCH] Науки, а также некоторое количество [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_HELP">
+			<Text>Дает [ICON_RESEARCH] Науку и [ICON_CULTURE] Культуру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_PATENT_OFFICE_TEXT">
+			<Text>В эпоху чудес науки изобретатели заполнили улицы, пытаясь продать свои творения. Их блестящие идеи тонут в море конкуренции и пустых обещаний. Патенты упорядочивают процесс изобретательства, отсеивая мнимые открытия и вознаграждая подлинную смекалку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE_STRATEGY">
+			<Text>Дает прирост [ICON_GOLD] Золота и [ICON_PRODUCTION] Производства, а также слот для Специалиста-ученого.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE_HELP">
+			<Text>Открывает Зал изобретателей при постройке в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_LUBORIC_REFINERY_TEXT">
+			<Text>Богатые месторождения луборика - редкость, однако после того как был установлен его химический состав, ученые обнаружили его следовые количества практически повсюду. С помощью сложных химических процессов эти ничтожные количества можно очищать до мощных соединений, воспроизводящих свойства чистого луборика.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_STRATEGY">
+			<Text>Предоставляет ресурсы [ICON_RES_URANIUM] Луборик без необходимости владеть клеткой с этим ресурсом. Благодаря этим ресурсам вы сможете обучать больше сухопутных кораблей для своей армии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_HELP">
+			<Text>Предоставляет [COLOR_POSITIVE_TEXT]2 [ICON_RES_URANIUM] Луборик[ENDCOLOR] ресурса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_PHILANTHROPORIUM_TEXT">
+			<Text>Нечто среднее между благотворительностью и великими торговыми эмпориями эпохи международной торговли, филантропориум предлагает высококачественную помощь простому человеку по доступной цене.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM_STRATEGY">
+			<Text>Дает значительный прирост [ICON_CULTURE] Культуры, а также некоторое количество [ICON_HAPPINESS_1] Довольства. Постройте один в каждом городе, чтобы открыть Национальное чудо "Карнеги-холл".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM_HELP">
+			<Text>Открывает Карнеги-холл при постройке в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_TESLA_COIL_TEXT">
+			<Text>Поначалу электричество было дикой и плохо изученной силой. Управлять его мощью было непросто, именно поэтому была создана Катушка Тесла. Вскоре она стала незаменимым инструментом научных исследований.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TESLA_COIL_STRATEGY">
+			<Text>Дает значительный прирост [ICON_RESEARCH] Науки, а также некоторое количество [ICON_GOLD] Золота.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TESLA_COIL_HELP">
+			<Text>Дает [ICON_RESEARCH] Науку и [ICON_GOLD] Золото.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_AETHERIUM_FABRICATOR_TEXT">
+			<Text>По мере того как тайны эфирия продолжают раскрываться, ученые находят способы сделать небольшие количества этого ресурса столь же эффективными, как и большие, и даже создавать синтетические версии, приближающиеся по своим свойствам к оригиналу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR_STRATEGY">
+			<Text>Предоставляет ресурсы [ICON_RES_ALUMINUM] Эфирий без необходимости владеть клеткой с этим ресурсом. Благодаря этим ресурсам вы сможете обучать больше дирижаблей для своей армии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR_HELP">
+			<Text>Предоставляет [COLOR_POSITIVE_TEXT]2 [ICON_RES_ALUMINUM] Эфирий[ENDCOLOR] ресурса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_AIRSHIP_HANGAR_TEXT">
+			<Text>Флаеры и дирижабли могут приземляться в любом ровном месте, однако наличие специально отведенного пространства в качестве базы значительно повышает моральный дух и возможности для подготовки новых членов экипажа.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR_STRATEGY">
+			<Text>Предоставляет дополнительный Опыт обученным воздушным юнитам: Флаерам, Дирижаблям и Небесным крепостям.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR_HELP">
+			<Text>+15 XP для воздушных юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_AUTOMATED_FACTORY_TEXT">
+			<Text>Тяготы простого человека во многом объясняются часами, которые он проводит в изнурительном труде на фабриках в самых ужасных условиях. Применяя знания об автоматических машинах, можно не только облегчить его участь, но и повысить эффективность производства. Машинам не нужен сон.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY_STRATEGY">
+			<Text>Дает значительный прирост [ICON_PRODUCTION] Производства, а также некоторое количество [ICON_HAPPINESS_1] Довольства. Постройте один в каждом городе, чтобы открыть Национальное чудо "Двигатель вечного движения".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY_HELP">
+			<Text>Открывает Двигатель вечного движения при постройке в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUBTERRANEAN_OUTPOST_TEXT">
+			<Text>Колоссальная мощь паровой эпохи легко покоряла сушу и даже небо, однако прошли десятилетия, прежде чем отважные ученые задумались о проникновении в глубины земли. При наличии надлежащих жилых помещений и оборудования подземный аванпост может стать ценным источником сырья.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_STRATEGY">
+			<Text>Дает значительный прирост [ICON_PRODUCTION] Производства, а также некоторое количество [ICON_RESEARCH] Науки. Постройте один в каждом городе, чтобы открыть Национальное чудо "Подземная колония".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_HELP">
+			<Text>Открывает Подземную колонию при постройке в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BUILDING_POLICE_STATION_HELP">
+			<Text>Снижает скорость кражи технологий вражескими шпионами на 25%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BUILDING_POLICE_STATION_STRATEGY">
+			<Text>Полицейские участки замедляют темп, с которым вражеские шпионы могут похищать технологии из вашего города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANALYTICAL_ENGINE_TEXT">
+			<Text>Возвышаясь над обычной Разностной машиной, Аналитическая машина служит логистическим мозгом империи. За ней следит штат специалистов, а ценное машинное время тщательно распределяется.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE_STRATEGY">
+			<Text>Аналитическую машину можно построить лишь после того, как в каждом из ваших городов будет возведена Разностная машина, и только одну на всю империю. Она дает значительный прирост [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE_HELP">
+			<Text>Необходимо построить Разностную машину во всех городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_BILTMORE_HOUSE_TEXT">
+			<Text>Особняк Билтмор - средоточие утонченности и торговли. Каждый его зал отделан с особым вниманием, чтобы принимать гостей и способствовать важным деловым переговорам в самой непринужденной и комфортной обстановке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE_STRATEGY">
+			<Text>Особняк Билтмор можно построить лишь после того, как в каждом из ваших городов будет возведен Великий особняк, и только один на всю империю. Он дает прирост [ICON_GOLD] Золота и [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE_HELP">
+			<Text>Необходимо построить Великий особняк во всех городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_INVENTORS_HALL_TEXT">
+			<Text>Настоящий дом изобретательского безумия, Зал изобретателей - это открытый форум открытий, где изобретатели могут встречаться и пользоваться предоставленным оборудованием для создания прибыльных устройств, раздвигающих границы науки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_STRATEGY">
+			<Text>Зал изобретателей можно построить лишь после того, как в каждом из ваших городов будет возведено Патентное бюро, и только один на всю империю. Он дает прирост [ICON_GOLD] Золота и [ICON_RESEARCH] Науки.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_HELP">
+			<Text>Необходимо построить Патентное бюро во всех городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_CARNEGIE_HALL_TEXT">
+			<Text>Принимая поклонников высокой и народной культуры, Карнеги-холл - это грандиозный зал, привлекающий наиболее талантливых художников для выступлений и обмена идеями на национальной сцене.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL_STRATEGY">
+			<Text>Карнеги-холл можно построить лишь после того, как в каждом из ваших городов будет возведен Филантропориум, и только один на всю империю. Он дает значительный прирост [ICON_CULTURE] Культуры, а также небольшой прирост [ICON_HAPPINESS_1] Довольства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL_HELP">
+			<Text>Необходимо построить Филантропориум во всех городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUBTERRANEAN_COLONY_TEXT">
+			<Text>После того как в глубинах земли были основаны аванпосты, империи приступили к набору мирных жителей для колонизации. Благодаря технологическим достижениям и надежным линиям снабжения небольшой город мог существовать под землей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY_STRATEGY">
+			<Text>Подземную колонию можно построить лишь после того, как в каждом из ваших городов будет возведен Подземный аванпост, и только одну на всю империю. Она дает значительный прирост [ICON_PRODUCTION] Производства и [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY_HELP">
+			<Text>Необходимо построить Подземный аванпост во всех городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_BUILDINGS_PERPETUAL_MOTION_ENGINE_TEXT">
+			<Text>На протяжении столетий ученые пытались раскрыть тайну вечного двигателя. С успехами в области робототехники и гальваномагнитных сил это наконец стало возможным.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE_STRATEGY">
+			<Text>Двигатель вечного движения можно построить лишь после того, как в каждом из ваших городов будет возведен Автоматизированный завод, и только один на всю империю. Он дает огромный прирост [ICON_PRODUCTION] Производства, а также умеренный бонус к [ICON_GOLD] Золоту.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE_HELP">
+			<Text>Необходимо построить Автоматизированный завод во всех городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1">
+			<Text>Скажу вам, это подлинное удовольствие - познакомиться с вами! Я - Лютер Григгс, изобретатель par excellence, предводитель Ведрии! Давайте делиться знаниями во имя науки и дружбы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1">
+			<Text>Музыка наших машин уже у ваших дверей. Я постараюсь сохранить ваши города как можно лучше, чтобы перенять ваши методы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_3">
+			<Text>{TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
+			<Text>Честь имею, сударь. Надеюсь, вы продолжите стремление к знаниям и изобретениям в мое отсутствие.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_3">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_WINWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_2">
+			<Text>{TXT_KEY_LEADER_WUZETIAN_WINWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_2">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_1">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_4}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_1">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_ATTACKED_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_2">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_ATTACKED_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_3">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_ATTACKED_3}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_1">
+			<Text>Приветствую вас. Позвольте представиться. Я - Сайрус Ротерам из Эруха, известного своей великой военной мощью. Надеюсь, вы окажетесь ценным союзником, иначе я буду считать вас достойным противником.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_1">
+			<Text>Я с удовольствием сыграю с вами в эту военную игру, а затем наши дирижабли погрузят ваши земли во мрак.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_1">
+			<Text>Склоняюсь перед вами, сударь, ибо вы оказались мне равны. Наслаждайтесь своей победой.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY">
+			<Text>{TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_LOSEWAR_3">
+			<Text>{TXT_KEY_LEADER_BISMARCK_LOSEWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_4}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRADE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_ASKIA_TRADEREQUEST_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_ASKIA_WINWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_WINWAR_3">
+			<Text>{TXT_KEY_LEADER_BISMARCK_WINWAR_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_1">
+			<Text>Перед вами главная шестерня промышленной машины - нация Орлин! Я - Иньяс Керноу, и предупреждаю вас, сударь: всякое легкомыслие будет строго наказано. Мое время бесценно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_2">
+			<Text>Наши заводы давно готовились к этому моменту. У вас нет никаких шансов против прогресса промышленности!</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_1">
+			<Text>Вы злодей, сударь. Что ж, забирайте наши заводы, но мир никогда не познает величия промышленности в ваших руках.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_ATTACKED_1">
+			<Text>{TXT_KEY_LEADER_CATHERINE_ATTACKED_3}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_ATTACKED_2">
+			<Text>{TXT_KEY_LEADER_CATHERINE_ATTACKED_4}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LOSEWAR_1">
+			<Text>{TXT_KEY_LEADER_SULEIMAN_LOSEWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LOSEWAR_2">
+			<Text>{TXT_KEY_LEADER_MARIA_LOSEWAR_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LOSEWAR_3">
+			<Text>{TXT_KEY_LEADER_WILLIAM_LOSEWAR_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_QUOTE_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_NO_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_YES_ANGRY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_YES_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_YES_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_YES_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_SULEIMAN_WINWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2">
+			<Text>Подойдите, добрый человек, и побеседуем. Меня зовут Октавиус Катлер из Пулиаса - возможно, вы слышали обо мне? Неважно. Расскажите мне о себе и своих великих свершениях.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_1">
+			<Text>Уверяю вас, это будет быстро. Утешьтесь тем, что ваше поражение поможет Пулиасу стать сильнее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_1">
+			<Text>Склоняюсь перед вами, сударь, за вашу убедительную победу. Наша нация поднималась тихо, но мир знает, что пала она совсем иначе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEMANDTRIBUTE_HAPPY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEMANDTRIBUTE_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_1">
+			<Text>{TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_3}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_4}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRADE_NO_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRADE_NO_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_DARIUS_TRADE_NO_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_DARIUS_TRADE_YES_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADEREQUEST_ANGRY">
+			<Text>{TXT_KEY_LEADER_HARUN_TRADEREQUEST_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADEREQUEST_HAPPY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_DARIUS_WINWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>Великолепная встреча, сударь, просто великолепная! Добро пожаловать в скромный Далмас. Меня зовут Клинтон Олдердайс, и я с радостью протягиваю вам руку дружбы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_1">
+			<Text>Дорогой мой друг, я вынужден принести свои извинения за этот акт агрессии. К сожалению, у меня нет иного выбора.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_2">
+			<Text>Боже мой, эта несправедливость совершенно неуместна! Далмас может исчезнуть с карты, но он будет жить в душах простых людей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEMANDTRIBUTE_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEMANDTRIBUTE_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_LOSEWAR_1">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_LOSEWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_1">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_2}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_3}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_3}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_ODA_TRADE_NO_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_NO_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADEREQUEST_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_ANGRY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_NEUTRAL}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_HARUN_WINWAR_1}</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1">
+			<Text>Приветствую вас, добрый сударь! Вы производите впечатление человека чести. Да будут наши отношения долгими и добросердечными, а если нам суждено встретиться на поле боя - пусть победит достойнейший.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_2">
+			<Text>Эй, сударь! Прошу вас изложить цель вашего визита. Не сомневаюсь, что ваши намерения самые благородные, иначе предупреждаю: я весьма грозный противник.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_1">
+			<Text>Превосходно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_2">
+			<Text>Именно так.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_3">
+			<Text>Совершенно верно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_4">
+			<Text>Именно так и есть.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_5">
+			<Text>Весьма достойно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_6">
+			<Text>Это соглашение весьма меня устраивает.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_1">
+			<Text>Я бы так не думал.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_2">
+			<Text>Это возмутительно!</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_3">
+			<Text>Вы оскорбляете меня, сударь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_POLICY_UNITED_FRONT">
+			<Text>Единый фронт</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_POLICY_UNITED_FRONT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Единый фронт[ENDCOLOR][NEWLINE]+10% [ICON_PRODUCTION] при строительстве Чудес света, а новые Города начинают с дополнительным 1 [ICON_CITIZEN] жителем.</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TRAIT_INTELLIGENCE_NETWORK_SHORT">
+			<Text>Разведывательная сеть</Text>
+		</Row>
+<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TRAIT_INTELLIGENCE_NETWORK">
+			<Text>Получите 2 дополнительных шпиона.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

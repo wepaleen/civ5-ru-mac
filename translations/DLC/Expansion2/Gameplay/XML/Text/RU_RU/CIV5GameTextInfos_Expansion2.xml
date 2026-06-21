@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NO_WRITER_FROM_FAITH">
+			<Text>Великий писатель может быть выбран только в том случае, если вы начали древо институтов "Эстетика".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_ARTIST_FROM_FAITH">
+			<Text>Великий художник может быть выбран только в том случае, если вы начали древо институтов "Эстетика".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_MUSICIAN_FROM_FAITH">
+			<Text>Великий музыкант может быть выбран только в том случае, если вы начали древо институтов "Эстетика".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_GENERAL_FROM_FAITH">
+			<Text>Великий полководец может быть выбран только в том случае, если вы начали древо институтов "Честь".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
+			<Text>Великий адмирал может быть выбран только в том случае, если вы начали древо институтов "Исследование".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
+			<Text>Великий инженер может быть выбран только в том случае, если вы начали древо институтов "Традиция".</Text>
+		</Row>
+<Row Tag="TXT_KEY_CULTURE_FROM_GREAT_WORKS">
+			<Text>{1_Num} [ICON_CULTURE] от Великих произведений</Text>
+		</Row>
+<Row Tag="TXT_KEY_CULTURE_FROM_LEAGUES">
+			<Text>{1_Num} [ICON_CULTURE] от Всемирного конгресса</Text>
+		</Row>
+<Row Tag="TXT_KEY_FOOD_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_FOOD] от Торговых путей, проложенных через этот город</Text>
+		</Row>
+<Row Tag="TXT_KEY_PRODUCTION_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_PRODUCTION] от Торговых путей, проложенных через этот город</Text>
+		</Row>
+<Row Tag="TXT_KEY_GOLD_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_GOLD] от Торговых путей, проложенных через этот город</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCIENCE_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_RESEARCH] от Торговых путей, проложенных через этот город</Text>
+		</Row>
+<Row Tag="TXT_KEY_CULTURE_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_CULTURE] от Торговых путей, проложенных через этот город</Text>
+		</Row>
+<Row Tag="TXT_KEY_FAITH_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_FAITH] от Торговых путей, проложенных через этот город</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_ACTION_NUKES_BY_RESOLUTION">
+			<Text>[NEWLINE]Создание ядерного оружия запрещено резолюцией Всемирного конгресса о нераспространении ядерного оружия.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NO_ACTION_CITY_AT_AIR_CAPACITY">
+      <Text>[NEWLINE]Город достиг максимальной вместимости для авиационных юнитов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
+			<Text>Вы разграбили {1_Num} [ICON_GOLD], {2_Num} [ICON_CULTURE] и {3_Num} [ICON_GREAT_WORK] при захвате {@4_CityName}!!!</Text>
+		</Row>
+<Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES">
+			<Text>Отключить Всемирный конгресс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES_HELP">
+			<Text>Отключает систему Всемирного конгресса. Никаких предложений и заседаний не будет, а дипломатическая победа станет недостижимой.</Text>
+		</Row>
+<Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI">
+			<Text>Отключить интерфейс обзора Культуры</Text>
+		</Row>
+<Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI_HELP">
+			<Text>Отключает экран обзора Культуры. Это влияет только на интерфейс и не затрагивает основную игровую механику.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MOVE_SPY_INSTRUCTIONS">
+			<Text>Выберите город, в который следует переместить {1_SpyRank} {2_SpyName}, чтобы начать операции.[NEWLINE][NEWLINE][NEWLINE]Если вы переведете шпиона в [ICON_CAPITAL] Столицу противника, вы сможете назначить его дипломатом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_BE_DIPLOMAT">
+			<Text>Хотите ли вы, чтобы этот шпион стал дипломатом? Шпион может быть дипломатом, если он размещен в столице другой цивилизации, с которой вы не находитесь в состоянии войны. (В случае объявления войны ваш шпион покинет город.) Дипломат не будет пытаться похищать технологии у другого игрока, но по-прежнему будет поставлять разведывательные сведения. После созыва Всемирного конгресса вы сможете узнавать их мнение о предложениях и при необходимости торговаться за их поддержку. Если у вас разные Идеологии, дипломаты автоматически ведут пропаганду, дающую прирост к [ICON_TOURISM] Туризму в отношении целевой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS">
+			<Text>Налаживание связей</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS_TT">
+			<Text>{1_RankName} {2_SpyName} стремится завязать нужные знакомства в {3_CityName} в качестве дипломата. Установив связи, он сможет приступить к обхаживанию нужных людей.[NEWLINE][NEWLINE]Шпион может быть дипломатом, если он размещен в столице другой цивилизации. Дипломат не будет пытаться похищать технологии у другого игрока, но по-прежнему будет поставлять разведывательные сведения. После созыва Всемирного конгресса и начала активной деятельности дипломата вы сможете узнавать их мнение о предложениях и при необходимости торговаться за их поддержку.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING">
+			<Text>Обхаживание</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING_TT">
+			<Text>{1_RankName} {2_SpyName} обхаживает нужных людей в {3_CityName} в качестве дипломата.[NEWLINE][NEWLINE]Шпион может быть дипломатом, если он размещен в столице другой цивилизации, с которой вы не находитесь в состоянии войны. (В случае объявления войны ваш шпион покинет город.) Дипломат не будет пытаться похищать технологии у другого игрока, но по-прежнему будет поставлять разведывательные сведения. После созыва Всемирного конгресса и начала активной деятельности дипломата вы сможете узнавать их мнение о предложениях и при необходимости торговаться за их поддержку. Дипломаты также ведут пропаганду, дающую прирост к [ICON_TOURISM] Туризму в отношении целевой цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_DIPLOMAT_WAIT_TT">
+			<Text>Вы не можете просматривать экран города {1_CityName}.[NEWLINE][NEWLINE]У вас есть дипломат в этом городе, но нужно дождаться окончания налаживания связей, прежде чем вы получите доступ к экрану города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_DIPOLOMAT_TT">
+			<Text>Нажмите, чтобы просмотреть экран города {1_CityName}.[NEWLINE][NEWLINE]Вы можете просматривать экран города другого игрока, если ваш шпион является дипломатом и занимается обхаживанием в [ICON_CAPITAL] Столице.</Text>
+		</Row>
+<Row Tag="TXT_KEY_EO_PUBLIC_OPINION_UNHAPPINESS">
+      <Text>Общественное мнение</Text>
+    </Row>
+<Row Tag="TXT_KEY_NOTIFICATION_REBELS">
+			<Text>Поскольку в империи накопилось не менее 10 единиц [ICON_HAPPINESS_4] Недовольства, на нашей территории вспыхнуло восстание!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT_SUMMARY">
+			<Text>Город восстал!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT">
+			<Text>Поскольку в империи накопилось не менее 20 единиц [ICON_HAPPINESS_4] Недовольства, а общественное мнение не является удовлетворенным, город {1_CityName} восстал и примкнул к {2_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT">
+			<Text>{1_CivAdjective} город {2_CityName} восстал и примкнул к {3_CivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT_SUMMARY">
+			<Text>В городе зреет восстание</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT">
+			<Text>Поскольку в империи накопилось не менее 20 единиц [ICON_HAPPINESS_4] Недовольства, а общественное мнение не является удовлетворенным, через {1_Turns} ходов произойдет восстание в городе. Исходя из текущего уровня Недовольства и давления со стороны соседних идеологий, наиболее вероятным кандидатом на восстание является город {2_CityName}, который примкнет к {3_CivName}. Постарайтесь как можно скорее вывести Довольство империи из этого диапазона!</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_0_SHORT">
+			<Text>Древний</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_1_SHORT">
+			<Text>Классический</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_2_SHORT">
+			<Text>Средневековый</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_3_SHORT">
+			<Text>Ренессанс</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_4_SHORT">
+			<Text>Индустриальный</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_5_SHORT">
+			<Text>Современный</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_6_SHORT">
+			<Text>Атомная эпоха</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_7_SHORT">
+			<Text>Информационная эпоха</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_0_ABBREV">
+			<Text>I</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_1_ABBREV">
+			<Text>II</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_2_ABBREV">
+			<Text>III</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_3_ABBREV">
+			<Text>IV</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_4_ABBREV">
+			<Text>V</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_5_ABBREV">
+			<Text>VI</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_6_ABBREV">
+			<Text>VII</Text>
+		</Row>
+<Row Tag="TXT_KEY_ERA_7_ABBREV">
+			<Text>VIII</Text>
+		</Row>
+<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TOURISM">
+			<Text>[ICON_TOURISM] Туризм: +{1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_VENETIAN_MERCHANT_BOUGHT_CITY_STATE">
+			<Text>Ваш Торговец Венеции купил город-государство!</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

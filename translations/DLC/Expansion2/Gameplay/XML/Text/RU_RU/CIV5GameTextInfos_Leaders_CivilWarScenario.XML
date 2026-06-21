@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADER_WASHINGTON">
+			<Text>Авраам Линкольн</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADER_ELIZABETH">
+			<Text>Джефферсон Дэвис</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

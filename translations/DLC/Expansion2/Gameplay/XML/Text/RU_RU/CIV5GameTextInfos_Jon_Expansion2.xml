@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION_HELP">
+			<Text>Направить [ICON_PRODUCTION] Производство этого города на строительство проекта "Международная космическая станция".</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROCESS_WORLD_FAIR_HELP">
+			<Text>Направить [ICON_PRODUCTION] Производство этого города на строительство проекта "Всемирная выставка".</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROCESS_WORLD_GAMES_HELP">
+			<Text>Направить [ICON_PRODUCTION] Производство этого города на строительство проекта "Международные игры".</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_RELIGION">
+			<Text>[COLOR_WARNING_TEXT]Эта ветка заблокирована в играх без Религии.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Традиция[ENDCOLOR] лучше всего подходит для небольших империй.[NEWLINE][NEWLINE]Принятие Традиции значительно ускоряет расширение границ городов и дает +3 [ICON_CULTURE] Культуры в [ICON_CAPITAL] Столице. Открывает строительство Висячих садов.[NEWLINE][NEWLINE]Принятие всех Институтов ветки Традиции дает +15% [ICON_FOOD] Роста и бесплатный Акведук в первых 4 городах. Также позволяет покупать Великих инженеров за [ICON_PEACE] Веру начиная с Промышленной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Свобода[ENDCOLOR] лучше всего подходит для цивилизаций, стремящихся к быстрому расширению.[NEWLINE][NEWLINE]Принятие Свободы дает 1 [ICON_CULTURE] Культуры в каждом городе. Открывает строительство Пирамид.[NEWLINE][NEWLINE]Принятие всех институтов ветки Свободы предоставляет бесплатного Великого человека на ваш выбор рядом с [ICON_CAPITAL] Столицей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Честь[ENDCOLOR] повышает эффективность армии различными способами.[NEWLINE][NEWLINE]Принятие Чести дает +33% боевой бонус против Варваров, а также оповещения о появлении новых лагерей Варваров на исследованной территории. За каждого убитого варвара Империя получает [ICON_CULTURE] Культуру. Открывает строительство Статуи Зевса.[NEWLINE][NEWLINE]Принятие всех институтов ветки Чести дает [ICON_GOLD] Золото за каждого убитого вражеского юнита. Также позволяет покупать Великих полководцев за [ICON_PEACE] Веру начиная с Промышленной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Кодекс воина[ENDCOLOR][NEWLINE]+15% [ICON_PRODUCTION] Производства при обучении юнитов ближнего боя, а рядом со [ICON_CAPITAL] Столицей появляется Великий полководец. Великие полководцы накапливаются на 50% быстрее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Профессиональная армия[ENDCOLOR][NEWLINE]Стоимость улучшения военных юнитов в [ICON_GOLD] Золоте снижена на 33%, а строительство Казарм, Оружейных и Военных академий ускоряется на 50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Благочестие[ENDCOLOR] увеличивает [ICON_PEACE] Веру империй.[NEWLINE][NEWLINE]Принятие Благочестия позволяет строить Храмы и Святилища вдвое быстрее. Открывает строительство Великой мечети Дженне.[NEWLINE][NEWLINE]Принятие всех Институтов ветки Благочестия вызывает появление Великого пророка, а Священные места дают +3 [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Теократия[ENDCOLOR][NEWLINE]Храмы увеличивают производство [ICON_GOLD] Золота в городе на 25%. Священные места дают +3 [ICON_GOLD] Золота.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Небесный мандат[ENDCOLOR][NEWLINE]Скидка 20% на все покупки религиозных юнитов и зданий за [ICON_PEACE] Веру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Веротерпимость[ENDCOLOR][NEWLINE]Города с господствующей религией также получают бонус Пантеона второй по распространенности религии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Реформация[ENDCOLOR][NEWLINE]Если вы основали религию, получите дополнительное Верование Реформации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Покровительство[ENDCOLOR] усиливает выгоды от дружбы с Городами-государствами.[NEWLINE][NEWLINE]Принятие Покровительства замедляет снижение [ICON_INFLUENCE] Влияния на Города-государства на 25% по сравнению с нормой. Открывает строительство Запретного города.[NEWLINE][NEWLINE]Принятие всех институтов ветки Покровительства заставляет союзные Города-государства периодически дарить вам [ICON_GREAT_PEOPLE] Великих людей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CONSULATES">
+			<Text>Консульства</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CONSULATES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Консульства[ENDCOLOR][NEWLINE]Базовый уровень [ICON_INFLUENCE] Влияния со всеми Городами-государствами увеличивается на 20.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_CAP">
+			<Text>ЭСТЕТИКА</Text>
+		</Row>
+<Row Tag="TXT_KEY_AESTHETICS_TITLE">
+			<Text>{@1: gender feminine?Покровительница; other?Покровитель;} {1_PlayerName:textkey} из {2_CivName:textkey}</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS">
+			<Text>Эстетика</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Эстетика[ENDCOLOR] повышает способность цивилизации генерировать [ICON_CULTURE] Культуру.[NEWLINE][NEWLINE]Принятие Эстетики позволяет накапливать Великих писателей, художников и музыкантов на 25% быстрее. Открывает строительство Галереи Уффици.[NEWLINE][NEWLINE]Принятие всех институтов удваивает тематический бонус от Музеев и Чудес света. Также позволяет покупать Великих писателей, художников и музыкантов за [ICON_PEACE] Веру начиная с Промышленной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS">
+			<Text>Культурные центры</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Культурные центры[ENDCOLOR][NEWLINE]Строительство Монументов, Амфитеатров, Оперных театров, Музеев и Телебашен ускоряется на 50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FINE_ARTS">
+			<Text>Изящные искусства</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FINE_ARTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Изящные искусства[ENDCOLOR][NEWLINE]50% избыточного [ICON_HAPPINESS_1] Довольства каждый ход добавляется к количеству [ICON_CULTURE] Культуры, которую можно потратить на Общественные институты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS">
+			<Text>Художественный гений</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Художественный гений[ENDCOLOR][NEWLINE]Появляется Великий художник.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS">
+			<Text>Расцвет искусств</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Расцвет искусств[ENDCOLOR][NEWLINE][ICON_CULTURE] Культура во всех городах, построивших Чудо света, увеличивается на 33%, а Империя немедленно вступает в [ICON_GOLDEN_AGE] Золотой век.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ETHICS">
+			<Text>Культурный обмен</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ETHICS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Культурный обмен[ENDCOLOR][NEWLINE]Увеличивает модификатор туризма за общую религию, торговые пути и открытые границы на 15% каждый.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Торговля[ENDCOLOR] предоставляет бонусы империям, сосредоточенным на [ICON_GOLD] Золоте.[NEWLINE][NEWLINE]Принятие Торговли увеличивает производство [ICON_GOLD] Золота в [ICON_CAPITAL] Столице на 25%. Открывает строительство Биг-Бена.[NEWLINE][NEWLINE]Принятие всех Институтов ветки Торговли дает +1 [ICON_GOLD] Золота от каждой Торговой фактории. Также позволяет покупать Великих торговцев за [ICON_PEACE] Веру начиная с Промышленной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP">
+			<Text>Предпринимательство</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Предпринимательство[ENDCOLOR][NEWLINE]Великие торговцы накапливаются на 25% быстрее. Получайте вдвое больше [ICON_GOLD] Золота от торговых миссий Великих торговцев.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CARAVANS">
+			<Text>Торговые обозы</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CARAVANS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Торговые обозы[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] Золота от всех ваших сухопутных торговых путей. Содержание Дорог и Железных дорог снижено на 50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS">
+			<Text>Армия наемников</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Армия наемников[ENDCOLOR][NEWLINE]Позволяет нанимать Ландскнехтов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_CAP">
+			<Text>ИССЛЕДОВАНИЯ</Text>
+		</Row>
+<Row Tag="TXT_KEY_EXPLORATION_TITLE">
+			<Text>Капитан {1_PlayerName:textkey} из {2_CivName:textkey}</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION">
+			<Text>Исследования</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Исследования[ENDCOLOR] расширяют возможности распространения Империи по морям.[NEWLINE][NEWLINE]Принятие Исследований дает +1 [ICON_MOVES] Передвижения для морских юнитов и +1 Обзор для морских боевых юнитов. Открывает строительство Лувра.[NEWLINE][NEWLINE]Принятие всех институтов позволяет видеть Скрытые места древностей. Также позволяет покупать Великих адмиралов за [ICON_PEACE] Веру начиная с Промышленной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE">
+			<Text>Морская инфраструктура</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Морская инфраструктура[ENDCOLOR][NEWLINE]+3 [ICON_PRODUCTION] Производства во всех прибрежных городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Морские традиции[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Довольства за каждую Гавань, Морской порт или Маяк.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Торговый флот[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Золота за каждую Гавань, Морской порт или Маяк. +4 [ICON_PRODUCTION] Производства и +4 [ICON_CULTURE] Культуры в городе с Ост-Индской компанией.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL">
+			<Text>Школа навигации</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Школа навигации[ENDCOLOR][NEWLINE]Появляется Великий адмирал. +2 [ICON_MOVES] Передвижения для всех Великих адмиралов. Великие адмиралы накапливаются на 50% быстрее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS">
+			<Text>Флоты сокровищ</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Флоты сокровищ[ENDCOLOR][NEWLINE]+4 [ICON_GOLD] Золота от всех ваших морских торговых путей.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Рационализм[ENDCOLOR] улучшает способность использовать и генерировать [ICON_RESEARCH] Науку.[NEWLINE][NEWLINE]Принятие Рационализма дает +10% [ICON_RESEARCH] Науки, пока Империя [ICON_HAPPINESS_1] Довольна. Открывает строительство Фарфоровой башни.[NEWLINE][NEWLINE]Принятие всех Институтов ветки Рационализма дает бесплатную Технологию. Также позволяет покупать Великих ученых за [ICON_PEACE] Веру начиная с Промышленной эпохи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Гуманизм[ENDCOLOR][NEWLINE]Великие ученые накапливаются на 25% быстрее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_OPEN_SOCIETY">
+			<Text>Авангард</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_OPEN_SOCIETY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Авангард[ENDCOLOR][NEWLINE]Скорость рождения [ICON_GREAT_PEOPLE] Великих людей увеличивается на 25%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION">
+			<Text>Творческое самовыражение</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Творческое самовыражение[ENDCOLOR][NEWLINE]+1 [ICON_CULTURE] Культуры от каждого Великого произведения (при этом [ICON_TOURISM] Туризм остается неизменным).</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_VOLUNTEER_ARMY">
+			<Text>Армия добровольцев</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_VOLUNTEER_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Армия добровольцев[ENDCOLOR][NEWLINE]6 юнитов освобождаются от содержания. Немедленно получите 6 пехотных юнитов Иностранного легиона.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_COVERT_ACTION">
+			<Text>Тайные операции</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_COVERT_ACTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Тайные операции[ENDCOLOR][NEWLINE]Шанс подтасовки выборов в Городах-государствах удваивается.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_URBANIZATION">
+			<Text>Урбанизация</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_URBANIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Урбанизация[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Местного довольства от каждой Водяной мельницы, Больницы и Медицинской лаборатории.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CAPITALISM">
+			<Text>Капитализм</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CAPITALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Капитализм[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Местного довольства от каждого Монетного двора, Банка и Фондовой биржи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ECONOMIC_UNION">
+			<Text>Экономический союз</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ECONOMIC_UNION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Экономический союз[ENDCOLOR][NEWLINE]+3 [ICON_GOLD] Золота от всех ваших торговых путей с другими цивилизациями, исповедующими Идеологию Свободы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_THEIR_FINEST_HOUR">
+			<Text>Их звездный час</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_THEIR_FINEST_HOUR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Их звездный час[ENDCOLOR][NEWLINE][ICON_STRENGTH] Боевая мощь городов увеличивается на 33%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_UNIVERSAL_SUFFRAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Всеобщее избирательное право[ENDCOLOR][NEWLINE]Специалисты в городах производят вдвое меньше [ICON_HAPPINESS_4] Недовольства. [ICON_GOLDEN_AGE] Золотые века длятся на 50% дольше.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NEW_DEAL">
+			<Text>Новый курс</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NEW_DEAL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Новый курс[ENDCOLOR][NEWLINE]Достопримечательности и улучшения Великих людей производят на +4 соответствующего ресурса.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY">
+			<Text>Арсенал демократии</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Арсенал демократии[ENDCOLOR][NEWLINE]+15% [ICON_PRODUCTION] Производства при строительстве военных юнитов. +15 [ICON_INFLUENCE] Влияния от подаренных Городам-государствам военных юнитов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MEDIA_CULTURE">
+			<Text>Массовая культура</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MEDIA_CULTURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Массовая культура[ENDCOLOR][NEWLINE]+34% [ICON_TOURISM] Туризма, генерируемого городами с Телебашней.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_TREATY_ORGANIZATION">
+			<Text>Договорная организация</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_TREATY_ORGANIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Договорная организация[ENDCOLOR][NEWLINE]Получайте на 4 единицы [ICON_INFLUENCE] Влияния в ход больше (при стандартной скорости) с Городами-государствами, с которыми у вас есть торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SPACE_PROCUREMENTS">
+			<Text>Космические закупки</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SPACE_PROCUREMENTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Космические закупки[ENDCOLOR][NEWLINE]Можно покупать детали космического корабля за [ICON_GOLD] Золото.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_HERO_OF_THE_PEOPLE">
+			<Text>Герой народа</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_HERO_OF_THE_PEOPLE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Герой народа[ENDCOLOR][NEWLINE]Скорость рождения [ICON_GREAT_PEOPLE] Великих людей увеличивается на 25%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SOCIALIST_REALISM">
+			<Text>Социалистический реализм</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SOCIALIST_REALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Социалистический реализм[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] Местного довольства от Монументов. Строительство Монументов ускоряется вдвое.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SKYSCRAPERS">
+			<Text>Небоскребы</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SKYSCRAPERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Небоскребы[ENDCOLOR][NEWLINE]Стоимость покупки зданий в [ICON_GOLD] Золоте снижена на 33%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_PATRIOTIC_WAR">
+			<Text>Отечественная война</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_PATRIOTIC_WAR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Отечественная война[ENDCOLOR][NEWLINE]+15% бонус к атаке при сражениях на дружественной территории.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_DOUBLE_AGENTS">
+			<Text>Двойные агенты</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_DOUBLE_AGENTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Двойные агенты[ENDCOLOR][NEWLINE]Шпионы вдвое чаще захватывают вражеских шпионов, пытающихся украсть технологию.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_YOUNG_PIONEERS">
+			<Text>Юные пионеры</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_YOUNG_PIONEERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Юные пионеры[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Местного довольства от каждой Мастерской, Фабрики и Солнечной/Атомной/Гидроэлектростанции.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ACADEMY_SCIENCES">
+			<Text>Академия наук</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ACADEMY_SCIENCES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Академия наук[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Местного довольства от каждой Обсерватории, Государственной школы и Научной лаборатории.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP">
+			<Text>Партийное руководство</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Партийное руководство[ENDCOLOR][NEWLINE]+1 [ICON_FOOD] Пищи, [ICON_PRODUCTION] Производства, [ICON_RESEARCH] Науки, [ICON_GOLD] Золота и [ICON_CULTURE] Культуры в каждом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_RESETTLEMENT">
+			<Text>Переселение</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_RESETTLEMENT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Переселение[ENDCOLOR][NEWLINE]Новые города начинают с дополнительными 3 [ICON_CITIZEN] Жителями.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION">
+			<Text>Культурная революция</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Культурная революция[ENDCOLOR][NEWLINE]+34% Туризма [ICON_TOURISM] к другим цивилизациям с Идеологией Порядка.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES">
+			<Text>Рабочие факультеты</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Рабочие факультеты[ENDCOLOR][NEWLINE]Фабрики увеличивают [ICON_RESEARCH] Науку города на 25%. Строительство Фабрик ускоряется вдвое.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN">
+			<Text>Пятилетний план</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Пятилетний план[ENDCOLOR][NEWLINE]+2 [ICON_PRODUCTION] Производства на каждый Город и +1 [ICON_PRODUCTION] Производства от каждой Шахты и Карьера.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT">
+			<Text>Диктатура пролетариата</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Диктатура пролетариата[ENDCOLOR][NEWLINE]+34% Туризма [ICON_TOURISM] к цивилизациям с меньшим [ICON_HAPPINESS_1] Довольством.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_IRON_CURTAIN">
+			<Text>Железный занавес</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_IRON_CURTAIN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Железный занавес[ENDCOLOR][NEWLINE]Бесплатный Суд при захвате города. Внутренние торговые пути дают на 50% больше [ICON_FOOD] Пищи или [ICON_PRODUCTION] Производства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS">
+			<Text>Первопроходцы космоса</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Первопроходцы космоса[ENDCOLOR][NEWLINE]Великие инженеры могут завершать детали космического корабля. Рядом со [ICON_CAPITAL] Столицей появляются Великий инженер и Великий ученый.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ELITE_FORCES">
+			<Text>Элитные силы</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_ELITE_FORCES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Элитные силы[ENDCOLOR][NEWLINE]Раненые военные юниты наносят на 25% больше урона, чем обычно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MOBILIZATION">
+			<Text>Мобилизация</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MOBILIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Мобилизация[ENDCOLOR][NEWLINE]Стоимость покупки юнитов в [ICON_GOLD] Золоте снижена на 33%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_UNITED_FRONT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Единый фронт[ENDCOLOR][NEWLINE]Воинственные Города-государства вдвое чаще предоставляют юнитов, когда вы воюете с общим врагом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FUTURISM">
+			<Text>Футуризм</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FUTURISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Футуризм[ENDCOLOR][NEWLINE]+250 [ICON_TOURISM] Туризма со всеми известными цивилизациями при рождении Великого писателя, художника или музыканта.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE">
+			<Text>Промышленный шпионаж</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Промышленный шпионаж[ENDCOLOR][NEWLINE]Шпионы похищают технологии вдвое быстрее обычного.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MILITARISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Милитаризм[ENDCOLOR][NEWLINE]+2 [ICON_HAPPINESS_1] Местного довольства от каждых Казарм, Оружейной и Военной академии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FORTIFIED_BORDERS">
+			<Text>Укрепленные рубежи</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_FORTIFIED_BORDERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Укрепленные рубежи[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Местного довольства от каждого Замка, Арсенала и Военной базы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_LIGHTNING_WARFARE">
+			<Text>Молниеносная война</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_LIGHTNING_WARFARE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Молниеносная война[ENDCOLOR][NEWLINE]+3 [ICON_MOVES] Передвижения для Великих полководцев. Бронетанковые юниты получают +15% к атаке, +1 [ICON_MOVES] Передвижение и игнорируют зоны контроля противника.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_POLICE_STATE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Полицейское государство[ENDCOLOR][NEWLINE]+3 [ICON_HAPPINESS_1] местного Довольства от каждого суда. Строительство судов занимает вдвое меньше времени.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_THIRD_ALTERNATIVE">
+			<Text>Третья альтернатива</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_THIRD_ALTERNATIVE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Третья альтернатива[ENDCOLOR][NEWLINE]Количество добываемых стратегических ресурсов увеличено на 100%. +5 [ICON_FOOD] Пищи и +5 [ICON_RESEARCH] Науки в [ICON_CAPITAL] Столице.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NATIONALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Национализм[ENDCOLOR][NEWLINE]Снижает расходы на содержание юнитов в [ICON_GOLD] Золоте на 33%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CULT_PERSONALITY">
+			<Text>Культ личности</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_CULT_PERSONALITY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Культ личности[ENDCOLOR][NEWLINE]+50% Туризма [ICON_TOURISM] к цивилизациям, воюющим против общего врага.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY">
+			<Text>Дипломатия канонерок</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Дипломатия канонерок[ENDCOLOR][NEWLINE]Получайте на 6 единиц [ICON_INFLUENCE] Влияния (при стандартной скорости) за ход больше с городами-государствами, с которых вы можете требовать дань. Ваши вооруженные силы на 50% эффективнее запугивают города-государства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NEW_ORDER">
+			<Text>Наследие Клаузевица</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_NEW_ORDER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Наследие Клаузевица[ENDCOLOR][NEWLINE]В течение первых 50 ходов после принятия этого института все военные юниты получают бонус +25% к атаке.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE">
+			<Text>Всеобщее здравоохранение</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Всеобщее здравоохранение[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] местного Довольства от каждого Национального чуда.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_TENETS">
+			<Text>ИДЕОЛОГИЧЕСКИЕ ПОСТУЛАТЫ</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_NOT_STARTED">
+			<Text>Идеологические постулаты нельзя приобрести, пока вы не выбрали Идеологию. Этот выбор становится доступен при строительстве третьей фабрики или вступлении в Современную эпоху - в зависимости от того, что произойдет раньше.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_DISABLED">
+			<Text>Идеологии отключены в этом сценарии.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_NEED_L1_TENETS_TOOLTIP">
+			<Text>[COLOR_NEGATIVE_TEXT]Необходим еще один постулат 1-го уровня, чтобы открыть возможность получить этот постулат 2-го уровня.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_NEED_L2_TENETS_TOOLTIP">
+			<Text>[COLOR_NEGATIVE_TEXT]Необходим еще один постулат 2-го уровня, чтобы открыть возможность получить этот постулат 3-го уровня.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_ADD_TENET">
+			<Text>Нажмите, чтобы добавить постулат</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_L1_TENET">
+			<Text>Уровень 1</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_L2_TENET">
+			<Text>Уровень 2</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_L3_TENET">
+			<Text>Уровень 3</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_SOCIAL_POLICIES_TAB">
+			<Text>Общественные институты</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGYPANEL_TITLE">
+			<Text>ИДЕОЛОГИЯ</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGIES_TAB">
+			<Text>Идеологические постулаты</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_TO_IDEOLOGY_BUTTON">
+			<Text>К идеологии[ICON_ARROW_RIGHT]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_TITLE">
+			<Text>{1_CivAdjective} {2_IdeologyName}</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_LEVEL1">
+			<Text>УРОВЕНЬ 1</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_LEVEL2">
+			<Text>УРОВЕНЬ 2</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_LEVEL3">
+			<Text>УРОВЕНЬ 3</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_L1TENETS">
+			<Text>Постулаты уровня 1: [COLOR_GREEN]{1_NumTenets}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_L2TENETS">
+			<Text>Постулаты уровня 2: [COLOR_GREEN]{1_NumTenets}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_L3TENETS">
+			<Text>Постулаты уровня 3: [COLOR_GREEN]{1_NumTenets}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_CHOOSE_TENET">
+			<Text>Выбрать постулат</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_TENET">
+			<Text>Вы уверены, что хотите принять [COLOR_GREEN]{1_TenetName}[ENDCOLOR]?</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY">
+			<Text>Сменить идеологию</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY_TT">
+			<Text>Нажав эту кнопку, вы сможете перейти к предпочтительной идеологии вашего народа: [COLOR_POSITIVE_TEXT]{1_IdeologyName}[ENDCOLOR].[NEWLINE][NEWLINE]Вы получите {2_HappinessGain} [ICON_HAPPINESS_1] Довольства, однако лишитесь {3_TenetLoss} постулатов в новом дереве.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY_DISABLED_TT">
+			<Text>Вы не можете сменить идеологию, пока ваш народ [COLOR_POSITIVE_TEXT]доволен[ENDCOLOR].</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_CHANGE_IDEOLOGY">
+			<Text>Смена идеологии приведет к {1_AnarchyTurns} ходам анархии в каждом из ваших городов - в это время они не будут производить [ICON_PRODUCTION] Производство, [ICON_GOLD] Золото, [ICON_RESEARCH] Науку, [ICON_CULTURE] Культуру или [ICON_PEACE] Веру. Также количество идеологических постулатов сократится с {2_CurrentIdeologyTenets} постулатов, которыми вы сейчас располагаете в {3_CurrentIdeologyTree}, до {4_NewIdeologyTenets} постулатов в {5_NewIdeologyTree}.[NEWLINE][NEWLINE]Взамен вы получите {6_HappinessGain} [ICON_HAPPINESS_1] Довольства от общественного мнения.[NEWLINE](ПРИМЕЧАНИЕ: Вы также можете временно потерять [ICON_HAPPINESS_1] Довольство от постулатов {3_CurrentIdeologyTree}, пока не выберете постулаты для новой идеологии).[NEWLINE][NEWLINE]Вы уверены, что хотите перейти к идеологии [COLOR_GREEN]{5_NewIdeologyName}[ENDCOLOR]?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY">
+			<Text>Вы можете выбрать бесплатный Общественный институт или идеологический постулат!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CSTATE_INFLUENCE_RATE">
+			<Text>Каждый ход ваше [ICON_INFLUENCE] Влияние на них будет изменяться на {1_InfluenceRate}. Уровень покоя равен {2_InfluenceAnchor}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT">
+			<Text>Подарить юнит - принесет {1_Influence} [ICON_INFLUENCE] Влияния</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT_TT">
+			<Text>Вы можете подарить этому городу-государству боевой юнит из любой точки карты. Юнит прибудет через {1_TurnsUntilArrival} ходов, и до его прибытия вы не сможете отправить новый подарок. После прибытия вы получите {2_Influence} [ICON_INFLUENCE] Влияния.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER">
+			<Text>Мы все еще ищем новые торговые связи с {1_CivName:textkey}. Возможно, вы можете нам помочь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_QUEST_TRADE_ROUTE">
+			<Text>Мы хотим, чтобы вы открыли торговый путь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_TRADE_ROUTE">
+			<Text>Жители {@1_MinorCivName} убеждены, что торговый путь принесет взаимную выгоду.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_TRADE_ROUTE">
+			<Text>{@1_MinorCivName} желает торгового пути</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_TRADE_ROUTE">
+			<Text>Жители {@1_MinorCivName} рады открытию торгового пути. Ваше [ICON_INFLUENCE] Влияние на них возросло на [COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_TRADE_ROUTE">
+			<Text>Торговый путь открыт для {@1_MinorCivName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_QUEST_TRADE_ROUTE_FORMAL">
+			<Text>Они хотят, чтобы вы открыли сухопутный или морской торговый путь до их города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_GIFT_TILE_IMPROVEMENT_TT">
+			<Text>Вы можете заплатить [ICON_GOLD] Золото, чтобы улучшить один из стратегических или роскошных ресурсов этого города-государства. Город-государство получит доступ к ресурсу и предоставит его своему союзнику, если таковой имеется.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_GOLD_TT">
+			<Text>Если этот город-государство больше [COLOR_POSITIVE_TEXT]боится[ENDCOLOR] вас, чем [COLOR_WARNING_TEXT]сопротивляется[ENDCOLOR], вы можете потребовать дань в виде [ICON_GOLD] Золота ценой [ICON_INFLUENCE] Влияния. {1_FearLevel}{2_FactorDetails}</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_UNIT_TT">
+			<Text>Если этот город-государство больше [COLOR_POSITIVE_TEXT]боится[ENDCOLOR] вас, чем [COLOR_WARNING_TEXT]сопротивляется[ENDCOLOR], вы можете потребовать дань в виде {@3_Unit} ценой [ICON_INFLUENCE] Влияния. {1_FearLevel}{2_FactorDetails}</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_AFRAID">
+			<Text>В данный момент они [COLOR_POSITIVE_TEXT]боятся[ENDCOLOR] (+{1_FactorScore}):</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_RESILIENT">
+			<Text>В данный момент они [COLOR_WARNING_TEXT]сопротивляются[ENDCOLOR] ({1_FactorScore}):</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_POSITIVE">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT](+{1_FactorScore}) {@2_FactorDescription}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_NEGATIVE">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]({1_FactorScore}) {@2_FactorDescription}[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_BASE_RELUCTANCE">
+			<Text>Базовое сопротивление</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_UNIT_RELUCTANCE">
+			<Text>Передача юнита</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_GLOBAL_MILITARY">
+			<Text>Общая военная мощь</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_MILITARY_PRESENCE">
+			<Text>Войска вблизи города-государства</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_BULLIED_VERY_RECENTLY">
+			<Text>Совсем недавно платили дань</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_BULLIED_RECENTLY">
+			<Text>Недавно платили дань</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_LOW_POPULATION">
+			<Text>Низкая численность населения</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_LOW_INFLUENCE">
+			<Text>Очень низкое [ICON_INFLUENCE] Влияние</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_ALLIES">
+			<Text>Есть союзник</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_PLEDGES_TO_PROTECT">
+			<Text>Есть обязательство о защите</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_MILITARISTIC">
+			<Text>Милитаристский</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_HOSTILE">
+			<Text>Враждебный характер</Text>
+		</Row>
+<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_GUNBOAT_DIPLOMACY">
+			<Text>Постулат "Дипломатия канонерок"</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
+			<Text>{@1_MinorCivName} ищет помощи в войне с {@2_CivName}. Подарки юнитов принесут больше [ICON_INFLUENCE] Влияния, чем обычно, пока война продолжается. Подарить юнит можно на расстоянии - через экран дипломатии города-государства, - либо непосредственно переместив юнит на их территорию и выбрав соответствующее действие.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
+			<Text>{@1_MinorCivName} запрашивает юниты</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_QUEST_GIFT_UNIT">
+			<Text>Мы хотим, чтобы вы поддержали наши военные усилия, подарив юниты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_STATE_QUEST_GIFT_UNIT_FORMAL">
+			<Text>Они хотят, чтобы вы поддержали их военные усилия, подарив юниты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_SAME_LATE_POLICY_TREES">
+			<Text>[COLOR_POSITIVE_TEXT]Вы оба приняли идеологию {1_PolicyTree}.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_DIFFERENT_LATE_POLICY_TREES">
+			<Text>[COLOR_NEGATIVE_TEXT]Вы приняли идеологию {1_YourPolicyTree}, тогда как они придерживаются {2_TheirPolicyTree}.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_ACTIVE_PLAYER">
+			<Text>Вы добавили верование Реформации к своей религии {@1_ReligionName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED">
+			<Text>{1_CivName} {1: plural 1?has; 2?have;} добавили верование Реформации к своей религии {@2_ReligionName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_UNKNOWN">
+			<Text>Неизвестная цивилизация добавила верование Реформации к своей религии {@1_ReligionName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_S">
+			<Text>Добавлено верование Реформации</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_HEATHEN_CONVERTS">
+			<Text>Варварский юнит присоединился к вашим силам!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_HEATHEN_CONVERTS">
+			<Text>Язычник обращен</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_ARCHAEOLOGY">
+			<Text>На месте древних реликвий основана археологическая экспедиция. Выберите, как использовать археолога, находящегося в этом месте.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_ARCHAEOLOGY">
+			<Text>ВЫБЕРИТЕ МЕТОД РАСКОПОК</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_FACTORIES">
+			<Text>В трех ваших городах построены фабрики. Идеи Промышленной революции пронизывают ваше общество. Народ требует, чтобы вы выбрали Идеологию для своей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_ERA">
+			<Text>Вы вышли за пределы Промышленной эпохи. Идеи Промышленной революции пронизывают ваше общество. Народ требует, чтобы вы выбрали Идеологию для своей цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_IDEOLOGY">
+			<Text>ВЫБЕРИТЕ ИДЕОЛОГИЮ</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN">
+			<Text>{1_CivName} приняла идеологию {2_TheirPolicyTree}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN_UNMET">
+			<Text>Неизвестная цивилизация приняла идеологию {1_TheirPolicyTree}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IDEOLOGY_CHOSEN">
+			<Text>Идеология принята</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHANGE">
+			<Text>Народ {1_CivName} восстал и вынудил своего лидера принять идеологию {2_TheirPolicyTree}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHANGE_UNMET">
+			<Text>Народ неизвестной цивилизации восстал и вынудил своего лидера принять идеологию {1_TheirPolicyTree}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IDEOLOGY_CHANGE">
+			<Text>Революция!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMAT_EJECTED">
+			<Text>Дипломат эвакуирован!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMAT_EJECTED_TT">
+			<Text>{1_SpyRank} {2_SpyName} бежал из {3_CityName} в вашу явочную квартиру в связи с объявлением войны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD">
+			<Text>{2_ResourceName:textkey} теперь доступен в {1_CityName:textkey}! Это увеличивает [ICON_PRODUCTION] Производство при строительстве Чудес света Древней и Классической эпохи в этом городе на {3_Num}%!</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE_HELP">
+			<Text>Уничтожьте этот торговый путь, чтобы получить [ICON_GOLD] Золото.[NEWLINE][NEWLINE]Если вы не находитесь в состоянии войны с владельцем торгового пути, вам потребуется объявить войну перед грабежом. Разграбление торгового пути другой цивилизации нанесет урон вашим отношениям с цивилизацией назначения, если вы с ней не воюете.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE_DISABLED_HELP">
+			<Text>Вы должны иметь возможность объявить войну владельцу торгового пути.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
+			<Text>Этот приказ поглотит Великого человека и создаст новое Великое произведение в ближайшем городе, где есть свободный слот для Великого произведения соответствующего типа.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_RESULT">
+			<Text>Великое произведение будет помещено в {1_BuildingName} в городе {2_CityName}.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_DISABLED_HELP">
+			<Text>Юнит должен находиться в одном из ваших городов или рядом с ним, а в вашей империи должен быть доступен слот для Великого произведения соответствующего типа.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_HELP">
+			<Text>Этот юнит продаст свой груз, получив [ICON_GOLD] Золото и опыт. Чем дальше от вашей столицы произойдет продажа, тем больше вы получите. Это можно сделать только один раз с данным юнитом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_DISABLED_HELP">
+			<Text>Юнит должен находиться рядом с клеткой, принадлежащей другой цивилизации или городу-государству, и не должен был использовать эту способность ранее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_GIVE_POLICIES_HELP">
+			<Text>Этот приказ поглотит Великого человека и предоставит большое количество [ICON_CULTURE] Культуры.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_HELP">
+			<Text>Этот приказ поглотит Великого человека и распространит большое количество [ICON_TOURISM] Туризма на цивилизацию, на территории которой находится Музыкант. Остальные цивилизации в игре также получат 20% этого [ICON_TOURISM] Туризма.</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_DISABLED_HELP">
+			<Text>Юнит должен находиться на клетке, принадлежащей другой крупной цивилизации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_INTERFACEMODE_AIRLIFT_HELP">
+			<Text>Этот приказ позволит юниту передислоцироваться на наземную клетку в дружественном городе с аэропортом или рядом с ним. Клетка назначения не должна быть занята или граничить с вражеским юнитом.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
+			<Text>Амфитеатр увеличивает [ICON_CULTURE] Культуру города, ускоряя рост его территории и освоение Общественных институтов цивилизацией. В городе должен быть построен Монумент (или Стела), прежде чем можно будет возвести Амфитеатр. Содержит 1 слот для Великого произведения письма.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP">
+			<Text>Дает +2 [ICON_TOURISM] Туризма после изучения технологии "Полет".[NEWLINE][NEWLINE]В городе должны быть Стены.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
+			<Text>Преобразует место древних реликвий в археологическую экспедицию, которая может дать Артефакт - Великое произведение - или быть превращена в улучшение "Достопримечательность".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
+			<Text>Может дать Артефакт - Великое произведение - или быть превращена в улучшение "Достопримечательность".</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
+			<Text>Строит лагерь бразильского дерева, который увеличивает количество [ICON_GOLD] Золота, получаемого с этой клетки, сохраняя Джунгли. После изучения акустики также дает [ICON_CULTURE] Культуру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_REC">
+			<Text>Увеличит количество [ICON_GOLD] Золота, получаемого с этой клетки, сохраняя Джунгли. После изучения акустики также дает [ICON_CULTURE] Культуру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_KASBAH_HELP">
+			<Text>Строит касбу, которая увеличивает количество [ICON_FOOD] Пищи, [ICON_PRODUCTION] Производства и [ICON_GOLD] Золота, получаемых с этой клетки. Также дает бонус к защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_KASBAH_REC">
+			<Text>Увеличит количество [ICON_FOOD] Пищи, [ICON_PRODUCTION] Производства и [ICON_GOLD] Золота, получаемых с этой клетки. Также дает бонус к защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_FEITORIA_HELP">
+			<Text>Строит феиторию на землях этого города-государства. Она будет предоставлять вам по одной единице каждого типа ресурса роскоши, с которым связан этот город-государство, вне зависимости от ваших отношений с ним. Также дает бонус к защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_FEITORIA_REC">
+			<Text>Будет предоставлять вам по одной единице каждого типа ресурса роскоши, с которым связан этот город-государство, вне зависимости от ваших отношений с ним. Также дает бонус к защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_CHATEAU_HELP">
+			<Text>Строит шато, увеличивающее выход Культуры и Золота с клетки. Также дает бонус к защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_CHATEAU_REC">
+			<Text>Шато должно быть построено рядом с ресурсом роскоши. Оно не может соседствовать с другим шато.[NEWLINE][NEWLINE]Увеличит выход Культуры и Золота с клетки. Также дает бонус к защите.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILD_LANDMARK_HELP">
+			<Text>Юнит будет поглощен.</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
+			<Text>После улучшения с помощью археологической экспедиции место древних реликвий может дать Артефакт, который можно поместить в слот Великого произведения искусства, или быть превращено в улучшение "Достопримечательность".</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
+			<Text>После улучшения с помощью археологической экспедиции скрытое место древних реликвий может дать Артефакт, который можно поместить в слот Великого произведения искусства, или быть превращено в улучшение "Достопримечательность". Скрытые места древних реликвий видны только цивилизациям, изучившим все институты дерева "Исследования".</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
+			<Text>Появляется как уникальный ресурс роскоши в индонезийском городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_CLOVES_HELP">
+			<Text>Появляется как уникальный ресурс роскоши в индонезийском городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_RESOURCE_PEPPER_HELP">
+			<Text>Появляется как уникальный ресурс роскоши в индонезийском городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
+			<Text>Оперный театр - здание эпохи Ренессанса, увеличивающее [ICON_CULTURE] Культуру города. Для строительства Оперного театра в городе необходим Амфитеатр. Содержит 1 слот для Великого музыкального произведения.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
+			<Text>Музей - здание середины игры, увеличивающее производство [ICON_CULTURE] Культуры в городе. Для строительства Музея в городе необходим Оперный театр (или Зал кейлид). Содержит 2 слота для Великих произведений искусства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PALACE_HELP">
+			<Text>Обозначает, что этот Город является [ICON_CAPITAL] Столицей империи. Содержит 1 слот для Великого произведения искусства.[NEWLINE][NEWLINE][ICON_CONNECTED] Соединение других Городов с [ICON_CAPITAL] Столицей Дорогой приносит дополнительное [ICON_GOLD] Золото.[NEWLINE][NEWLINE]+3 [ICON_PRODUCTION] Производство, +3 [ICON_RESEARCH] Наука, +3 [ICON_GOLD] Золото</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC_HELP">
+			<Text>Все вновь обученные не-воздушные Юниты в этом Городе получают Повышение [COLOR_POSITIVE_TEXT]Боевой дух[ENDCOLOR], увеличивающее [ICON_STRENGTH] боевую мощь на 15%. Содержит 1 слот для Великого письменного произведения.[NEWLINE][NEWLINE]Необходимо построить Казармы во всех Городах. Стоимость возрастает с увеличением числа городов в империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_HELP">
+			<Text>+25% к скорости появления [ICON_GREAT_PEOPLE] Великих людей в этом Городе. Содержит 1 слот для Великого письменного произведения.[NEWLINE][NEWLINE]Необходимо построить Памятник во всех Городах. Стоимость возрастает с увеличением числа городов в империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HERMITAGE_HELP">
+			<Text>+50% [ICON_CULTURE] Культуры в этом Городе. Содержит 3 слота для Великих произведений искусства.[NEWLINE][NEWLINE]Необходимо построить Оперный театр во всех Городах. Стоимость возрастает с увеличением числа городов в империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HELP">
+			<Text>1 бесплатная Технология. Содержит 2 слота для Великих письменных произведений.[NEWLINE][NEWLINE]Необходимо построить Университет во всех Городах. Стоимость возрастает с увеличением числа городов в империи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_EIFFEL_TOWER_HELP">
+			<Text>Помимо эффектов на [ICON_HAPPINESS_1] Довольство и [ICON_CULTURE] Культуру, Эйфелева башня также дает +12 [ICON_TOURISM] Туризма.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
+			<Text>1 бесплатная Технология. Предоставляет бесплатную Библиотеку в городе, где было построено. Содержит 2 слота для Великих письменных произведений.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_LOUVRE_HELP">
+			<Text>Требует Исследования. Вблизи Города, где построено Чудо света, появляется 1 бесплатный Великий художник. Содержит 4 слота для Великих произведений искусства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_UFFIZI_HELP">
+			<Text>Требует Эстетики. Вблизи Города, где построено Чудо света, появляется 1 бесплатный Великий художник. Содержит 3 слота для Великих произведений искусства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_GLOBE_THEATER_HELP">
+			<Text>Вблизи Города, где построено Чудо света, появляется 1 бесплатный Великий писатель. Содержит 2 слота для Великих письменных произведений.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_BROADWAY_HELP">
+			<Text>Вблизи Города, где построено Чудо света, появляется 1 бесплатный Великий музыкант. Содержит 3 слота для Великих музыкальных произведений.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SISTINE_CHAPEL_HELP">
+			<Text>+25% [ICON_CULTURE] Культуры во всех Городах. Содержит 2 слота для Великих произведений искусства.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_SYDNEY_OPERA_HOUSE_HELP">
+			<Text>1 бесплатный Общественный институт и +50% [ICON_CULTURE] Культуры в этом городе. Содержит 2 слота для Великих музыкальных произведений. Должен быть построен в прибрежном городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HELP">
+			<Text>Всемирный конгресс становится ООН и начинается голосование за Дипломатическую победу. Владелец ООН получает 3 дополнительных Делегата.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_CHICHEN_ITZA_HELP">
+			<Text>Требует Свободы. Скорость строительства улучшений клеток увеличивается на 25%, и вблизи Города появляются два Рабочих.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_HANGING_GARDEN_HELP">
+			<Text>Требует Традиции. Предоставляет бесплатный Сад в городе, где было построено.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP">
+			<Text>Требует Благочестия. Все Миссионеры, рожденные в этом городе, могут распространять религию трижды. Предоставляет бесплатную Мечеть в городе, где было построено.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_FORBIDDEN_PALACE_HELP">
+			<Text>Требует Покровительства. Предоставляет 2 дополнительных Делегата во Всемирном конгрессе. -10% [ICON_HAPPINESS_4] Недовольства от [ICON_CITIZEN] Жителей в неоккупированных Городах.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
+			<Text>Требует Коммерции. Стоимость покупок за [ICON_GOLD] Золото во всех городах снижена на 15%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
+			<Text>Требует Рационализма. Вблизи Города, где построено Чудо света, появляется Великий ученый. Объем [ICON_RESEARCH] Науки от Исследовательских соглашений увеличен на 50%.</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION_HELP">
+			<Text>+1 [ICON_PRODUCTION] Производство от Ученых и +1 [ICON_RESEARCH] Наука от Инженеров. Великие ученые дают на 33% больше [ICON_RESEARCH] Науки при открытии новой технологии. Может быть построена только совместными усилиями через Всемирный конгресс.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_FOUND_ON_DIG_SITE">
+			<Text>Вы уверены, что хотите {@1_ActionName}?[NEWLINE]Текущее Место древностей будет безвозвратно удалено.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
+			<Text>Юниты передвигаются сквозь Леса и Джунгли на дружественной территории как по Дорогам. Эти клетки можно использовать для установки [ICON_CONNECTED] Городских связей после исследования Колеса. Торговые повозки движутся по Лесам и Джунглям как по Дорогам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
+			<Text>[ICON_CONNECTED] Городское соединение установлено!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_ESTABLISHED">
+			<Text>Установлено [ICON_CONNECTED] городское соединение между {1_CityName:textkey} и вашей столицей, {2_CityName:textkey}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_BROKEN">
+			<Text>[ICON_CONNECTED] Городское соединение прервано!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_BROKEN">
+			<Text>[ICON_CONNECTED] Городское соединение между {1_CityName:textkey} и вашей столицей, {2_CityName:textkey}, прервано.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_WORK_SWAP">
+			<Text>Обмен Великими произведениями</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_WRITING_SWAP">
+			<Text>{1_LeaderName} обменял ваше Великое письменное произведение "{2_Work1Name}" на Великое произведение "{3_Work2Name}".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_ART_SWAP">
+			<Text>{1_LeaderName} обменял ваше Великое произведение искусства "{2_Work1Name}" на Великое произведение "{3_Work2Name}".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_MUSIC_SWAP">
+			<Text>{1_LeaderName} обменял ваше Великое музыкальное произведение "{2_Work1Name}" на Великое произведение "{3_Work2Name}".</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_ARTIFACT_SWAP">
+			<Text>{1_LeaderName} обменял ваш Артефакт "{2_Work1Name}" на Артефакт "{3_Work2Name}".</Text>
+		</Row>
+<Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
+			<Text>+25% [ICON_GOLD] Золота от [ICON_CONNECTED] Городских соединений.[NEWLINE][NEWLINE]Город должен быть построен в пределах 2 клеток от Горы, находящейся на вашей территории.</Text>
+		</Row>
+<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD">
+			<Text>+1 [ICON_GOLD] Золото от каждого [ICON_CONNECTED] Городского соединения, а [ICON_RES_OIL] Нефтяные ресурсы дают двойное количество.</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_LIKED_OUR_PROPOSAL">
+			<Text>[COLOR_POSITIVE_TEXT]Им понравилось наше предложение во Всемирном конгрессе.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_DISLIKED_OUR_PROPOSAL">
+			<Text>[COLOR_WARNING_TEXT]Им не понравилось наше предложение во Всемирном конгрессе.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_PROPOSAL">
+			<Text>[COLOR_POSITIVE_TEXT]Мы помогли им провести их предложение во Всемирном конгрессе.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_FOILED_THEIR_PROPOSAL">
+			<Text>[COLOR_WARNING_TEXT]Мы помогли провалить их предложение во Всемирном конгрессе.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_HOSTING">
+			<Text>[COLOR_POSITIVE_TEXT]Мы помогли перенести Всемирный конгресс на их земли.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_NO_DIG_PROMISE_BROKEN">
+			<Text>[COLOR_NEGATIVE_TEXT]Вы раскапывали артефакты на их земле![ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_NO_DIG_PROMISE_IGNORED">
+			<Text>[COLOR_NEGATIVE_TEXT]Они просили вас прекратить раскапывать их артефакты, но вы проигнорировали их![ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_LANDMARKS_BUILT">
+      <Text>[COLOR_POSITIVE_TEXT]Вы построили Достопримечательность на их территории.[ENDCOLOR]</Text>
+    </Row>
+<Row Tag="TXT_KEY_DIPLO_PLUNDERING_OUR_TRADE_ROUTES">
+			<Text>[COLOR_NEGATIVE_TEXT]Вы грабили их торговые пути![ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY">
+			<Text>Купеческая конфедерация</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_TEXT">
+			<Text>Чаще называемая торговой лигой или купеческой гильдией, Купеческая конфедерация создавалась для защиты экономических интересов и дипломатических привилегий купцов в городах и государствах вдоль торговых путей. Несмотря на отсутствие официального статуса, некоторые из этих объединений - например, Компания купцов-авантюристов Лондона (основана в 1407 г. н.э.) и еще более влиятельный Ганзейский союз (образован ок. 1356 г.) - обладали значительным экономическим влиянием и долгое время контролировали определенные торговые пути. В раннее Возрождение купеческие конфедерации возникли в городах-государствах, таких как Венеция и Генуя, чтобы защищать интересы торговцев конкретными товарами за рубежом. Расцвет этих торговых лиг пришелся на XV-XVI века, однако впоследствии они пришли в упадок: национальные правительства и компании, получившие королевские хартии, постепенно взяли на себя регулирующие и дипломатические функции, прежде принадлежавшие лигам.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Купеческая конфедерация[ENDCOLOR][NEWLINE]+2 [ICON_GOLD] Золота за торговые пути с Городами-государствами.</Text>
+		</Row>
+<Row Tag="TXT_KEY_FREE_TENETS_LABEL">
+			<Text>Количество бесплатных Догматов: {1_Num}</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_STOP_DIGGING">
+			<Text>Прекратите раскапывать мои артефакты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Коллективное правление[ENDCOLOR][NEWLINE]Ускоряет обучение [COLOR_POSITIVE_TEXT]Поселенцев[ENDCOLOR] на 50% в [ICON_CAPITAL] Столице, и вблизи [ICON_CAPITAL] Столицы появляется бесплатный Поселенец. (Венеция получает Торговца Венеции вместо Поселенца.)</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISSION_HEAL_DISABLED_HELP">
+			<Text>Этот Юнит не может Лечиться за пределами дружественной территории или находясь на судне.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WARMONGER_HATE_HIGH">
+			<Text> (Они ненавидят поджигателей войны!)</Text>
+		</Row>
+<Row Tag="TXT_KEY_WARMONGER_HATE_MID">
+			<Text> (Они не любят поджигателей войны.)</Text>
+		</Row>
+<Row Tag="TXT_KEY_WARMONGER_HATE_LOW">
+			<Text> (Они снисходительно смотрят на умеренную агрессию.)</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MINOR">
+			<Text>[COLOR_WARNING_TEXT]У них есть ранние опасения относительно вашей агрессии.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MAJOR">
+			<Text>[COLOR_NEGATIVE_TEXT]Они отчетливо видят потенциальную угрозу со стороны вашей агрессии.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_SEVERE">
+			<Text>[COLOR_NEGATIVE_TEXT]Они считают, что ваша агрессия стала проблемой мирового масштаба.[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_CRITICAL">
+			<Text>[COLOR_NEGATIVE_TEXT]Они опасаются, что ваша агрессия вскоре ввергнет мир в новые Темные века!"[ENDCOLOR]</Text>
+		</Row>
+<Row Tag="TXT_KEY_WARMONGER_PREVIEW_MINOR">
+			<Text>Вы получите [COLOR_YELLOW]НЕЗНАЧИТЕЛЬНЫЙ[ENDCOLOR] штраф за агрессию при захвате этого города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WARMONGER_PREVIEW_MAJOR">
+			<Text>Вы получите [COLOR_NEGATIVE_TEXT]ЗНАЧИТЕЛЬНЫЙ[ENDCOLOR] штраф за агрессию при захвате этого города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_WARMONGER_PREVIEW_EXTREME">
+			<Text>Вы получите [COLOR_NEGATIVE_TEXT]ОГРОМНЫЙ[ENDCOLOR] штраф за агрессию при захвате этого города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_LIBERATION_PREVIEW_MINOR">
+			<Text>Вы получите [COLOR_PLAYER_DARK_GREEN]НЕЗНАЧИТЕЛЬНЫЙ[ENDCOLOR] бонус за освобождение (аннулирующий предыдущие штрафы за агрессию) при освобождении этого города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_LIBERATION_PREVIEW_MAJOR">
+			<Text>Вы получите [COLOR_POSITIVE_TEXT]ЗНАЧИТЕЛЬНЫЙ[ENDCOLOR] бонус за освобождение (аннулирующий предыдущие штрафы за агрессию) при освобождении этого города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_LIBERATION_PREVIEW_EXTREME">
+			<Text>Вы получите [COLOR_POSITIVE_TEXT]ОГРОМНЫЙ[ENDCOLOR] бонус за освобождение (аннулирующий предыдущие штрафы за агрессию) при освобождении этого города.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_FOUND_ARTIFACTS">
+			<Text>Вы обнаружили [COLOR_HIGHLIGHT_TEXT]Место древностей[ENDCOLOR]!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NOTIFICATION_FOUND_HIDDEN_ARTIFACTS">
+			<Text>Вы обнаружили [COLOR_HIGHLIGHT_TEXT]Скрытое место древностей[ENDCOLOR]!</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_DISCOVERED_ARTIFACTS_NEAR">
+			<Text>Вы обнаружили [COLOR_HIGHLIGHT_TEXT]Место древностей[ENDCOLOR] вблизи {@1_CityName}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_MISC_DISCOVERED_HIDDEN_ARTIFACTS_NEAR">
+			<Text>Вы обнаружили [COLOR_HIGHLIGHT_TEXT]Скрытое место древностей[ENDCOLOR] вблизи {@1_CityName}!</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

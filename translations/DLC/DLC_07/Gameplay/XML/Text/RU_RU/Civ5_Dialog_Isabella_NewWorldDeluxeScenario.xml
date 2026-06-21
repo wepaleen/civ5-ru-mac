@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_1">
+			<Text>Хорошо.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_2">
+			<Text>Ладно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_3">
+			<Text>Конечно.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_AGREE_SHORT_4">
+			<Text>С благословения Небес.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_1">
+			<Text>Ты смеешь нападать на меня! Клянусь Небесами, я покараю тебя!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_2">
+			<Text>Ты отвратительное исчадие зла - ты заплатишь за это!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_ATTACKED_3">
+			<Text>С помощью Небес я непременно одержу над тобой победу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_1">
+			<Text>Как меч Небес рассечет щит Зла, так и я одержу над тобой победу! Готовься к войне!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_2">
+			<Text>Небеса, возможно, и простят тебя; я - нет. Готовься к войне!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DECLAREWAR_3">
+			<Text>Я молюсь о твоей душе. Но твое тело я уничтожу. Готовься к войне!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_1">
+			<Text>Что ж. Такова воля Небес; я должна смириться.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_2">
+			<Text>Все потеряно. Зло восторжествовало - пока что. Но берегись: Небеса в конечном счете обязательно победят!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEFEATED_3">
+			<Text>Все потеряно. Зло восторжествовало - пока что. Но берегись: Небеса в конечном счете обязательно победят!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_ANGRY">
+			<Text>Ты мог бы значительно сократить свое пребывание в аду, совершая добродетельные поступки, пока еще жив.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_HAPPY">
+			<Text>Мой друг, я верю, что Небеса хотели бы, чтобы ты передал нам следующее.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Испании необходимо следующее от тебя, чтобы помочь финансировать ее нескончаемую борьбу с грешниками.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_1">
+			<Text>Перед лицом Небес - не стану.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_2">
+			<Text>Нет.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_3">
+			<Text>Ни в коем случае.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_4">
+			<Text>Это неприемлемо.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_5">
+			<Text>Разумеется, нет.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_6">
+			<Text>Это неприемлемо.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_DISAGREE_SHORT_7">
+			<Text>Ты не можешь говорить серьезно!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_1">
+			<Text>По милости Всевышних Небес я - Изабелла, королева Испании. Ты праведный правитель?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_2">
+			<Text>Да снизойдет благодать Небес на тех, кто ее заслуживает! Я - Изабелла Испанская.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_FIRSTGREETING_3">
+			<Text>Я - Изабелла, помазанная королева Испании. Ты язычник или верующий?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_1">
+			<Text>Да благословят тебя Небеса!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_2">
+			<Text>Прощай.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_3">
+			<Text>До новой встречи.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_4">
+			<Text>Ступай прочь.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_5">
+			<Text>Это все.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GOODBYE_6">
+      <Text>Прощайте.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_1">
+			<Text>Благословение.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_2">
+			<Text>Благословение тебе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_3">
+			<Text>Приветствую.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_4">
+			<Text>А, это ты.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_5">
+			<Text>Ну?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_GREETING_6">
+			<Text>Чего тебе нужно?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_1">
+			<Text>Продолжай.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_2">
+			<Text>Говори.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_3">
+			<Text>Излагай.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_4">
+			<Text>Я слушаю.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LETSHEARIT_5">
+			<Text>Да?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_LOSEWAR_1">
+			<Text>Небеса непременно благословят тебя за милосердие к побежденному врагу.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Жадность - грех, ведущий к вечной погибели. Молю, чтобы ты улучшил свое предложение.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>Ты должен предложить лучшее.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>Этого недостаточно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Стяжательство - грех. Не улучшишь ли свое предложение?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Это лучшее, что ты можешь предложить?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Ты почти у цели...</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Щедрость полезна для души. Не можешь ли ты улучшить свое предложение?</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>Этого не совсем достаточно."</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>Почти...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_ANGRY">
+			<Text>Я не стану слушать твой змеиный язык. Твое предложение отклонено.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_HAPPY">
+			<Text>Если ты заглянешь в глубину своей души, то увидишь, что твое предложение несправедливо. Я вынуждена его отклонить.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_NO_NEUTRAL">
+			<Text>Небеса назначили меня хранительницей богатств моего народа. Твое предложение несправедливо, и я не могу его принять.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_ANGRY">
+			<Text>Мы согласны. Ты можешь идти.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_HAPPY">
+			<Text>Ты поистине справедливый и честный переговорщик. Мы согласны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADE_YES_NEUTRAL">
+			<Text>Твои условия справедливы. Мы согласны.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_ANGRY">
+			<Text>Как правитель Испании, порой мне приходится иметь дело с теми, кто мне неприятен. Сейчас именно такой случай.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_HAPPY">
+			<Text>Мой дорогой друг, я верю, что эта сделка принесет пользу нам обоим и посеет смятение среди наших врагов.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRADEREQUEST_NEUTRAL">
+			<Text>Надеюсь, эта сделка получит твое благословение.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_ANGRY">
+			<Text>Ты смеешь? Я поражена, что молния еще не поразила тебя за такую дерзость!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_HAPPY">
+			<Text>Я не могу дать тебе то, чего ты хочешь, - но обещаю молиться о твоем спасении.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_NO_NEUTRAL">
+			<Text>Ты не достоин такой щедрости.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_ANGRY">
+			<Text>Молю, чтобы твое грешное сердце устыдилось нашей бескорыстной щедрости.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_HAPPY">
+			<Text>Конечно: праведные должны держаться вместе против неверующих!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_TRIBUTE_YES_NEUTRAL">
+			<Text>Разумеется: Небеса велят нам щедро давать нуждающимся.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_1">
+			<Text>Небеса очень разочарованы тобой.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_2">
+			<Text>Ты играешь в опасную игру.</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WARBLUFF_3">
+			<Text>Хорошо. В следующий раз я не буду столь вежлива!</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA_WINWAR_1">
+			<Text>Тебе повезло, что Небеса требуют от нас милосердия, иначе я бы уничтожила тебя.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

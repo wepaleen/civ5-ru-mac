@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA">
+			<Text>Hotu Matua</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_KAMEHAMEHA_NAME">
+			<Text>Hotu Matua</Text>
+		</Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA">
+      <Text>'Aho'eitu</Text>
+    </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MONTEZUMA_NAME">
+      <Text>'Aho'eitu</Text>
+    </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI">
+      <Text>Malietoa Savea</Text>
+    </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_GANDHI_NAME">
+      <Text>Malietoa Savea</Text>
+    </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA">
+      <Text>Pomare I</Text>
+    </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HIAWATHA_NAME">
+      <Text>Pomare I</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

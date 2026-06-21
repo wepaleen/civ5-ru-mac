@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS">
+			<Text>Казармы</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE">
+			<Text>Военная база</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL">
+			<Text>Арсенал</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS">
+			<Text>Железоделательный завод</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD">
+			<Text>Военно-морской арсенал</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE">
+			<Text>Конюшня</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS">
+			<Text>Оборонительные укрепления столицы</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_STRATEGY">
+			<Text>Каждые Казармы дают 1 [ICON_RES_MANPOWER] Живую силу. Нельзя построить. Захватывайте вражеские города, чтобы увеличить запасы [ICON_RES_MANPOWER] Живой силы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_STRATEGY">
+			<Text>Каждая Военная база дает 2 [ICON_RES_MANPOWER] Живой силы. Нельзя построить. Захватывайте вражеские города, чтобы увеличить запасы [ICON_RES_MANPOWER] Живой силы.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_STRATEGY">
+			<Text>Позволяет производить юниты пехоты в этом городе. Нельзя построить. Захватывайте вражеские города, чтобы получить новые производственные центры для своей нации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS_STRATEGY">
+			<Text>Позволяет производить юниты артиллерии в этом городе. Нельзя построить. Захватывайте вражеские города, чтобы получить новые производственные центры для своей нации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD_STRATEGY">
+			<Text>Позволяет производить военно-морские юниты в этом городе. Нельзя построить. Захватывайте вражеские города, чтобы получить новые производственные центры для своей нации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_STRATEGY">
+			<Text>Позволяет производить конные юниты в этом городе. Нельзя построить. Захватывайте вражеские города, чтобы получить новые производственные центры для своей нации.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_HELP">
+			<Text>Дает 1 [ICON_RES_MANPOWER] Живую силу. </Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_HELP">
+			<Text>Дает 2 [ICON_RES_MANPOWER] Живой силы. </Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_HELP">
+			<Text>Позволяет производить юниты пехоты в этом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS_HELP">
+			<Text>Позволяет производить юниты артиллерии в этом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD_HELP">
+			<Text>Позволяет производить военно-морские юниты в этом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_HELP">
+			<Text>Позволяет производить конные юниты в этом городе.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS_STRATEGY">
+			<Text>Оборонительные укрепления столицы - это кольцо земляных фортов, которые увеличивают Боевую мощь города на 10 и очки здоровья на 100, существенно затрудняя его захват.</Text>
+		</Row>
+<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_FEATURE_FOUNTAIN_YOUTH">
+      <Text>Исток Нила</Text>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM">
+      <Text>Государственный музей</Text>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_DESC">
+      <Text>Турецкая баня</Text>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL">
+      <Text>Суэцкий канал</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

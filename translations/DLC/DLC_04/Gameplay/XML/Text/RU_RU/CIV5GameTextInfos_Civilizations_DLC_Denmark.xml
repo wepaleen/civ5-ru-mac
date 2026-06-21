@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_DENMARK_ADJECTIVE">
+			<Text>Датский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_DENMARK_DESC">
+			<Text>Датская империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_DENMARK_SHORT_DESC">
+			<Text>Дания</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

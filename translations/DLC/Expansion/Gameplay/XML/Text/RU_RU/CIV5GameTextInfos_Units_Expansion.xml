@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET">
+			<Text>Великий пророк</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MISSIONARY">
+			<Text>Миссионер</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_INQUISITOR">
+			<Text>Инквизитор</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_CELT_PICTISH_WARRIOR">
+			<Text>Пиктский воин</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MAYAN_ATLATLIST">
+			<Text>Атлатлист</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_BYZANTINE_DROMON">
+			<Text>Дромон</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_BYZANTINE_CATAPHRACT">
+			<Text>Катафракт</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_FOREST_ELEPHANT">
+			<Text>Африканский лесной слон</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME">
+			<Text>Квинквирема</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HUN_HORSE_ARCHER">
+			<Text>Конный лучник</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_HUN_BATTERING_RAM">
+			<Text>Таран</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_AUSTRIAN_HUSSAR">
+			<Text>Гусар</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MEHAL_SEFARI">
+			<Text>Мехал Сефари</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SWEDISH_CAROLEAN">
+			<Text>Каролинер</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA">
+			<Text>Хаккапелийтта</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
+			<Text>Лучник со составным луком</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_GATLINGGUN">
+			<Text>Пулемет Гатлинга</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_GALLEASS">
+			<Text>Галеас</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY">
+			<Text>Пехота Великой войны</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MARINE">
+			<Text>Морской пехотинец</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_TRIPLANE">
+			<Text>Триплан</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_WWI_BOMBER">
+			<Text>Бомбардировщик Великой войны</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_WWI_TANK">
+			<Text>Сухопутный корабль</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MACHINE_GUN">
+			<Text>Пулемет</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_PRIVATEER">
+			<Text>Каперское судно</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SEA_BEGGAR">
+			<Text>Морской бродяга</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL">
+			<Text>Великий адмирал</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
+			<Text>Военно-морские юниты ближнего боя</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
+			<Text>Военно-морские дальнобойные юниты</Text>
+			<Plurality>2</Plurality>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SPANISH_TERCIO">
+			<Text>Терция</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_SPANISH_CONQUISTADOR">
+			<Text>Конкистадор</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MATTHEW_PERRY">
+			<Text>Мэтью Перри</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_FARRAGUT">
+			<Text>Дэвид Фаррагут</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_DEWEY">
+			<Text>Джордж Дьюи</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_CHESTER_NIMITZ">
+			<Text>Джон Хокинс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_DRAKE">
+			<Text>Фрэнсис Дрейк</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ANDREW_CUNNINGHAM">
+			<Text>Эндрю Каннингем</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_COMTE_DE_GRASSE">
+			<Text>Граф де Грасс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ALFRED_VON_TIRPITZ">
+			<Text>Альфред фон Тирпиц</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ROGER_OF_LAURIA">
+			<Text>Рожер де Лаурия</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ALVARO_DE_BAZAN">
+			<Text>Альваро де Басан</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_DON_JOHN_OF_AUSTRIA">
+			<Text>Дон Хуан Австрийский</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_FERNANDO_VILLAAMIL">
+			<Text>Фернандо Вильяамиль</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_PETER_TORDENSKJOLD">
+			<Text>Петр Торденшельд</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_FYODOR_USHAKOV">
+			<Text>Федор Ушаков</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_PAUL_JONES">
+			<Text>Джон Пол Джонс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ZINOVY_ROZHESTVENSKI">
+			<Text>Зиновий Рожественский</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_YI_SUN_SIN">
+			<Text>Ли Сунсин</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ERIK_THORVALDSSON">
+			<Text>Эрик Торвальдссон</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_LEIF_ERICSON">
+			<Text>Лейф Эрикссон</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_HAYREDDIN_BARBAROSSA">
+			<Text>Хайреддин Барбаросса</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_TURGUT_REIS">
+			<Text>Тургут-реис</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MURAT_REIS">
+			<Text>Мурат-реис</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_THE_NAVIGATOR">
+			<Text>Генрих Мореплаватель</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_AFONSO_DE_ALBUQUERQUE">
+			<Text>Афонсу де Албукерке</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ANREA_DORIA">
+			<Text>Андреа Дориа</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_PHORMIO">
+			<Text>Формион</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_ATILLIUS_REGULUS">
+			<Text>Марк Атилий Регул</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_VIPSANIUS_AGRIPPA">
+			<Text>Марк Випсаний Агриппа</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_HIMILCO">
+			<Text>Гимилькон</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_CALONYMUS_OF_ALEXANDRIA">
+			<Text>Калоним Александрийский</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_DOUKAS">
+			<Text>Иоанн Дука</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_TOGO_HEIHACHIRO">
+			<Text>Того Хэйхатиро</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_SHI_LANG">
+			<Text>Ши Лан</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ANSEL_ADAMS">
+			<Text>Ансел Адамс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_BARTOLOME_DE_LAS_CASAS">
+			<Text>Бартоломе де лас Касас</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_SALVADOR_DALI">
+			<Text>Сальвадор Дали</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ARTHUR_CONAN_DOYLE">
+			<Text>Артур Конан Дойл</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ANTONI_GAUDI">
+			<Text>Антони Гауди</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ERNEST_HEMMINGWAY">
+			<Text>Эрнест Хемингуэй</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDENSREICH_HUNDERTWASSER">
+			<Text>Фриденсрайх Хундертвассер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_OMAR_KHAYYAM">
+			<Text>Омар Хайям</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_STANLEY_KUBRICK">
+			<Text>Стэнли Кубрик</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_PABLO_NERUDA">
+			<Text>Пабло Неруда</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_RUMI">
+			<Text>Руми</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_SCHILLER">
+			<Text>Фридрих Шиллер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_LEO_TOLSTOY">
+			<Text>Лев Толстой</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_FRANK_LLOYD_WRIGHT">
+			<Text>Фрэнк Ллойд Райт</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BUTLER_YEATS">
+			<Text>Уильям Батлер Йейтс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_AL_DIN_AL_TUSI">
+			<Text>Ад-Дин ат-Туси</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_AL_QASIM_AL_ZAHRAWI">
+			<Text>Аль-Касим аз-Захрави</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_LEONARD_EULER">
+			<Text>Леонард Эйлер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_FEYNMAN">
+			<Text>Ричард Фейнман</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_VON_HUMBOLDT">
+			<Text>Александр фон Гумбольдт</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ANDREY_KOLMOGOROV">
+			<Text>Андрей Колмогоров</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MARY_LEAKEY">
+			<Text>Мэри Лики</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_CARL_LINNAEUS">
+			<Text>Карл Линней</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_SHEN_KUO">
+			<Text>Шэнь Ко</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_GREGOR_MENDEL">
+			<Text>Грегор Мендель</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_DMITRY_MENDELEEV">
+			<Text>Дмитрий Менделеев</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_VON_NEUMANN">
+			<Text>Джон фон Нейман</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_CLAUDE_SHANNON">
+			<Text>Клод Шеннон</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ALAN_TURING">
+			<Text>Алан Тьюринг</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_LICINIUS_CRASSUS">
+			<Text>Марк Лициний Красс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_EDWARD_HARRIMAN">
+			<Text>Эдвард Гарриман</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MILTON_S_HERSHEY">
+			<Text>Милтон С. Херши</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_SIR_JAMES_LANCASTER">
+			<Text>Сэр Джеймс Ланкастер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_NESTLE">
+			<Text>Анри Нестле</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_LEVI_STRAUSS">
+			<Text>Леви Страусс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_TWINING">
+			<Text>Томас Твайнинг</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_STEVE_JOBS">
+			<Text>Стив Джобс</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_JAKOB_FUGGER">
+			<Text>Якоб Фуггер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_CARL_BENZ">
+			<Text>Карл Бенц</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_GOTTLIEB_DAIMLER">
+			<Text>Готлиб Даймлер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_STARK_DRAPER">
+			<Text>Чарльз Старк Дрейпер</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_EASTMAN">
+			<Text>Джордж Истмен</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_GODDARD">
+			<Text>Роберт Годдард</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_EPAMINONDAS">
+			<Text>Эпаминонд</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_MAURICE_OF_NASSAU">
+			<Text>Мориц Нассауский</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_POMPEY">
+			<Text>Помпей</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_PYRRHUS">
+			<Text>Пирр</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_WINFIELD_SCOTT">
+			<Text>Уинфилд Скотт</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_SITTING_BULL">
+			<Text>Сидящий Бык</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_SPARTACUS">
+			<Text>Спартак</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_TSERCLAES">
+			<Text>Иоганн Церклас</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_WALLENSTEIN">
+			<Text>Валленштейн</Text>
+		</Row>
+<Row Tag="TXT_KEY_GREAT_PERSON_HANNIBAL">
+			<Text>Ганнибал</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

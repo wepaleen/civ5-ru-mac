@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_MONGOL_ADJECTIVE">
+			<Text>Монгольский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_MONGOL_DESC">
+			<Text>Монгольская Империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_MONGOL_SHORT_DESC">
+			<Text>Монголия</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

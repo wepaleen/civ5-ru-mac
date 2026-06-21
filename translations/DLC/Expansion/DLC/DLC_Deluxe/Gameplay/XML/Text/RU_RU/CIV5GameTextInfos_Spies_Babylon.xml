@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_0">
+			<Text>Рим-Син II</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_1">
+			<Text>Смердис</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_2">
+			<Text>Илум-ма-или</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_3">
+			<Text>Пешгалдарамеш</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_4">
+			<Text>Ур-зигурумаш</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_5">
+			<Text>Семирамида</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_6">
+			<Text>Эм</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_7">
+			<Text>Иштар</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_8">
+			<Text>Билит Тааут</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_BABYLON_9">
+			<Text>Аруру</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

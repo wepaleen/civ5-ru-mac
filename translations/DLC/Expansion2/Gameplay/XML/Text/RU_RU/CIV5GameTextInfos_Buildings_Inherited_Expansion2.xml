@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BUILDING_STATUE_ZEUS">
+      <Text>Статуя Зевса</Text>
+      <Gender>neuter:the</Gender>
+    </Row>
+<Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_HELP">
+      <Text>Требует Честь. Все юниты получают +15% [ICON_STRENGTH] боевой мощи при атаке городов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_DESC">
+      <Text>Высотой более 12 метров, Статуя Зевса, находившаяся в храме Зевса в Олимпии, Греция, была одним из Семи чудес Древнего мира. Известно, что она была создана греческим скульптором Фидием около 440 года до н.э. Даже восседая на золотом троне, огромная статуя едва вмещалась в стенах самого храма. Считается, что статуя была уничтожена не позднее 425 года н.э., когда храм Зевса сгорел. Вопрос о том, находилась ли статуя там в то время, по сей день остается предметом споров.</Text>
+    </Row>
+<Row Tag="TXT_KEY_WONDER_STATUE_ZEUS_QUOTE">
+      <Text>[NEWLINE][TAB][TAB]"Рек Кронид и, в знак согласья, черными бровями кивнул; пышные кудри, помазанные амброзией, волной пролились с бессмертной главы Властелина, и Олимп потрясся."[NEWLINE][TAB][TAB] - Илиада[NEWLINE][TAB]</Text>
+    </Row>
+<Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS">
+      <Text>Статуя Зевса</Text>
+    </Row>
+<Row Tag="TXT_KEY_PROMOTION_STATUE_ZEUS_HELP">
+      <Text>+15% [ICON_STRENGTH] боевой мощи при атаке городов.</Text>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
+			<Text>Альгамбра</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CN_TOWER">
+			<Text>Башня CN</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HUBBLE">
+			<Text>Космический телескоп "Хаббл"</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LEANING_TOWER">
+			<Text>Пизанская башня</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MOSQUE_OF_DJENNE">
+			<Text>Большая мечеть Дженне</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
+			<Text>Нойшванштайн</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PETRA">
+			<Text>Петра</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TERRACOTTA_ARMY">
+			<Text>Терракотовая армия</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL">
+			<Text>Великий китайский файрвол</Text>
+      <Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY">
+			<Text>Национальное разведывательное агентство</Text>
+      <Gender>neuter:the</Gender>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
+      <Text>Главный храм</Text>
+      <Gender>neuter:the</Gender>
+    </Row>
+<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
+			<Text>Амфитеатр</Text>
+      <Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_SHRINE">
+			<Text>Святилище</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
+			<Text>Центр переработки отходов</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
+			<Text>Бомбоубежище</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
+			<Text>Участок полиции</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
+			<Text>Полицейский участок</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CATHEDRAL">
+			<Text>Собор</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MOSQUE">
+			<Text>Мечеть</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PAGODA">
+			<Text>Пагода</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_STELE">
+			<Text>Стела</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE">
+            <Text>Аквакультура</Text>
+        </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING">
+            <Text>Декоративная резьба</Text>
+        </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO">
+            <Text>Татуировка</Text>
+        </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE">
+            <Text>Церемониальный танец</Text>
+        </Row>
+<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING">
+            <Text>Навигация по звездам</Text>
+        </Row>
+	</Language_RU_RU>
+</GameData>

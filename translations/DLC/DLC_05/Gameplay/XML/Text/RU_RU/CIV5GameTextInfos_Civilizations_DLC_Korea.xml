@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_KOREA_ADJECTIVE">
+			<Text>Корейский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_KOREA_DESC">
+			<Text>Корейская Империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_KOREA_SHORT_DESC">
+			<Text>Корея</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

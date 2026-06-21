@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_UNIT_DANISH_BERSERKER">
+			<Text>Берсерк</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY">
+			<Text>Норвежская лыжная пехота</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY">
+			<Text>Бонусы в снегу, тундре и на холмах</Text>
+		</Row>
+<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY_HELP">
+			<Text>В снегу, тундре, на холмах: +25% к боевому бонусу (при отсутствии леса или джунглей) и удвоенное Передвижение</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

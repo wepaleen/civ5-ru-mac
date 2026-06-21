@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_0">
+			<Text>Asashoryu</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_1">
+			<Text>Tomoriin</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_2">
+			<Text>Zevegiin</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_3">
+			<Text>Jigjidiin</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_4">
+			<Text>Enkhbat</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_5">
+			<Text>Monkhbayar</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_6">
+			<Text>Gundegmaa</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_7">
+			<Text>Ssima</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_8">
+			<Text>Batachikhan</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_MONGOL_9">
+			<Text>Chulunny</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

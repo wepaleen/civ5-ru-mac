@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL">
+			<Text>Ашшурбанапал</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR">
+			<Text>Ахмад аль-Мансур</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_CASIMIR">
+			<Text>Казимир III</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO">
+			<Text>Энрико Дандоло</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_GAJAH_MADA">
+			<Text>Гаджа Мада</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_MARIA_I">
+			<Text>Мария I</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_PEDRO">
+			<Text>Педру II</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_POCATELLO">
+			<Text>Покателло</Text>
+		</Row>
+<Row Tag="TXT_KEY_LEADER_SHAKA">
+			<Text>Чака</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

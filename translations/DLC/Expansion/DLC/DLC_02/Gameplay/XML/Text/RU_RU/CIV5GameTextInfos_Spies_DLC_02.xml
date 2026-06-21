@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_0">
+			<Text>Amaru</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_1">
+			<Text>Apichu</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_2">
+			<Text>Pariapichiu</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_3">
+			<Text>Puma</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_4">
+			<Text>Quenti</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_5">
+			<Text>Suyuntu</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_6">
+			<Text>Uturuncu</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_7">
+			<Text>Uturuncu</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_8">
+			<Text>Purutu</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_INCA_9">
+			<Text>Ozcollo</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_0">
+			<Text>Rodrigo</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_1">
+			<Text>Esmeralda</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_2">
+			<Text>Leon</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_3">
+			<Text>Mathilda</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_4">
+			<Text>Ramona</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_5">
+			<Text>Senor X</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_6">
+			<Text>Topolino</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_7">
+			<Text>Serpiente</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_8">
+			<Text>Garcia</Text>
+		</Row>
+<Row Tag="TXT_KEY_SPY_NAME_SPAIN_9">
+			<Text>El Lobo</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

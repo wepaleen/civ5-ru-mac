@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_1">
+            <Text>Приветствую тебя, заблудший. Меня зовут Пакаль. Ты принес весть от богов? Я чувствую их - их ледяное дыхание у меня на шее.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_2">
+            <Text>Рад встрече, чужестранец - можешь называть меня Пакалем Великим. Хотя это едва ли важно... Не думаю, что мы еще когда-нибудь поговорим.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_FIRSTGREETING_3">
+            <Text>Что за мрак и отчаяние ты несешь великому Пакалю? Я предложил бы угощение, но мне нужно готовиться к апокалипсису.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_1">
+            <Text>Ты сам навлекаешь на себя погибель!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_2">
+            <Text>Как ты разочаровываешь меня...</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_3">
+            <Text>Ты разгневал Смерть. Она пробуждается!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_4">
+            <Text>Погоди. Совы Смерти явятся за тобой следующим.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WARBLUFF_5">
+            <Text>Я знал, что это пустая трата времени...</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_1">
+            <Text>Да, да! Боги благоволят мне! Я буду править верховно, хотя бы до самого конца!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_WINWAR_2">
+            <Text>Видишь ли, я говорил тебе, что это бессмысленно, раз уж великий потоп уже над нами. Все эти возможные жертвоприношения - пропали впустую.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_1">
+            <Text>Бери что хочешь - это уже ничего не значит. Неужели ты не видишь, что маячит на горизонте?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LOSEWAR_2">
+            <Text>Хаха. Какой же ты глупец! Наслаждайся трофеями, пока можешь - они потянут тебя ко дну, когда земля уйдет из-под ног.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_1">
+            <Text>Конец! Я чувствую, как звезды рыдают, срываясь с небосвода! Тебя ждет участь наблюдать, как мир угасает, хотя ты и избавил меня от этой участи.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_2">
+            <Text>Наслаждайся своим жалким царством, пока можешь... больше ничто не важно. Я не важен... ты не важен... Совы! Я слышу сов!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_3">
+            <Text>Когда небеса захлестнет потоп, тебя тоже унесут волны. Ты оказал мне великую услугу - мне больше не придется этого видеть.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEFEATED_4">
+            <Text>Ты, быть может, и победил меня, но ты не остановишь то, что уже пришло в движение. Наши судьбы высечены в камне - лишь слезы богов могут смыть их письмена.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_1">
+            <Text>Надеюсь, день у тебя хорошим.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_2">
+            <Text>Приветствую.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_1">
+            <Text>Сомневаюсь, что мы еще встретимся.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_2">
+            <Text>Прощай.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_NEUTRAL">
+            <Text>Ну что ж, хорошо.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_1">
+            <Text>Зачем обманывать меня, когда времени осталось так мало?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_2">
+            <Text>Не мог бы ты предложить чуть больше?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_3">
+            <Text>Этого недостаточно.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_4">
+            <Text>Почти...</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_NEUTRAL">
+            <Text>Это не годится.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_NEUTRAL">
+            <Text>Ладно, бери. Знай, что это не поможет тебе, когда Долгий счет подойдет к концу.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
+            <Text>Что за бессмыслица? Неужели тебе нечего принести в жертву - это куда полезнее для тебя.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
+            <Text>Да падет на тебя гнев богов, если ты отвергнешь мое предложение.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
+            <Text>Мои предки говорят, что мне нужно больше богатства для богов. Дай мне это, чтобы мы оба могли дожить до конца.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_1">
+            <Text>Хорошо.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_2">
+            <Text>Почему нет?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_1">
+            <Text>Я вынужден отказать.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_2">
+            <Text>Нет, не думаю.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_1">
+            <Text>Слушаю.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_2">
+            <Text>Неважно - говори.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_3">
+            <Text>Ты решил встретить апокалипсис вместе со мной?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_4">
+            <Text>Снова здравствуй.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_3">
+            <Text>Прощай - возможно, навсегда.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_4">
+            <Text>Прощай.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_HAPPY">
+            <Text>Договорились.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_1">
+            <Text>Пусть это и конец света, но я обязан блюсти свою репутацию. Улучши предложение.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_2">
+            <Text>Это лучшее, что ты можешь предложить?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_3">
+            <Text>Ты почти у цели...</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_HAPPY">
+            <Text>Благодарю, но нет.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_HAPPY">
+            <Text>Да? Да! Я знаю, что этот щедрый дар расположит ко мне богов! Бери что пожелаешь!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_HAPPY">
+            <Text>Зачем красть у Пакаля? Неужели тебе нечем заняться до того, как мир обратится в прах?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_HAPPY">
+            <Text>Друг мой, кажется, я нашел способ спасти нас всех! Смотри же, смотри и прими мое предложение!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
+            <Text>Небеса, небеса требуют крови! Помоги мне, иначе Кисин и его демоны могут явиться за нами следующими.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_3">
+            <Text>Конечно.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_3">
+            <Text>Нет, это не подойдет.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_4">
+            <Text>Мы отказываемся.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_3">
+            <Text>Продолжай.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_4">
+            <Text>Я слушаю.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_5">
+            <Text>А, это ты.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GREETING_6">
+            <Text>Чего тебе?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_5">
+            <Text>Все, довольно.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_GOODBYE_6">
+            <Text>Убирайся.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_YES_ANGRY">
+            <Text>Договорились, хотя это уже и не важно.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_1">
+            <Text>Если не хочешь, чтобы твоя кровь следующей окропила мой алтарь, - пересмотри предложение.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_2">
+            <Text>Этого недостаточно.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_3">
+            <Text>Ты должен предложить больше.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
+            <Text>Почти, ничтожество...</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADE_NO_ANGRY">
+            <Text>Да падет на тебя проклятие предков! Ты разгневал богов своей дерзостью. Прочь!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_YES_ANGRY">
+            <Text>Да, принимай же свою погибель с распростертыми руками. Боги смеются над твоей жадностью!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRIBUTE_NO_ANGRY">
+            <Text>Это скоро уже ничего не будет значить, но я отказываю тебе исключительно из злобы.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_TRADEREQUEST_ANGRY">
+            <Text>Хотя я и мечтаю лишь об одном - пролить твою кровь на священном алтаре - я спрошу вежливо. Один раз.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DEMANDTRIBUTE_ANGRY">
+            <Text>Горе и погибель тем, кто не выполнит моих требований! Конец близится, а у меня еще немало подготовки для весьма торжественного жертвоприношения.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_AGREE_SHORT_4">
+            <Text>Полагаю, я должен согласиться.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_5">
+            <Text>Прошу прощения?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_6">
+            <Text>Это неприемлемо.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DISAGREE_SHORT_7">
+            <Text>Ты серьезно?!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_LETSHEARIT_5">
+            <Text>Ну, что на этот раз?</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_1">
+            <Text>Лишь один доживет до конца цикла Долгого счета, и уж точно не такой бессмысленный безбожник, как ты! Готовься к гибели.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_2">
+            <Text>Остается одна надежда, лишь одна. Если я одолею тебя - возможно, мне удастся возродить веру богов в людей и остановить нарастающие волны гибели.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_DECLAREWAR_3">
+            <Text>Да! Необходима жертва, какой еще не было! Я осушу слезы богов кровью всего твоего народа!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_1">
+            <Text>Да! Необходима жертва, какой еще не было! Я осушу слезы богов кровью всего твоего народа!</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_2">
+            <Text>Зачем этот маскарад и зловещий танец? Ничто из этого больше не имеет значения, ничто...</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_3">
+            <Text>Цикл заканчивается - я чувствую это. Это лишь начало - ты открыл врата зова конца времен.</Text>
+        </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL_ATTACKED_4">
+            <Text>Что это значит? Ты хочешь приблизить конец дней? Что ж, давай же опустошим этот и без того обреченный мир.</Text>
+        </Row>
+	</Language_RU_RU>
+</GameData>

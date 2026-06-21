@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_TECH_ARCHITECTURE">
+			<Text>Архитектура</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_ARCHITECTURE_TITLE">
+			<Text>Архитектура</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_GUILDS">
+			<Text>Гильдии</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_GUILDS_TITLE">
+			<Text>Гильдии</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_COMBINED_ARMS">
+			<Text>Общевойсковой бой</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_TITLE">
+			<Text>Общевойсковой бой</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_DRAMA">
+			<Text>Драма и поэзия</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_DRAMA_TITLE">
+			<Text>Драма и поэзия</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION">
+			<Text>Индустриализация</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_TITLE">
+			<Text>Индустриализация</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS">
+			<Text>Мобильная тактика</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_TITLE">
+			<Text>Мобильная тактика</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_TELECOM">
+			<Text>Телекоммуникации</Text>
+		</Row>
+<Row Tag="TXT_KEY_TECH_TELECOM_TITLE">
+			<Text>Телекоммуникации</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

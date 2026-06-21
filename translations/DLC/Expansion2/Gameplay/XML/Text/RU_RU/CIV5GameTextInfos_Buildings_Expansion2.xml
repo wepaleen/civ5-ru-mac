@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BUILDING_COLOSSUS">
+			<Text>Колосс</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_FORBIDDEN_PALACE">
+			<Text>Запретный дворец</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GLOBE_THEATER">
+			<Text>Театр Глобус</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GREAT_LIBRARY">
+			<Text>Большая библиотека</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GREAT_LIGHTHOUSE">
+			<Text>Большой маяк</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_GREAT_WALL">
+			<Text>Великая стена</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HAGIA_SOPHIA">
+			<Text>Собор Святой Софии</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HANGING_GARDEN">
+			<Text>Висячие сады</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_KREMLIN">
+			<Text>Кремль</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_LOUVRE">
+			<Text>Лувр</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ORACLE">
+			<Text>Оракул</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PORCELAIN_TOWER">
+			<Text>Фарфоровая башня</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PYRAMID">
+			<Text>Пирамиды</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_UFFIZI">
+			<Text>Уффици</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BROADWAY">
+			<Text>Бродвей</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_RED_FORT">
+			<Text>Красный форт</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PRORA_RESORT">
+			<Text>Прора</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_BOROBUDUR">
+			<Text>Боробудур</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_PARTHENON">
+			<Text>Парфенон</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_EAST_INDIA">
+			<Text>Ост-Индская компания</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER">
+			<Text>Национальный визит-центр</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HOTEL">
+			<Text>Отель</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CARAVANSARY">
+			<Text>Караван-сарай</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_AIRPORT">
+			<Text>Аэропорт</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_THEATRE">
+			<Text>Зоопарк</Text>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD">
+			<Text>Гильдия писателей</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD">
+			<Text>Гильдия художников</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD">
+			<Text>Гильдия музыкантов</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_IKANDA_DESC">
+			<Text>Иканда</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_DESC">
+			<Text>Герцогская конюшня</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC">
+			<Text>Королевская библиотека</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_CANDI_DESC">
+			<Text>Канди</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_HANSE_DESC">
+			<Text>Ганза</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION">
+			<Text>Международная космическая станция</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+	</Language_RU_RU>
+</GameData>

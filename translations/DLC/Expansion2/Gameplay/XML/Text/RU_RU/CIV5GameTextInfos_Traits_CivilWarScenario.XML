@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN_SHORT">
+			<Text>План "Анаконда"</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN">
+			<Text>В этом сценарии на судно могут садиться только Военные инженеры и сухопутные юниты Союза.</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL_SHORT">
+			<Text>Клич повстанца</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL">
+			<Text>Юниты автоматически получают повышение с бонусом +10% к Боевой мощи.</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

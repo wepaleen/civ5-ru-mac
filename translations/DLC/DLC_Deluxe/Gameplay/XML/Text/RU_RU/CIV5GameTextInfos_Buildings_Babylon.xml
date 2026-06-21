@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC">
+			<Text>Стены Вавилона</Text>
+			<Plurality>2</Plurality>
+		</Row>
+	</Language_RU_RU>
+</GameData>

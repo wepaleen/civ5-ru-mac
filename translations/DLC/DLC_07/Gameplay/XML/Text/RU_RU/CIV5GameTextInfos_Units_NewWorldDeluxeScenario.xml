@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_HEADING">
+      <Text>Сокровище</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER">
+			<Text>Пращник</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_TERCIO">
+			<Text>Терцио</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_CONQUISTADOR">
+			<Text>Конкистадор</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLAUVELT">
+			<Text>Абрахам Блаувелт</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLOCK">
+			<Text>Адриан Блок</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_PORTUGUESE_EXPLORER">
+			<Text>Педру Кабрал</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CABRILLO">
+			<Text>Хуан Кабрильо</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_COELHO">
+			<Text>Гонсалу Коэлью</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CORTE_REAL">
+			<Text>Мигел Корте-Реал</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_DE_WEERT">
+			<Text>Себальд де Верт</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LAVRADOR">
+			<Text>Жоан Лаврадор</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LE_MARIE">
+			<Text>Якоб ле Мэр</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_MARTINS">
+			<Text>Алвару Мартинш</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_DUTCH_EXPLORER">
+			<Text>Оливье ван Норт</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_VAN_RYEN">
+			<Text>Ян ван Рейн</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS">
+			<Text>Всадник команчей</Text>
+		</Row>
+<Row Tag="TXT_KEY_UNIT_MYSTIC_WARRIOR">
+			<Text>Мистический воин</Text>
+		</Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST">
+      <Text>Атлатлист</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
+      <Text>Каперское судно</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_LEON">
+      <Text>Де Леон</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_NARVAEZ">
+      <Text>Нарваэс</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_VACA">
+      <Text>Де Вака</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_MAGELLAN">
+      <Text>Магеллан</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_SOTO">
+      <Text>Де Сото</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ULLOA">
+      <Text>Ульоа</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_VESPUCCI">
+      <Text>Веспуччи</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CARTIER">
+      <Text>Картье</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ROBERVAL">
+      <Text>Робервал</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHAMPLAIN">
+      <Text>Шамплен</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_RUT">
+      <Text>Рат</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHANCELLOR">
+      <Text>Ченслор</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_WILLOUGHBY">
+      <Text>Уиллоуби</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_GRENVILLE">
+      <Text>Гренвилл</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_HUDSON">
+      <Text>Гудзон</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORTES">
+      <Text>Кортес</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORDOVA">
+      <Text>Кордова</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_PIZARRO">
+      <Text>Писарро</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_ORELLANA">
+      <Text>Орельяна</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORONADO">
+      <Text>Коронадо</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MONTEJO">
+      <Text>Монтехо</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_BALBOA">
+      <Text>Бальбоа</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_VILLEGAGNON">
+      <Text>Виллеганьон</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_LAUDONNIERRE">
+      <Text>Лодоньер</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_RIBAULT">
+      <Text>Рибо</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_DEVEREUX">
+      <Text>Девере</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_NORREYS">
+      <Text>Норрис</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MOUNTJOY">
+      <Text>Маунтджой</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_SMITH">
+      <Text>Смит</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_WINTHROP">
+      <Text>Уинтроп</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_MENENDEZ">
+      <Text>Менендес</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_SANTA_CRUZ">
+      <Text>Санта-Крус</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FLEURY">
+      <Text>Флери</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_CLERC">
+      <Text>Ле Клерк</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_TESTU">
+      <Text>Ле Тестю</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DE_SORES">
+      <Text>Де Сорес</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DRAKE">
+      <Text>Дрейк</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_RALEIGH">
+      <Text>Рэли</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_HAWKINS">
+      <Text>Хокинс</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_CAVENDISH">
+      <Text>Кавендиш</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FROBISHER">
+      <Text>Фробишер</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_GILBERT">
+      <Text>Гилберт</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

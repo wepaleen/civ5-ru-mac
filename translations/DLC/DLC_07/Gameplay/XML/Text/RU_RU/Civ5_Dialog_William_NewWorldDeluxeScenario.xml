@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_1">
+      <Text>Я - Вильгельм Оранский, правитель Нидерландов. Вам что-то нужно? Я весьма занят.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_2">
+      <Text>Какое у вас дело в Нидерландах? Я - Вильгельм Оранский, их суверенный правитель.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_FIRSTGREETING_3">
+      <Text>Добро пожаловать ко двору Вильгельма Оранского, отца Нидерландов. Не стойте просто так... чего вы хотите?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_1">
+      <Text>Какая трата времени.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_2">
+      <Text>Это нелепо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WARBLUFF_3">
+      <Text>Как глупо с вашей стороны.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WINWAR_1">
+      <Text>Пусть это послужит вам уроком... надеюсь, его запомнят.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_WINWAR_2">
+      <Text>Вы ничем не лучше жалкого иностранного наемника. Вам придется постараться куда больше, чтобы победить меня.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LOSEWAR_1">
+      <Text>...Невероятно! Каким обманом вы меня одолели?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LOSEWAR_2">
+      <Text>Я это запомню. Даю вам слово.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_1">
+      <Text>Боже мой, помилуй мою душу; Боже мой, помилуй этих бедных людей моих.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_2">
+      <Text>Быть может, так лучше... по крайней мере, я не увижу, как вы уничтожаете мою любимую страну.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEFEATED_3">
+      <Text>Проклятье! Я надеялся избавить свой народ от всякого иноземного ига, но, похоже, ему суждено и дальше страдать под вашим.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_1">
+      <Text>Добрый день.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_2">
+      <Text>Приветствую.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_1">
+      <Text>До следующей встречи.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_2">
+      <Text>Прощайте.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_NEUTRAL">
+      <Text>Хорошо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>Я по-прежнему не понимаю, что во всем этом должно меня заинтересовать.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>Вы не можете предложить немного больше?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>Этого недостаточно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>Почти...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_NEUTRAL">
+      <Text>Меня это не интересует.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL">
+      <Text>В последний раз, обещаю вам.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_NEUTRAL">
+      <Text>...Вы серьезно?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_NEUTRAL">
+      <Text>Ну же, думаю, у меня есть кое-что, что вас заинтересует.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL">
+      <Text>Небольшой знак вашей признательности был бы сейчас весьма кстати.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_1">
+      <Text>Хорошо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_2">
+      <Text>Очень хорошо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_1">
+      <Text>Я вынужден отказать.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_2">
+      <Text>...Нет.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_1">
+      <Text>Что?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_2">
+      <Text>Да.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_3">
+      <Text>Добро пожаловать.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_4">
+      <Text>И снова здравствуйте.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_3">
+      <Text>Прощайте.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_4">
+      <Text>До свидания.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_HAPPY">
+      <Text>Договорились.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_1">
+      <Text>Я не могу принять это с чистой совестью, еще нет...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_2">
+      <Text>Это лучшее, что вы можете предложить?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_3">
+      <Text>Вы почти у цели...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_HAPPY">
+      <Text>...Нет.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
+      <Text>Мы всегда готовы помочь союзнику в беде.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
+      <Text>Не в этот раз, друг. У нас хватает собственных забот.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_HAPPY">
+      <Text>Думаю, оба наших народа могут извлечь выгоду из этого соглашения.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
+      <Text>Ваша помощь была бы весьма кстати, друг. Ваша щедрость и великодушие широко известны.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_3">
+      <Text>Конечно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_3">
+      <Text>Конечно нет.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_4">
+      <Text>Мы отказываем.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_3">
+      <Text>Продолжайте.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_4">
+      <Text>Я слушаю.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_5">
+      <Text>А, это вы.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GREETING_6">
+      <Text>Чего вы хотите?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_5">
+      <Text>На этом все.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_GOODBYE_6">
+      <Text>Убирайтесь.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_YES_ANGRY">
+      <Text>Договорились.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_1">
+      <Text>Вы начинаете напоминать мне мою вторую жену, а она была совершенно безумной...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_2">
+      <Text>Этого недостаточно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_3">
+      <Text>Вы должны предложить лучшее.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_4">
+      <Text>Почти...</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADE_NO_ANGRY">
+      <Text>Начинаю подозревать, что это какой-то заговор с целью нейтрализовать меня. Убирайтесь!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_YES_ANGRY">
+      <Text>...Ладно.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRIBUTE_NO_ANGRY">
+      <Text>Ни за какие условия на свете это никогда не станет приемлемым.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_TRADEREQUEST_ANGRY">
+      <Text>Мой народ важнее моей гордости, как горько это ни признавать.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DEMANDTRIBUTE_ANGRY">
+      <Text>Я позволю вам прозябать в вашем жалком существовании, если вы умиротворите меня.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_AGREE_SHORT_4">
+      <Text>Полагаю, мне придется.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_5">
+      <Text>Прошу прощения?</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_6">
+      <Text>Это неприемлемо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DISAGREE_SHORT_7">
+      <Text>Вы не можете быть серьезны!</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_LETSHEARIT_5">
+      <Text>Говорите.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_1">
+      <Text>Вы показали себя негодным правителем, и я больше не в силах слышать плач вашего народа. Он будет освобожден от вашей тирании.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_2">
+      <Text>Вы знаете, что сделали, и это привело нас к столь... прискорбному стечению обстоятельств.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_DECLAREWAR_3">
+      <Text>Как бы я ни ненавидел войну, я считаю уничтожение вашего существования своего рода общественной службой.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_1">
+      <Text>Такое бездумное пренебрежение жизнями людей не будет терпимо.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_2">
+      <Text>...Пусть так.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_ATTACKED_3">
+      <Text>Вы называете себя правителем людей, но я вижу лишь варвара, облаченного в пышные одежды.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_QUOTE_1">
+      <Text>Есть один верный способ никогда не видеть гибели своей страны - я умру в последнем окопе.</Text>
+    </Row>
+<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM_QUOTE_2">
+      <Text>Необязательно надеяться, чтобы действовать, и необязательно добиваться успеха, чтобы продолжать.</Text>
+    </Row>
+	</Language_RU_RU>
+</GameData>

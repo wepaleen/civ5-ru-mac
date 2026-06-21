@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">
+			<Text>Полинезийский</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_POLYNESIA_DESC">
+			<Text>Полинезийская Империя</Text>
+		</Row>
+<Row Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC">
+			<Text>Полинезия</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>

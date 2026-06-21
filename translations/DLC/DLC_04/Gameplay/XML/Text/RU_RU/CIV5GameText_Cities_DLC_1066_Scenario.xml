@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Русская локализация -->
+<GameData>
+	<Language_RU_RU>
+<Row Tag="TXT_KEY_CITY_NAME_BIRSAY">
+			<Text>Бирсей</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_THURSO">
+			<Text>Терсо</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_STORNOWAY">
+			<Text>Сторноуэй</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_FISKAVAIG">
+			<Text>Фискавейг</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_IONA">
+			<Text>Иона</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_BAYEUX">
+			<Text>Байе</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_SAINT_VALERY">
+			<Text>Сен-Валери</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_WAREHAM">
+			<Text>Уэрем</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_CHICHESTER">
+			<Text>Чичестер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_NORTHAMPTON">
+			<Text>Нортгемптон</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_THETFORD">
+			<Text>Тетфорд</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_STAMFORD">
+			<Text>Стэмфорд</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_STAFFORD">
+			<Text>Стаффорд</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_CHESTER">
+			<Text>Честер</Text>
+		</Row>
+<Row Tag="TXT_KEY_CITY_NAME_LINCOLN">
+			<Text>Линкольн</Text>
+		</Row>
+	</Language_RU_RU>
+</GameData>
